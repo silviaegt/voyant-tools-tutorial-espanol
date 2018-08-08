@@ -1,63 +1,133 @@
 # Análisis de corpus con Voyant Tools
 
 
+El análisis de corpus es un tipo de [análisis de contenido](http://vocabularios.caicyt.gov.ar/portal/index.php?task=fetchTerm&arg=26&v=42), que permite hacer comparaciones a gran escala entre los textos contenidos en dichos corpus.
 
-## Creand
+Desde el inicio de la computación, lingüistas y especialistas de la [recuperación de la información](http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&arg=178&v=42) han creado y utilizado software para apreciar patrones que no son evidentes en la lectura o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de ciertas palabras, o las expresiones que distinguen a un grupo de textos frente a otros.
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet. 
 
-## Create files and folders
+Como se ha dicho en este otro [tutorial](https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc), 
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Al finalizar este tutorial, tendrás la capacidad de:
 
-## Switch to another file
+* Armar un corpus en texto plano
+* Pensar y aplicar diferentes técnicas de segmentación de corpus
+* Identificar características básicas del corpus:
+	* Extensión de los documentos subidos
+	* Densidad léxica (llamada densidad de vocabulario en la plataforma)
+	* Promedio de palabras por oración
+	* Relevancia (llamadas "palabras distintivas")
+* Realizar consultas específicas sobre el corpus:
+	*  Buscar palabras clave en contexto
+	* Identificar patrones de uso de un término
+	* Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia, curtosis, asimetría estadística)
+* Exportar los datos y las visualizaciones en diferentes formatos (csv, png, html)
 
-All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
+## Creando un corpus en texto plano
 
-## Rename a file
+Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial y tampoco  o conocimiento extra.
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+### 1. Buscar textos
+Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos anuales de presidentes de Argentina, Chile, Colombia, México y Perú (¡gracias [Pamela Sertzen](https://twitter.com/madvivacious)!). 
 
-## Delete a file
+### 2. Copiar en editor de texto plano
+Una vez localizada la información, el segundo paso es copiar el texto que te interesa desde la primera palabra dicha hasta la última y guardarla en un editor de texto sin formato. Por ejemplo:
+* en Windows podría guardarse en Bloc de Notas
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+![Bloc de notas](https://upload.wikimedia.org/wikipedia/en/4/44/Windows_Notepad.png)
+* en Mac, en TextEdit; 
+![Text Edit](https://upload.wikimedia.org/wikipedia/commons/7/7a/TextEdit_1.10_screenshot.png)
+* y en Linux, en Gedit.
+![Gedit](https://upload.wikimedia.org/wikipedia/commons/7/7a/TextEdit_1.10_screenshot.png)
 
-## Export a file
+### 3. Guardar archivo
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+Cuando guardes el texto debes considerar tres cosas esenciales:
+
+La primera es que, si los textos de tu corpus están en español, deberás **guardarlos en UTF-8**, que es un formato de codificación de caracteres estándar para este idioma. 
+
+(gif de cómo guardar)
+
+> **¿Qué es utf-8?** Si bien en nuestra pantalla vemos que al teclear una "É" aprece una "É"; para una computadora "É" es una serie de ceros y unos que son interpretados en imagen depiendo del "traductor" o "codificador" que se esté usando. El codificador que contiene códigos binarios para todas los caracteres que se usan en el español es UTF-8. Siguiendo con el ejemplo "11000011", es una cadena de ocho bits --es decir, **ocho** espacios de información-- que en UTF-**8** son interpretados como "É"
+
+La segunda es que **el nombre de tu archivo no debe contener acentos ni espacios**, esto asegurará que pueda ser abierto en otros sistemas operativos
+
+> **¿Por qué evitar acentos y espacios en los nombres de archivo?** Por razones similares a el inciso anterior, un archivo que se llame Ébano.txt no siempre será entendido de forma correcta por todos los sistemas operativos pues varios tienen otro codificador por defecto. Muchos usan ASCII, por ejemplo, que sólo tiene siete bits de manera que el último bit (1) de "11000011" es interpretado como el inicio del siguiente caracter y se descuadra la interpretación.
+
+La tercera es que es una buena práctica integrar ciertos metadatos de contexto (v.g. fecha, género, autor, origen) en el nombre del archivo que te permitan partir tu corpus según diferentes criterios y también leer mejor los resultados. Para este tutorial hemos nombrado los archivos con el año del discurso presidencial, el país del discurso y el apellido de quien profirió el disurso. 
 
 
-# Synchronization
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+## Cargar el corpus
 
-There are two types of synchronization and they can complement each other:
 
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
+1.  Cargar 
+(seleccionas documentos en tu finder/administrador de archivos)
 
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+2.  Filtrar palabras comunes (o stopwords)
+Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
 
-## Open a file
+![](https://lh4.googleusercontent.com/mRDVAW-sQjBNA9tzcplvtSfwQ4cvIGvjY4HPXpZdbAlSrEoPFHiUjBZehYJjV_gUZRPQ8cMdh6kgCrrEAEa9TelavQ1b79fz7CtcJXn0Q1lnKgecEOfYdXgEbk8fevb0Ds4drtaR)
 
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+Dar clic en editar lista
 
-## Save a file
+![](https://lh5.googleusercontent.com/BbkeB4jyWyNgvybCCSGXcAzFmav-3p9QY-iQzx7JAFKOp31Cw4Cc4yyLt8ZPyie91XrgPI-AltY6vi3zAnpeLvSoyqDLuAXcmPOk92-QHX9MP2rjPLUKX6nBfRuoOHz0Dk9RsJAs)
 
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
+Agregar palabras “ruido”, siempre separadas con “enter”
 
-## Synchronize a file
+![](https://lh4.googleusercontent.com/fTmmCqlIGfWAf4HLGSmqwzNFs6bwO8b7qjeeJSJ5HoLZGde8WhMWxUMSlGTXpfov9yn2cyFCZvU6ZOhhlFTQ-vYTaDmqI9za4YYBeflzVEVTA5lAKu3Z494RbLLkYwaSr8Cyv13Z)
 
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
+  
 
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+3. Ver palabras en contexto
 
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+En la barra libre inferior esquina izquierda, escribir palabra que se desea analizar
 
-## Manage file synchronization
+![](https://lh3.googleusercontent.com/GSxxs2gtNPI800v_yfoBXoUUCNldLjiuhsO-ViIHOTTU5_vM1cVPAeLWz_yXZNQcTUfZPcwx-LrNETzKNHhlUSd-bgFygt67ConYsVBFmWYOWSwMIrxu9JY1s4ClIi4O0Ku3Al2g)
 
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+Para exportar los datos (la opción te da un txt separado por tabulación) se da clic en el cuadro con flecha y luego en la opción “exportar datos actuales” y se selecciona la última opción
+
+  
+
+![](https://lh5.googleusercontent.com/oOAxfmF2GqQPAdoDJu04S-GTXdagRCJWv8dXlECYTzg35mOZR249avA0vYz5dFJDy6xrCneWJgQTr_2D1PHp82ufGRzubhPrIy3H1ZaWGI0B0BUaODvkh_JeouYXP73p3MM2IbFY)
+
+Normalmente copy paste funciona. Si no lo hace guardar en txt y luego abrir excel y dar clic en datos y después “Desde un archivo de texto”
+
+![](https://lh4.googleusercontent.com/Et1FZZXYzH37jBv5qYv6LL8TFCjadW-mcHyQFoJQyj2pRYm4B92Q-8E8_h59m4Q8I0d0cjZhMAD-5MensLzs-p-qrCxqtye-7XXJII24bV84qybYG5R6IwTtjjroGkZx1PLCs32B)
+
+
+  
+4. Crear árbol de palabras
+
+En el icono que parece “ventana windows” dar clic
+
+5. Obtener estadísticas comparadas de los documentos (densidad, palabras diferenciadas, etc)
+
+  
+
+![](https://lh5.googleusercontent.com/02yX9TWSJVDrlml-T_oS0Zw1ZI9PD1stAyjkYD1YKK50rrR49nhh2mP-SD70X3wNPYDsKZRh80nsGyBpGmkyohsDX-tjM4WZZcZ-SoSuWP_kctOc3b1cbHLloQy2r0Zd55hm8nsC)
+
+tf-idf_{t,d} = (1 +\log tf_{t,d}) \cdot \log \frac{N}{df_t}
+
+
+**HTML**
+
+El Lenguaje para el Marcado de Documentos de Hipertexto (HyperText Markup Language_) es un lenguaje estandarizado para dar formato a documentos que sirvan para crear páginas web y aplicaciones web
+
+
+
+```mermaid
+graph LR
+A[Crear un corpus] --> B((Explorar))
+A --> C((Consultar))
+B --> D{Interpretar}
+C --> D
+```
+## Bibliografía
+
+Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voyant-tools.org/](http://voyant-tools.org/).
+
 
 
 # Publication
@@ -133,13 +203,10 @@ Alice->John: Yes... John, how are you?
 
 And this will produce a flow chart:
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTI0ODAyXX0=
+eyJoaXN0b3J5IjpbLTIxMDIxOTY3NDhdfQ==
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU3MzU4Njg4NywtNDE5MjQ4MDJdfQ==
 -->
