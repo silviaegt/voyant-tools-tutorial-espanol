@@ -65,10 +65,11 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 1.  Cargar 
 (seleccionas documentos en tu finder/administrador de archivos)
 
+![Cargar archivos](https://github.com/silviaegt/voyant-tools-tutorial-espanol/blob/master/img/cargar.png)
 2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
 
-![](https://lh4.googleusercontent.com/mRDVAW-sQjBNA9tzcplvtSfwQ4cvIGvjY4HPXpZdbAlSrEoPFHiUjBZehYJjV_gUZRPQ8cMdh6kgCrrEAEa9TelavQ1b79fz7CtcJXn0Q1lnKgecEOfYdXgEbk8fevb0Ds4drtaR)
+
 
 Dar clic en editar lista
 
@@ -209,5 +210,5 @@ And this will produce a flow chart:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MDEwODM4LC0yMTAyMTk2NzQ4XX0=
+eyJoaXN0b3J5IjpbNzk0MjM0NDEyLC0yMTAyMTk2NzQ4XX0=
 -->
