@@ -66,7 +66,9 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 (seleccionas documentos en tu finder/administrador de archivos)
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)2.  Filtrar palabras comunes (o stopwords)
+![Image of Yaktocat](img/cargar.png)
+
+2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
 
 
@@ -210,5 +212,6 @@ And this will produce a flow chart:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzExNTk0OCwtMjEwMjE5Njc0OF19
+eyJoaXN0b3J5IjpbNjA2ODA2MTY1LC01OTMxMTU5NDgsLTIxMD
+IxOTY3NDhdfQ==
 -->
