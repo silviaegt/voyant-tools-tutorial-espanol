@@ -63,10 +63,7 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 
 
 1.  Cargar 
-(seleccionas los documentos en tu administrador de archivos)
-
-![Cargar
-](https://get.google.com/albumarchive/101321009468734779560/album/AF1QipNEQ5fzsgu80sYxxxsi5O2PQdUdbkEjZxOVXuxk/AF1QipOamE6AB1HiYqDUaLI-T2ucovPwlsfGafZGynlx?source=pwa#6587449292953579042 "Cargar archivos")
+(seleccionas documentos en tu finder/administrador de archivos)
 
 2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
@@ -99,7 +96,11 @@ Normalmente copy paste funciona. Si no lo hace guardar en txt y luego abrir exce
 
 ![](https://lh4.googleusercontent.com/Et1FZZXYzH37jBv5qYv6LL8TFCjadW-mcHyQFoJQyj2pRYm4B92Q-8E8_h59m4Q8I0d0cjZhMAD-5MensLzs-p-qrCxqtye-7XXJII24bV84qybYG5R6IwTtjjroGkZx1PLCs32B)
 
+  
 
+![
+
+![
   
 4. Crear árbol de palabras
 
@@ -110,14 +111,6 @@ En el icono que parece “ventana windows” dar clic
   
 
 ![](https://lh5.googleusercontent.com/02yX9TWSJVDrlml-T_oS0Zw1ZI9PD1stAyjkYD1YKK50rrR49nhh2mP-SD70X3wNPYDsKZRh80nsGyBpGmkyohsDX-tjM4WZZcZ-SoSuWP_kctOc3b1cbHLloQy2r0Zd55hm8nsC)
-
-
-
-$$
-tf-idf_{t,d} = (1 +\log tf_{t,d}) \cdot \log \frac{N}{df_t}
-$$
-
-
 
 
 
@@ -189,6 +182,9 @@ You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
@@ -214,7 +210,4 @@ And this will produce a flow chart:
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIxMDIxOTY3NDhdfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAzNDk3NTRdfQ==
 -->
