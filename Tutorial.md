@@ -213,7 +213,8 @@ And this will produce a flow chart:
 
 ## Notas al pie
 
-<sup>1</sup> Existen formas más complejas para cargar corpus que puedes consultar en la documentación en inglés,
+<sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjY3MTAwMSwtMTIxMjgxNzM0Ml19
+eyJoaXN0b3J5IjpbLTIwNTk1MzQzMTMsLTEyMTI4MTczNDJdfQ
+==
 -->
