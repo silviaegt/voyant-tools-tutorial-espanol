@@ -211,7 +211,9 @@ Alice->John: Yes... John, how are you?
 
 And this will produce a flow chart:
 
+## Notas al pie
 
+<sup>1</sup> Existen formas más complejas para cargar corpus que puedes consultar en la documentación en inglés,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDkzNTkyNCwtMTIxMjgxNzM0Ml19
+eyJoaXN0b3J5IjpbLTU5MjY3MTAwMSwtMTIxMjgxNzM0Ml19
 -->
