@@ -66,7 +66,7 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 (seleccionas los documentos en tu administrador de archivos)
 
 ![Cargar
-](https://picasaweb.google.com/101321009468734779560/6587449291157398449#6587449292953579042 "Cargar archivos")
+](https://get.google.com/albumarchive/101321009468734779560/album/AF1QipNEQ5fzsgu80sYxxxsi5O2PQdUdbkEjZxOVXuxk/AF1QipOamE6AB1HiYqDUaLI-T2ucovPwlsfGafZGynlx?source=pwa#6587449292953579042 "Cargar archivos")
 
 2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
@@ -216,6 +216,6 @@ And this will produce a flow chart:
 eyJoaXN0b3J5IjpbLTIxMDIxOTY3NDhdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzIxNDI1NSwxMzQ3Mjk1MTk5LC00MT
-kyNDgwMl19
+eyJoaXN0b3J5IjpbLTE4MjAzNDk3NTQsMTk1NzIxNDI1NSwxMz
+Q3Mjk1MTk5LC00MTkyNDgwMl19
 -->
