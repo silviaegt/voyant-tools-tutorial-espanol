@@ -99,13 +99,8 @@ Para exportar los datos (la opción te da un txt separado por tabulación) se da
 Normalmente copy paste funciona. Si no lo hace guardar en txt y luego abrir excel y dar clic en datos y después “Desde un archivo de texto”
 
 ![](https://lh4.googleusercontent.com/Et1FZZXYzH37jBv5qYv6LL8TFCjadW-mcHyQFoJQyj2pRYm4B92Q-8E8_h59m4Q8I0d0cjZhMAD-5MensLzs-p-qrCxqtye-7XXJII24bV84qybYG5R6IwTtjjroGkZx1PLCs32B)
+ 
 
-  
-
-![
-
-![
-  
 4. Crear árbol de palabras
 
 En el icono que parece “ventana windows” dar clic
@@ -215,6 +210,6 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTk1MzQzMTMsLTEyMTI4MTczNDJdfQ
+eyJoaXN0b3J5IjpbLTIwNzc3NDE5NzUsLTEyMTI4MTczNDJdfQ
 ==
 -->
