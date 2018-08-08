@@ -62,7 +62,7 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 ## Cargar el corpus
 
 
-1.  En la página de entrada de Voyant Tools encontrarás una caja blanca con cuatro opciones para cargar textos: pegando la(s) dirección(es) web de el / los texto)sen el espacio
+1.  En la página de entrada de Voyant Tools encontrarás cuatro opciones para cargar textos. Las dos primeraas opciones son en el cuadro blanco donde puedes ya pegar directamente un texto que hayas copiado de algún lugar, o bienla(s) dirección(es) web de el / los texto(s) a analizar; en el espacio
 
 
 ![Image of Yaktocat](img/cargar.png)
@@ -211,5 +211,5 @@ And this will produce a flow chart:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDIyMDU3XX0=
+eyJoaXN0b3J5IjpbNjcwMjExNTI4XX0=
 -->
