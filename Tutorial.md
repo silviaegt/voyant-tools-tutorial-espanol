@@ -63,7 +63,7 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 
 
 1.  Cargar 
-(seleccionas documentos en tu finder/administrador de archivos)
+(seleccionas los documentos en tu administrador de archivos)
 
 2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
@@ -108,7 +108,15 @@ En el icono que parece “ventana windows” dar clic
 
 ![](https://lh5.googleusercontent.com/02yX9TWSJVDrlml-T_oS0Zw1ZI9PD1stAyjkYD1YKK50rrR49nhh2mP-SD70X3wNPYDsKZRh80nsGyBpGmkyohsDX-tjM4WZZcZ-SoSuWP_kctOc3b1cbHLloQy2r0Zd55hm8nsC)
 
+
+
+$$
 tf-idf_{t,d} = (1 +\log tf_{t,d}) \cdot \log \frac{N}{df_t}
+$$
+
+
+
+
 
 
 **HTML**
@@ -178,9 +186,6 @@ You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
@@ -208,5 +213,5 @@ And this will produce a flow chart:
 eyJoaXN0b3J5IjpbLTIxMDIxOTY3NDhdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzU4Njg4NywtNDE5MjQ4MDJdfQ==
+eyJoaXN0b3J5IjpbNjA5MTY2MDY1LC00MTkyNDgwMl19
 -->
