@@ -65,10 +65,8 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 1.  Cargar 
 (seleccionas documentos en tu finder/administrador de archivos)
 
-[voyant-tools-tutorial-espanol](https://github.com/silviaegt/voyant-tools-tutorial-espanol)/[img](https://github.com/silviaegt/voyant-tools-tutorial-espanol/tree/master/img)/**cargar.png**
 
-![Cargar archivos](https://github.com/silviaegt/voyant-tools-tutorial-espanol/tree/master/img/cargar.png)
-2.  Filtrar palabras comunes (o stopwords)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
 
 
@@ -212,5 +210,5 @@ And this will produce a flow chart:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzM2MDg1NiwtMjEwMjE5Njc0OF19
+eyJoaXN0b3J5IjpbLTU5MzExNTk0OCwtMjEwMjE5Njc0OF19
 -->
