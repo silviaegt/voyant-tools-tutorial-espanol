@@ -99,35 +99,36 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 
 Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenemos una vista de pájaro sobre algunas estadísticas de nuestro corpus por lo que funciona como un buen punto de partida.
 
-
 #### Número de textos, palabras y palabras únicas
 La primera frase que leemos se ve algo como esto: 
 >Este corpus tiene 25 documentos con 261,032  total de palabras y 18,550 formulario de palabra única. Creado  hace 8 horas atrás [el texto es producto de una traducción semi-automática del inglés y por eso se lee raro]
 
 De entrada con esta información sabemos exactamente cuántos documentos distintos fueron cargados (25); cuántas palabras en total hay (261,032); y cuántas palabras distintas y únicas existen (18,550).
 
-#### :pencil2: Actividad
+#### :pencil2: *Actividad*
 Si nuestro corpus se compusiera de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? 
 Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabras únicas.
 
-#### *Extensión de documentos*
+#### Extensión de documentos
 Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece lo siguiente:
 
 -   Más largo:  [2008_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (20702);  [2007_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (20390);  [2006_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (18619);  [2010_cl_pinera](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (16982);  [2007_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (15514)
 -   Más corto:  [2006_pe_toledo](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (1289);  [2006_mx_fox](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (2450);  [2008_mx_calderon](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (3317);  [2006_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (4709);  [2009_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (5807)
 
-#### :pencil2: Actividad
+#### :pencil2: *Actividad*
 1. ¿Qué podemos concluir sobre los textos más largos?, ¿qué podemos decir sobre los más cortos?
 2. ¿Para qué nos servirá saber la longitud de los textos?
 3. ¿Qué nos dice la gráfica a la derecha del título de esta sección?
 
+
+#### Extensión de documentos
 
 
 ### Términos frecuentes 
 
 El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
 
-#### :pencil2: Actividad:
+#### :pencil2: *Actividad*
 a) ¿Qué palabras son las más frecuente en el corpus?
 b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
@@ -135,7 +136,7 @@ b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
 La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Un procedimiento común para obtener palabras relevantes es el de filtrar las unidades léxicas gramaticales o _palabras vacías_: artículos, preposiciones, interjecciones, pronombres, etc. (Peña y Peña, 2015)-
 
-#### :pencil2: Actividad:
+#### :pencil2: *Actividad*
 a) ¿Qué palabras vacías están en la nube de palabras?
 b) ¿Cuáles eliminarías y por qué?
 
@@ -178,7 +179,7 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 > **"contra la pobreza"**: buscar la frase exacta
 >  **"pobreza extrema"~ 5**:  buscar los términos dentro de las comillas, el orden no importa, y pueden haber hasta 5 palabras de por medio (esa condición regresaría frases cómo "la extrema desigualdad y la pobreza" donde se encuentra la palabra "pobreza" y "extrema" 
 
-#### Actividad:
+#### :pencil2: *Actividad*
 1. Busca el uso de algún término que te parezca interesante, utiliza alguna de las estrategias de la consulta avanzada
 2. Ordena las filas usando las diferentes columnas (Documento, Izquierda, Derecha y Posición): ¿qué conclusiones puedes derivar sobre tus términos utilizando la información de estas columnas?
 > **Ojo**: el orden de las palabras en la columna "Izquerda" es inverso; es decir, de derecha a izquierda desde la palabra clave.
@@ -272,11 +273,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDk0ODc3MSwxODA3MDU0Mjk5LDQ5Nj
-AzOTM3NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2MDE0
-MDQsLTY1NDk4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLD
-E2NTU5MDgxODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMTg0
-NjQzLDE5ODc5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOS
-wxODkyOTEzMTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMTk0
-MzUxNDc4NV19
+eyJoaXN0b3J5IjpbLTE4MDcyNDM1MDMsMTgwNzA1NDI5OSw0OT
+YwMzkzNzUsLTE3MTA1MzU0ODQsLTIwNTE4NzA0MjAsMTg4NjAx
+NDA0LC02NTQ5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMi
+wxNjU1OTA4MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4
+NDY0MywxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMD
+ksMTg5MjkxMzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLTE5
+NDM1MTQ3ODVdfQ==
 -->
