@@ -99,6 +99,8 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 
 Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenemos una vista de pájaro sobre algunas estadísticas de nuestro corpus por lo que funciona como un buen punto de partida.
 
+
+#### Número de textos, palabras y palabras únicas
 La primera frase que leemos se ve algo como esto: 
 >Este corpus tiene 25 documentos con 261,032  total de palabras y 18,550 formulario de palabra única. Creado  hace 8 horas atrás [el texto es producto de una traducción semi-automática del inglés y por eso se lee raro]
 
@@ -108,7 +110,7 @@ De entrada con esta información sabemos exactamente cuántos documentos distint
 Si nuestro corpus se compusiera de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? 
 Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabras únicas.
 
-
+#### Extensión de documentos
 Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece lo siguiente:
 
 -   Más largo:  [2008_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (20702);  [2007_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (20390);  [2006_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (18619);  [2010_cl_pinera](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (16982);  [2007_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (15514)
@@ -116,6 +118,8 @@ Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece 
 
 #### :pencil2: Actividad
 ¿Qué podemos concluir sobre los textos más largos?, ¿qué podemos decir sobre los más cortos?
+¿Para qué nos servirá saber la longitud de los textos?
+
 
 
 ### Términos frecuentes 
@@ -267,11 +271,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTkyMTQ5NzksNDk2MDM5Mzc1LC0xNz
-EwNTM1NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5
-ODExLDE4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NS
-wtNjk4NDUzNTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0
-MDExMiwtOTkzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxOD
-MsNDU1ODY3MTIyLC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0
-MzgwOTUyMV19
+eyJoaXN0b3J5IjpbMTgwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MT
+A1MzU0ODQsLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC02NTQ5ODk4
+MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC
+02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOTg3OTQw
+MTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMTg5MjkxMzE4My
+w0NTU4NjcxMjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3ODUsMjQz
+ODA5NTIxXX0=
 -->
