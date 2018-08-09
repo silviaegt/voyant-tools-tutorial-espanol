@@ -148,6 +148,7 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 > * ***ción**: términos que terminan con el sufijo "ción" (contaminación, militarización, fabricación)
 > * **pobreza, desigualdad**: puedes buscar más de un término separándolos por comas* avena: términos coincidentes que terminan con el sufijo avena como un término
 > **"contra la pobreza"**: buscar la frase exacta
+>  **"pobreza extrema"~ 5**:  buscar los términos dentro de las comillas, el orden no importa, y pueden haber hasta 5 palabras de por medio
 ^ * avena: términos coincidentes que terminan con el sufijo avena como términos separados (capa, foso, etc.)
 abrigo, chaqueta: unir cada término separado por comas como términos separados
 abrigo | chaqueta: términos de partido separados por tuberías como un solo término
@@ -291,11 +292,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjE4MTk0MiwxMzEzMTg0NjQzLDE5OD
-c5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxODkyOTEz
-MTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMTk0MzUxNDc4NS
-wyNDM4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0MjkwLDk5MDY2
-ODc2OCwtMTM5MDQ0MTgzMCwtMTA1MTA1NzAyMSwxMTMxMTc4NT
-Y1LC0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0xODQ0NDMsLTQ2
-MDg4OTEwM119
+eyJoaXN0b3J5IjpbMzQ4ODM2MjE2LDEzMTMxODQ2NDMsMTk4Nz
+k0MDExMiwtOTkzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMx
+ODMsNDU1ODY3MTIyLC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LD
+I0MzgwOTUyMSw4OTQ2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4
+NzY4LC0xMzkwNDQxODMwLC0xMDUxMDU3MDIxLDExMzExNzg1Nj
+UsLTE0MzgxMTMwNDgsLTEwMDU5ODQ0ODUsLTE4NDQ0MywtNDYw
+ODg5MTAzXX0=
 -->
