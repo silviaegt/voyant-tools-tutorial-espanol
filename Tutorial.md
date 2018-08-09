@@ -89,7 +89,7 @@ Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explo
 
 Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene las cinco herramientas por defecto:
 1. Cirrus: un tipo de nube de palabras que muestra los términos más frecuentes
-2. Lector: un lector de corpus eficiente que busca segmentos de texto a medida que se desplaza
+2. Lector: un espacio con los textos completos y una gráfica d ebar segmentos de texto a medida que se desplaza
 Tendencias: un gráfico de distribución que muestra los términos en todo el corpus (o términos dentro de un documento)
 Resumen: una herramienta que proporciona una visión general textual simple del corpus actual
 Contextos: una concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
@@ -234,8 +234,9 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI4NzI4NDgsLTQ3NzU0NDkzMiwtNz
-g4MDE5OTMzLDQzMDE4MzM0OCw5MjYwODA2MTEsLTYwMzg0MjM3
-OSwtMTgzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTczLD
-MzMjE3MTgyNCwtMjA3Nzc0MTk3NSwtMTIxMjgxNzM0Ml19
+eyJoaXN0b3J5IjpbODk4Mzc3MjIwLC0xMDcyODcyODQ4LC00Nz
+c1NDQ5MzIsLTc4ODAxOTkzMyw0MzAxODMzNDgsOTI2MDgwNjEx
+LC02MDM4NDIzNzksLTE4MzUzNDM1NTMsMTcxMzYxNDI4OCwtMT
+EwMDYyMzk3MywzMzIxNzE4MjQsLTIwNzc3NDE5NzUsLTEyMTI4
+MTczNDJdfQ==
 -->
