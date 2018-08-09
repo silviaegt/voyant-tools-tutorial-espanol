@@ -145,8 +145,9 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 
 > **Consulta avanzada** Voyant permite el uso de comodines para buscar variaciones de una palabra. Estas son algunas de las combinaciones
 > * **famili***: esta consulta arrojará todas las palabras que empiecen con el prefijo "famili" (familias, familiares, familiar, familia)
-> * *ción: términos que terminan con el sufijo "ción" (contaminación, militarización, fabricación)
-> * pobreza, desigualdad: puedes buscar más de un término separándolos por comas* avena: términos coincidentes que terminan con el sufijo avena como un término
+> * ***ción**: términos que terminan con el sufijo "ción" (contaminación, militarización, fabricación)
+> * **pobreza, desigualdad**: puedes buscar más de un término separándolos por comas* avena: términos coincidentes que terminan con el sufijo avena como un término
+> 
 ^ * avena: términos coincidentes que terminan con el sufijo avena como términos separados (capa, foso, etc.)
 abrigo, chaqueta: unir cada término separado por comas como términos separados
 abrigo | chaqueta: términos de partido separados por tuberías como un solo término
@@ -290,10 +291,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MjQxNzUsMTk4Nzk0MDExMiwtOTkzNz
-M1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIy
-LC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUyMSw4OT
-Q2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4NzY4LC0xMzkwNDQx
-ODMwLC0xMDUxMDU3MDIxLDExMzExNzg1NjUsLTE0MzgxMTMwND
-gsLTEwMDU5ODQ0ODUsLTE4NDQ0MywtNDYwODg5MTAzXX0=
+eyJoaXN0b3J5IjpbMTMxMzE4NDY0MywxOTg3OTQwMTEyLC05OT
+M3MzU2NzUsLTE2NzQ4OTUzMDksMTg5MjkxMzE4Myw0NTU4Njcx
+MjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3ODUsMjQzODA5NTIxLD
+g5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2Njg3NjgsLTEzOTA0
+NDE4MzAsLTEwNTEwNTcwMjEsMTEzMTE3ODU2NSwtMTQzODExMz
+A0OCwtMTAwNTk4NDQ4NSwtMTg0NDQzLC00NjA4ODkxMDNdfQ==
+
 -->
