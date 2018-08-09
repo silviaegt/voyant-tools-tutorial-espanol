@@ -123,7 +123,7 @@ Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece 
 
 #### Densidad del vocabulario
 
-La densidad de vocubulario se mide dividiendo el número de palabras distintas entre el número de palabras totales. Entre más cercano a uno es el índice de densidad quiere decir que el vocabulario es más denso; por ejemplo la frase "¿En perseguirme, mundo, qué interesas?" es sumamente densa pues tiene 5 palabras en total y ninguna se repite (5/5 = 1). Por el contrario, la frase 
+La densidad de vocubulario se mide dividiendo el número de palabras distintas entre el número de palabras totales. Entre más cercano a uno es el índice de densidad quiere decir que el vocabulario es más denso; por ejemplo la frase "¿En perseguirme, mundo, qué interesas?" es sumamente densa pues tiene 5 palabras en total y ninguna se repite (5/5 = 1). Por el contrario, la frase "Deja que te diga cosas al oído  ara que te acuerdes si no estás conmigo
 
 #### Palabras por oración
 
@@ -276,11 +276,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMjg2Mjg0LDYyNTUyNTY5MSwtMTgwNz
-I0MzUwMywxODA3MDU0Mjk5LDQ5NjAzOTM3NSwtMTcxMDUzNTQ4
-NCwtMjA1MTg3MDQyMCwxODg2MDE0MDQsLTY1NDk4OTgxMSwxOD
-A5NzY3NjUxLC0xMzA3OTc3NjMyLDE2NTU5MDgxODUsLTY5ODQ1
-MzU3LDk0NDQ0ODExOCwxMzEzMTg0NjQzLDE5ODc5NDAxMTIsLT
-k5MzczNTY3NSwtMTY3NDg5NTMwOSwxODkyOTEzMTgzLDQ1NTg2
-NzEyMl19
+eyJoaXN0b3J5IjpbNTQxNTk4NTMsNjI1NTI1NjkxLC0xODA3Mj
+QzNTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1NDg0
+LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MD
+k3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUz
+NTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMiwtOT
+kzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3
+MTIyXX0=
 -->
