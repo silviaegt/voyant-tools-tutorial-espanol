@@ -97,6 +97,8 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 
 ### Términos frecuentes 
 
+### Términos frecuentes 
+
 El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
 
 #### Actividad 1:
@@ -286,11 +288,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUxMTUzOTgsOTQ0NDQ4MTE4LDEzMT
-MxODQ2NDMsMTk4Nzk0MDExMiwtOTkzNzM1Njc1LC0xNjc0ODk1
-MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIyLC0xMjI3MzI3MTc4LC
-0xOTQzNTE0Nzg1LDI0MzgwOTUyMSw4OTQ2MTk5NDgsLTE5OTg3
-MzQyOTAsOTkwNjY4NzY4LC0xMzkwNDQxODMwLC0xMDUxMDU3MD
-IxLDExMzExNzg1NjUsLTE0MzgxMTMwNDgsLTEwMDU5ODQ0ODUs
-LTE4NDQ0M119
+eyJoaXN0b3J5IjpbNTk4MjMwMTUwLDk0NDQ0ODExOCwxMzEzMT
+g0NjQzLDE5ODc5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMw
+OSwxODkyOTEzMTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMT
+k0MzUxNDc4NSwyNDM4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0
+MjkwLDk5MDY2ODc2OCwtMTM5MDQ0MTgzMCwtMTA1MTA1NzAyMS
+wxMTMxMTc4NTY1LC0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0x
+ODQ0NDNdfQ==
 -->
