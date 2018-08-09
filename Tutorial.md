@@ -95,7 +95,9 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 5. Contextos: concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
 ![Contextos](img/contextos.png)
 
-### Términos frecuentes 
+### El sumario o la atalaya
+
+
 
 ### Términos frecuentes 
 
@@ -288,11 +290,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MjMwMTUwLDk0NDQ0ODExOCwxMzEzMT
-g0NjQzLDE5ODc5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMw
-OSwxODkyOTEzMTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMT
-k0MzUxNDc4NSwyNDM4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0
-MjkwLDk5MDY2ODc2OCwtMTM5MDQ0MTgzMCwtMTA1MTA1NzAyMS
-wxMTMxMTc4NTY1LC0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0x
-ODQ0NDNdfQ==
+eyJoaXN0b3J5IjpbMTAyNTQwNzg5Myw5NDQ0NDgxMTgsMTMxMz
+E4NDY0MywxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUz
+MDksMTg5MjkxMzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLT
+E5NDM1MTQ3ODUsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODcz
+NDI5MCw5OTA2Njg3NjgsLTEzOTA0NDE4MzAsLTEwNTEwNTcwMj
+EsMTEzMTE3ODU2NSwtMTQzODExMzA0OCwtMTAwNTk4NDQ4NSwt
+MTg0NDQzXX0=
 -->
