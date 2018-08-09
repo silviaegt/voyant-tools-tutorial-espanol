@@ -110,6 +110,7 @@ Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabr
 
 
 
+
 ### Términos frecuentes 
 
 El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
@@ -259,11 +260,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA1MzU0ODQsLTIwNTE4NzA0MjAsMT
-g4NjAxNDA0LC02NTQ5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3
-NzYzMiwxNjU1OTA4MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMT
-MxMzE4NDY0MywxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4
-OTUzMDksMTg5MjkxMzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNz
-gsLTE5NDM1MTQ3ODUsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5
-ODczNDI5MF19
+eyJoaXN0b3J5IjpbLTI2MzgxMDI1NCwtMTcxMDUzNTQ4NCwtMj
+A1MTg3MDQyMCwxODg2MDE0MDQsLTY1NDk4OTgxMSwxODA5NzY3
+NjUxLC0xMzA3OTc3NjMyLDE2NTU5MDgxODUsLTY5ODQ1MzU3LD
+k0NDQ0ODExOCwxMzEzMTg0NjQzLDE5ODc5NDAxMTIsLTk5Mzcz
+NTY3NSwtMTY3NDg5NTMwOSwxODkyOTEzMTgzLDQ1NTg2NzEyMi
+wtMTIyNzMyNzE3OCwtMTk0MzUxNDc4NSwyNDM4MDk1MjEsODk0
+NjE5OTQ4XX0=
 -->
