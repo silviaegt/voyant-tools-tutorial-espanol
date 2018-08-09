@@ -70,7 +70,7 @@ Por último, está la opción que usaremos en este tutorial, en la que puedes ca
 
 ![Cargar documentos](img/cargar.png)
 
-## Leer resultad
+## Explorando el corpus
 
 2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
@@ -213,6 +213,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzYxNDI4OCwtMTEwMDYyMzk3MywzMz
-IxNzE4MjQsLTIwNzc3NDE5NzUsLTEyMTI4MTczNDJdfQ==
+eyJoaXN0b3J5IjpbLTE4MzUzNDM1NTMsMTcxMzYxNDI4OCwtMT
+EwMDYyMzk3MywzMzIxNzE4MjQsLTIwNzc3NDE5NzUsLTEyMTI4
+MTczNDJdfQ==
 -->
