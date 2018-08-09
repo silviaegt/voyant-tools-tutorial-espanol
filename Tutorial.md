@@ -94,10 +94,9 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 ![Lector](img/lector.png)
 3. Tendencias: gráfico de distribución que muestra los términos en todo el corpus (o dentro de un documento cuando sólo se carga uno)
 ![Lector](img/tendencias.png)
-Resumen: una herramienta que proporciona una visión general textual simple del corpus actual
-Contextos: una concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
-4.  Filtrar palabras comunes (o stopwords)
-Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
+4. Resumen: proporciona una visión general de ciertas estadísticas textuales del corpus actual
+
+5. Contextos: concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
 
 
 
@@ -237,9 +236,9 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDgxNzY4MSwxMTA1OTc3MjQsLTEwNz
-I4NzI4NDgsLTQ3NzU0NDkzMiwtNzg4MDE5OTMzLDQzMDE4MzM0
-OCw5MjYwODA2MTEsLTYwMzg0MjM3OSwtMTgzNTM0MzU1MywxNz
-EzNjE0Mjg4LC0xMTAwNjIzOTczLDMzMjE3MTgyNCwtMjA3Nzc0
-MTk3NSwtMTIxMjgxNzM0Ml19
+eyJoaXN0b3J5IjpbLTEzODk1OTcyOTIsLTk0MDgxNzY4MSwxMT
+A1OTc3MjQsLTEwNzI4NzI4NDgsLTQ3NzU0NDkzMiwtNzg4MDE5
+OTMzLDQzMDE4MzM0OCw5MjYwODA2MTEsLTYwMzg0MjM3OSwtMT
+gzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTczLDMzMjE3
+MTgyNCwtMjA3Nzc0MTk3NSwtMTIxMjgxNzM0Ml19
 -->
