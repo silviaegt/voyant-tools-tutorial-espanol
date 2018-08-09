@@ -134,9 +134,9 @@ El proyecto con el que algunas historias dan por inauguradas las Humanidades Dig
 
 La tabla que vemos tiene las siguientes columnas predeterminadas:
 
-Documento: este es un documento en el que ocurren palabras clave y contextos
+Documento: aquí aparece el nombre del documento en el que ocurre la(s) palabra(s) clave(s)  de la consulta
 Izquierda: palabras contextuales a la izquierda de la palabra clave (tenga en cuenta que la ordenación por esta columna trata las palabras en orden inverso, de derecha a izquierda desde la palabra clave)
-Término: la palabra clave que coincide con la consulta de término predeterminada o proporcionada por el usuario
+Términos: la palabra clave que coincide con la consulta de término predeterminada o proporcionada por el usuario
 Derecha: palabras contextuales a la derecha de la palabra clave
 Se puede mostrar una columna adicional para mostrar el término Posición (índice de token) en el documento.
 
@@ -269,9 +269,9 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQxMjE3MDksLTE5NDM1MTQ3ODUsMj
-QzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2Njg3
-NjgsLTEzOTA0NDE4MzAsLTEwNTEwNTcwMjEsMTEzMTE3ODU2NS
-wtMTQzODExMzA0OCwtMTAwNTk4NDQ4NSwtMTg0NDQzLC00NjA4
-ODkxMDNdfQ==
+eyJoaXN0b3J5IjpbMjA3NjQ0MjU5OSwtMTk0MzUxNDc4NSwyND
+M4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0MjkwLDk5MDY2ODc2
+OCwtMTM5MDQ0MTgzMCwtMTA1MTA1NzAyMSwxMTMxMTc4NTY1LC
+0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0xODQ0NDMsLTQ2MDg4
+OTEwM119
 -->
