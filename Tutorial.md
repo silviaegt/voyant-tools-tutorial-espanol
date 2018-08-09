@@ -139,7 +139,7 @@ La tabla que vemos tiene las siguientes columnas predeterminadas:
 3. **Términos**: palabra(s) clave(s) de la consulta
 4. **Derecha**: contexto derecho
 
-Se puede añadir la columna **Posición** que indica e (índice de token) en el documento.
+Se puede añadir la columna **Posición** que indica el lugar índice de token) en el documento.
 
 #### Actividad 3:
 Busca el uso de algún término que te p
@@ -277,7 +277,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NDU2NjE1LDE4OTI5MTMxODMsNDU1OD
+eyJoaXN0b3J5IjpbNDI4MDA1MjIwLDE4OTI5MTMxODMsNDU1OD
 Y3MTIyLC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUy
 MSw4OTQ2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4NzY4LC0xMz
 kwNDQxODMwLC0xMDUxMDU3MDIxLDExMzExNzg1NjUsLTE0Mzgx
