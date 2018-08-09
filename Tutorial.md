@@ -128,11 +128,11 @@ Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en sal
   
 >    **Ojo** este filtrado afecta las métricas de todas las otras herramientas por lo que es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt)
 
-3. Ver palabras en contexto
+### Palabras en contexto
 
 En la barra libre inferior esquina izquierda, escribir palabra que se desea analizar
 
-![](https://lh3.googleusercontent.com/GSxxs2gtNPI800v_yfoBXoUUCNldLjiuhsO-ViIHOTTU5_vM1cVPAeLWz_yXZNQcTUfZPcwx-LrNETzKNHhlUSd-bgFygt67ConYsVBFmWYOWSwMIrxu9JY1s4ClIi4O0Ku3Al2g)
+
 
 Para exportar los datos (la opción te da un txt separado por tabulación) se da clic en el cuadro con flecha y luego en la opción “exportar datos actuales” y se selecciona la última opción
 
@@ -255,7 +255,8 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNjY4NzY4LC0xMzkwNDQxODMwLC0xMD
-UxMDU3MDIxLDExMzExNzg1NjUsLTE0MzgxMTMwNDgsLTEwMDU5
-ODQ0ODUsLTE4NDQ0MywtNDYwODg5MTAzXX0=
+eyJoaXN0b3J5IjpbMTk5MDc5NzAwOSw5OTA2Njg3NjgsLTEzOT
+A0NDE4MzAsLTEwNTEwNTcwMjEsMTEzMTE3ODU2NSwtMTQzODEx
+MzA0OCwtMTAwNTk4NDQ4NSwtMTg0NDQzLC00NjA4ODkxMDNdfQ
+==
 -->
