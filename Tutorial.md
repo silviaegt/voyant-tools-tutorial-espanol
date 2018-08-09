@@ -100,11 +100,9 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenemos una vista de pájaro sobre algunas estadísticas de nuestro corpus por lo que funciona como un buen punto de partida.
 
 La primera frase que leemos se ve algo como esto: 
->Este corpus tiene 25 documentos con 261,032  total de palabras  y 18,550  formulario de palabra única. Creado  hace 8 horas atrás .
+>Este corpus tiene 25 documentos con 261,032  total de palabras  y 18,550  formulario de palabra única. Creado  hace 8 horas atrás [el texto es producto de una traducción semi-automática del inglés y por eso se lee raro]
 
-Es de notar que el texto es una traducción automática del inglés por lo que no debe de sorprendernos lo raro que se lee. Ignoremos por ahora esta falla menor para 
-
-
+De entrada con esta información sabes
 ### Términos frecuentes 
 
 El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
@@ -254,11 +252,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjkzOTYyOSwxODg2MDE0MDQsLTY1ND
-k4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLDE2NTU5MDgx
-ODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMTg0NjQzLDE5OD
-c5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxODkyOTEz
-MTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMTk0MzUxNDc4NS
-wyNDM4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0MjkwLDk5MDY2
-ODc2OF19
+eyJoaXN0b3J5IjpbLTEyNTk5MjkzODAsMTg4NjAxNDA0LC02NT
+Q5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4
+MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOT
+g3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMTg5Mjkx
+MzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3OD
+UsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2
+Njg3NjhdfQ==
 -->
