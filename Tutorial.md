@@ -148,7 +148,7 @@ Veo que eres malicia con delicadeza
 
 #### Palabras por oración
 
-La forma en Voyant calcula la longitud de las oraciones debe considerarse muy aproximada, especialmente por lo complicado que es distinguir entre el final de una abreviatura y el de una oración y otros usos de la puntuación (por ejemplo, en algunos casos un punto y coma marca el límite entre oraciones y en otros . El análisis de las oraciones es realizado por una 'clase' de Java, llamada [BreakIterator de Java](https://docs.oracle.com/javase/tutorial/i18n/text/about.html) y depende, además, de la detección precisa del lenguaje.
+La forma en Voyant calcula la longitud de las oraciones debe considerarse muy aproximada, especialmente por lo complicado que es distinguir entre el final de una abreviatura y el de una oración y otros usos de la puntuación (por ejemplo, en algunos casos un punto y coma marca el límite entre oraciones y en otros . El análisis de las oraciones es realizado por una 'clase' de Java (es decir, , llamada [BreakIterator](https://docs.oracle.com/javase/tutorial/i18n/text/about.html) y depende, además, de la detección precisa del lenguaje.
 
 ### Términos frecuentes 
 
@@ -299,11 +299,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5NDMwMjU5LDE4MTkxODYyNjEsMTM5MD
-kyMzMzNSwtMTI1OTE1NDA4NSw2MjU1MjU2OTEsLTE4MDcyNDM1
-MDMsMTgwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MTA1MzU0ODQsLT
-IwNTE4NzA0MjAsMTg4NjAxNDA0LC02NTQ5ODk4MTEsMTgwOTc2
-NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC02OTg0NTM1Ny
-w5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOTg3OTQwMTEyLC05OTM3
-MzU2NzVdfQ==
+eyJoaXN0b3J5IjpbMTE5Nzg5NzYwNywxODE5MTg2MjYxLDEzOT
+A5MjMzMzUsLTEyNTkxNTQwODUsNjI1NTI1NjkxLC0xODA3MjQz
+NTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1NDg0LC
+0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MDk3
+Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUzNT
+csOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMiwtOTkz
+NzM1Njc1XX0=
 -->
