@@ -67,14 +67,12 @@ Una tercera opción es "Abrir" alguno de los dos corpus que Voyant tiene precarg
 
 Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el [corpus completo](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo) de discursos presidenciales. 
 
-> Para obtener los materiales de este tutorial ve a esta página de Github y descárgala toda
+>  **Para obtener los materiales** de este tutorial ve [a esta página de Github](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo)  y descarga todos los archivos:
 
 ![Descargar corpus](img/1_descargar_archivos.png)
 
- deberás haberlos descargado a tu computadora y descomprimido
-
 >  **Para descomprimir en Windows** haz clic derecho en el  archivo comprimido (.**ZIP**). En el menú desplegable, selecciona **7-zip**  y haz clic en "extraer aquí"
->  
+>    **Para descomprimir en Ma**
 
 
 
@@ -237,7 +235,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDU1NzE3Miw5MjYwODA2MTEsLTYwMz
+eyJoaXN0b3J5IjpbMTY1MDMwNDM4OSw5MjYwODA2MTEsLTYwMz
 g0MjM3OSwtMTgzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIz
 OTczLDMzMjE3MTgyNCwtMjA3Nzc0MTk3NSwtMTIxMjgxNzM0Ml
 19
