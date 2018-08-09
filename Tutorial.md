@@ -155,7 +155,7 @@ La forma en Voyant calcula la longitud de las oraciones debe considerarse muy ap
 2. Da clic sobre los nombre de algunos documentos que te interesen por su índice de ppo. Dirige tu mirada a la ventana de "Lector" y lee algunas líneas, ¿leer el texto original agrega información nueva a tu lectura de los datos? Comenta por qué.
 
 #### Palabras más frecuentes y palabras diferenciadas
-
+(volveremos a este inciso pero antes vamos a la sección siguiente)
 
 ### Términos frecuentes 
 
@@ -306,11 +306,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTEwNzE3NiwxMTk3ODk3NjA3LDE4MT
-kxODYyNjEsMTM5MDkyMzMzNSwtMTI1OTE1NDA4NSw2MjU1MjU2
-OTEsLTE4MDcyNDM1MDMsMTgwNzA1NDI5OSw0OTYwMzkzNzUsLT
-E3MTA1MzU0ODQsLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC02NTQ5
-ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MT
-g1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOTg3
-OTQwMTEyXX0=
+eyJoaXN0b3J5IjpbMTI1Nzg2NTI0NCwtNjk5MTA3MTc2LDExOT
+c4OTc2MDcsMTgxOTE4NjI2MSwxMzkwOTIzMzM1LC0xMjU5MTU0
+MDg1LDYyNTUyNTY5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LD
+Q5NjAzOTM3NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2
+MDE0MDQsLTY1NDk4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3Nj
+MyLDE2NTU5MDgxODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEz
+MTg0NjQzXX0=
 -->
