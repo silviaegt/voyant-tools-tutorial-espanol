@@ -29,7 +29,7 @@ Al finalizar este tutorial, tendrás la capacidad de:
 Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial y tampoco  o conocimiento extra.
 
 ### 1. Buscar textos
-Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos anuales de presidentes de Argentina, Chile, Colombia, México y Perú (¡gracias [Pamela Sertzen](https://twitter.com/madvivacious)!) entre 2016 y 2010, es decir dos años antes de la crisis económica de 201. 
+Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos anuales de presidentes de Argentina, Chile, Colombia, México y Perú (¡gracias [Pamela Sertzen](https://twitter.com/madvivacious)!) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008. 
 
 ### 2. Copiar en editor de texto plano
 Una vez localizada la información, el segundo paso es copiar el texto que te interesa desde la primera palabra dicha hasta la última y guardarla en un editor de texto sin formato. Por ejemplo:
@@ -234,8 +234,8 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjI3NjQ0MiwtNDc3NTQ0OTMyLC03OD
-gwMTk5MzMsNDMwMTgzMzQ4LDkyNjA4MDYxMSwtNjAzODQyMzc5
-LC0xODM1MzQzNTUzLDE3MTM2MTQyODgsLTExMDA2MjM5NzMsMz
-MyMTcxODI0LC0yMDc3NzQxOTc1LC0xMjEyODE3MzQyXX0=
+eyJoaXN0b3J5IjpbLTEwNzI4NzI4NDgsLTQ3NzU0NDkzMiwtNz
+g4MDE5OTMzLDQzMDE4MzM0OCw5MjYwODA2MTEsLTYwMzg0MjM3
+OSwtMTgzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTczLD
+MzMjE3MTgyNCwtMjA3Nzc0MTk3NSwtMTIxMjgxNzM0Ml19
 -->
