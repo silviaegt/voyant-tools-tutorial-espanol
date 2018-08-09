@@ -77,10 +77,9 @@ Por último, está la opción que usaremos en este tutorial, en la que puedes ca
 >    **Para descomprimir en Linux** botón derecho + "Extraer aquí"
 
 
-Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explorador de archivos y seleccionas todos los archivos que te interesan dando clic sobre Shift y 
+Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explorador de archivos y, dejando presionada la tecla 'Shift' seleccionas todos los archivos que vas a usar. Para esta primera parte del tutorial 
 
 ![Cargar documentos](img/cargar.png)
- y al momento de cargar, los deberás seleccionar todos pulsando la tecla shift y mientras la dejas presionada se
 
 
 
@@ -239,8 +238,8 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg0MTM2NTcsLTc4ODAxOTkzMyw0Mz
-AxODMzNDgsOTI2MDgwNjExLC02MDM4NDIzNzksLTE4MzUzNDM1
-NTMsMTcxMzYxNDI4OCwtMTEwMDYyMzk3MywzMzIxNzE4MjQsLT
-IwNzc3NDE5NzUsLTEyMTI4MTczNDJdfQ==
+eyJoaXN0b3J5IjpbMjEwMDYzODk3MCwtNzg4MDE5OTMzLDQzMD
+E4MzM0OCw5MjYwODA2MTEsLTYwMzg0MjM3OSwtMTgzNTM0MzU1
+MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTczLDMzMjE3MTgyNCwtMj
+A3Nzc0MTk3NSwtMTIxMjgxNzM0Ml19
 -->
