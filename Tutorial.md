@@ -104,7 +104,7 @@ b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
 >    **Tip** pasa el mouse sobre las palabras para obtener sus frecuencias derecho
 
-La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Un procedimiento común para obtener palabras relevantes es el de filtrar unidades léxicas gramaticales o _palabras vacías_. Son principalmente artículos, preposiciones, interjecciones, pronombres, etc.
+La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Un procedimiento común para obtener palabras relevantes es el de filtrar las unidades léxicas gramaticales o _palabras vacías_: artículos, preposiciones, interjecciones, pronombres, etc. (Peña y Peña, 2015)-
 
 
 ![](https://lh5.googleusercontent.com/BbkeB4jyWyNgvybCCSGXcAzFmav-3p9QY-iQzx7JAFKOp31Cw4Cc4yyLt8ZPyie91XrgPI-AltY6vi3zAnpeLvSoyqDLuAXcmPOk92-QHX9MP2rjPLUKX6nBfRuoOHz0Dk9RsJAs)
@@ -160,7 +160,7 @@ C --> D
 ```
 ## Bibliografía
 
-
+Peña, Gilberto Anguiano, y Catalina Naumis Peña. 2015. «Extracción de candidatos a términos de un corpus de la lengua general». _Investigación Bibliotecológica: Archivonomía, Bibliotecología e Información_ 29 (67): 19-45. [https://doi.org/10.1016/j.ibbai.2016.02.035](https://doi.org/10.1016/j.ibbai.2016.02.035).
 Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voyant-tools.org/](http://voyant-tools.org/).
 
 
@@ -242,6 +242,6 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY2MTg1MzgsLTE0MzgxMTMwNDgsLT
-EwMDU5ODQ0ODUsLTE4NDQ0MywtNDYwODg5MTAzXX0=
+eyJoaXN0b3J5IjpbLTE2NzI2MzQwNiwtMTQzODExMzA0OCwtMT
+AwNTk4NDQ4NSwtMTg0NDQzLC00NjA4ODkxMDNdfQ==
 -->
