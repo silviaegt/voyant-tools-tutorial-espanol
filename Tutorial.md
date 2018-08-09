@@ -104,7 +104,7 @@ b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
 >    **Tip** pasa el mouse sobre las palabras para obtener sus frecuencias derecho
 
-La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Esto, en la jerga de la lingüística de corpus (LC) se llama **normalización** y puede definirse como los procesos de preparación de información utilizando reconocimiento de caracteresespeciales, textos de otros idiomas ystopwords (Leskovec, Rajaraman, yUllman, 2014).
+La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Un procedimiento común para obtener palabras relevantes es el de filtrar unidades léxicas gramaticales o _palabras vacías_. Son principalmente artículos, preposiciones, interjecciones, pronombres, etc.
 
 
 ![](https://lh5.googleusercontent.com/BbkeB4jyWyNgvybCCSGXcAzFmav-3p9QY-iQzx7JAFKOp31Cw4Cc4yyLt8ZPyie91XrgPI-AltY6vi3zAnpeLvSoyqDLuAXcmPOk92-QHX9MP2rjPLUKX6nBfRuoOHz0Dk9RsJAs)
@@ -241,6 +241,6 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU5ODQ0ODUsLTE4NDQ0MywtNDYwOD
-g5MTAzXX0=
+eyJoaXN0b3J5IjpbLTE0MzgxMTMwNDgsLTEwMDU5ODQ0ODUsLT
+E4NDQ0MywtNDYwODg5MTAzXX0=
 -->
