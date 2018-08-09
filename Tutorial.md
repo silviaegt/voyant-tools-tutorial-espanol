@@ -159,11 +159,6 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 2. Ordena las filas usando las diferentes columnas (Documento, Izquierda, Derecha y Posición): ¿qué conclusiones puedes derivar sobre tus términos utilizando la información de estas columnas?
 > **Ojo**: el orden de las palabras en la columna "Izquerda" es inverso; es decir, de derecha a izquierda desde la palabra clave.
 
-Se muestra algún contexto para cada aparición, también puede hacer clic en el ícono más para expandir cualquier fila dada para mostrar más contexto.
-
-la barra libre inferior esquina izquierda, escribir palabra que se desea analizar
-
-
 
 Para exportar los datos (la opción te da un txt separado por tabulación) se da clic en el cuadro con flecha y luego en la opción “exportar datos actuales” y se selecciona la última opción
 
@@ -286,11 +281,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTkwODE4NSwtNjk4NDUzNTcsOTQ0ND
-Q4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMiwtOTkzNzM1Njc1
-LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIyLC0xMj
-I3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUyMSw4OTQ2MTk5
-NDgsLTE5OTg3MzQyOTAsOTkwNjY4NzY4LC0xMzkwNDQxODMwLC
-0xMDUxMDU3MDIxLDExMzExNzg1NjUsLTE0MzgxMTMwNDgsLTEw
-MDU5ODQ0ODVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNj
+k4NDUzNTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDEx
+MiwtOTkzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsND
+U1ODY3MTIyLC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0Mzgw
+OTUyMSw4OTQ2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4NzY4LC
+0xMzkwNDQxODMwLC0xMDUxMDU3MDIxLDExMzExNzg1NjUsLTE0
+MzgxMTMwNDhdfQ==
 -->
