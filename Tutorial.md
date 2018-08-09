@@ -146,7 +146,7 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 > **Consulta avanzada** Voyant permite el uso de comodines para buscar variaciones de una palabra. Estas son algunas de las combinaciones
 > * famili*: esta consulta arrojará todas las palabras que empiecen con el prefijo "famili" (familias, familiares, familiar, familia)
 > * *ción: términos que terminan con el sufijo "ción" (contaminación, militarización, fabricación)
-> * 
+> * "crisis ecn
 * avena: términos coincidentes que terminan con el sufijo avena como un término
 ^ * avena: términos coincidentes que terminan con el sufijo avena como términos separados (capa, foso, etc.)
 abrigo, chaqueta: unir cada término separado por comas como términos separados
@@ -291,10 +291,10 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxOD
-kyOTEzMTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMTk0MzUx
-NDc4NSwyNDM4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0MjkwLD
-k5MDY2ODc2OCwtMTM5MDQ0MTgzMCwtMTA1MTA1NzAyMSwxMTMx
-MTc4NTY1LC0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0xODQ0ND
-MsLTQ2MDg4OTEwM119
+eyJoaXN0b3J5IjpbMTQ2ODUxMjQ5MiwtOTkzNzM1Njc1LC0xNj
+c0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIyLC0xMjI3MzI3
+MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUyMSw4OTQ2MTk5NDgsLT
+E5OTg3MzQyOTAsOTkwNjY4NzY4LC0xMzkwNDQxODMwLC0xMDUx
+MDU3MDIxLDExMzExNzg1NjUsLTE0MzgxMTMwNDgsLTEwMDU5OD
+Q0ODUsLTE4NDQ0MywtNDYwODg5MTAzXX0=
 -->
