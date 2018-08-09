@@ -95,7 +95,7 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 5. Contextos: concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
 ![Contextos](img/contextos.png)
 
-### El sumario o la atalaya
+### El sumario 
 
 Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenemos una vista de pájaro sobre algunas estadísticas de nuestro corpus por lo que funciona como un buen punto de partida.
 
@@ -105,14 +105,16 @@ La primera frase que leemos se ve algo como esto:
 De entrada con esta información sabemos exactamente cuántos documentos distintos fueron cargados (25); cuántas palabras en total hay (261,032); y cuántas palabras distintas y únicas existen (18,550).
 
 #### :pencil2: Actividad
-:point_right: Si nuestro corpus se compusiera de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? 
+Si nuestro corpus se compusiera de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? 
 Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabras únicas.
+
+
 
 ### Términos frecuentes 
 
 El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
 
-#### Actividad:
+#### :pencil2: Actividad:
 a) ¿Qué palabras son las más frecuente en el corpus?
 b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
@@ -120,7 +122,7 @@ b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
 La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Un procedimiento común para obtener palabras relevantes es el de filtrar las unidades léxicas gramaticales o _palabras vacías_: artículos, preposiciones, interjecciones, pronombres, etc. (Peña y Peña, 2015)-
 
-#### Actividad:
+#### :pencil2: Actividad:
 a) ¿Qué palabras vacías están en la nube de palabras?
 b) ¿Cuáles eliminarías y por qué?
 
@@ -257,7 +259,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUyNTIzNTIsLTIwNTE4NzA0MjAsMT
+eyJoaXN0b3J5IjpbLTE3MTA1MzU0ODQsLTIwNTE4NzA0MjAsMT
 g4NjAxNDA0LC02NTQ5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3
 NzYzMiwxNjU1OTA4MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMT
 MxMzE4NDY0MywxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4
