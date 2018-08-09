@@ -101,7 +101,7 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 
 ### Términos frecuentes 
 
-El primer concepto con el que vamos a trabajar es con el de !
+El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
 ![](https://lh5.googleusercontent.com/BbkeB4jyWyNgvybCCSGXcAzFmav-3p9QY-iQzx7JAFKOp31Cw4Cc4yyLt8ZPyie91XrgPI-AltY6vi3zAnpeLvSoyqDLuAXcmPOk92-QHX9MP2rjPLUKX6nBfRuoOHz0Dk9RsJAs)
 
 Agregar palabras “ruido”, siempre separadas con “enter”
@@ -236,7 +236,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjcwOTI5NSwtOTQwODE3NjgxLDExMD
+eyJoaXN0b3J5IjpbMTY2NjA4NjMyOSwtOTQwODE3NjgxLDExMD
 U5NzcyNCwtMTA3Mjg3Mjg0OCwtNDc3NTQ0OTMyLC03ODgwMTk5
 MzMsNDMwMTgzMzQ4LDkyNjA4MDYxMSwtNjAzODQyMzc5LC0xOD
 M1MzQzNTUzLDE3MTM2MTQyODgsLTExMDA2MjM5NzMsMzMyMTcx
