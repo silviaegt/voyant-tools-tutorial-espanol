@@ -87,13 +87,9 @@ Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explo
 ## Explorando el corpus
 
 
-Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene las cinco herramientas por defecto. Están sucediendo muchas cosas a la vez, pero comenzaremos describiendo las herramientas que ves y cómo pueden interactuar.
-
-Piel predeterminada
-Al principio, verá tres paneles de herramientas a lo largo de la parte superior y dos paneles de herramientas a lo largo de la parte inferior:
-
-Cirrus: un tipo de nube de palabras que muestra los términos más frecuentes
-Lector: un lector de corpus eficiente que busca segmentos de texto a medida que se desplaza
+Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene las cinco herramientas por defecto:
+1. Cirrus: un tipo de nube de palabras que muestra los términos más frecuentes
+2. Lector: un lector de corpus eficiente que busca segmentos de texto a medida que se desplaza
 Tendencias: un gráfico de distribución que muestra los términos en todo el corpus (o términos dentro de un documento)
 Resumen: una herramienta que proporciona una visión general textual simple del corpus actual
 Contextos: una concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
@@ -238,7 +234,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTY0MDg4NywtNzg4MDE5OTMzLDQzMD
+eyJoaXN0b3J5IjpbLTQ3NzU0NDkzMiwtNzg4MDE5OTMzLDQzMD
 E4MzM0OCw5MjYwODA2MTEsLTYwMzg0MjM3OSwtMTgzNTM0MzU1
 MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTczLDMzMjE3MTgyNCwtMj
 A3Nzc0MTk3NSwtMTIxMjgxNzM0Ml19
