@@ -130,7 +130,7 @@ Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en sal
 
 ### Palabras en contexto
 
-El proyecto con el que algunas historias dan por inauguradas las Humanidades Digitales es el _Index Thomisticus_, una concordancia de la obra de Tomás de Aquino iniciada por el filólogo y religioso Roberto Busa. En la esquina inferior derecha Voyant per
+El proyecto con el que algunas historias dan por inauguradas las Humanidades Digitales es el _Index Thomisticus_, una concordancia de la obra de Tomás de Aquino iniciada por el filólogo y religioso Roberto Busa. En la esquina inferior derecha Voyant, es posible obtener un listado de 
 
 la barra libre inferior esquina izquierda, escribir palabra que se desea analizar
 
@@ -257,8 +257,9 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM1MTQ3ODUsMjQzODA5NTIxLDg5ND
-YxOTk0OCwtMTk5ODczNDI5MCw5OTA2Njg3NjgsLTEzOTA0NDE4
-MzAsLTEwNTEwNTcwMjEsMTEzMTE3ODU2NSwtMTQzODExMzA0OC
-wtMTAwNTk4NDQ4NSwtMTg0NDQzLC00NjA4ODkxMDNdfQ==
+eyJoaXN0b3J5IjpbNjU4NTk3MTk1LC0xOTQzNTE0Nzg1LDI0Mz
+gwOTUyMSw4OTQ2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4NzY4
+LC0xMzkwNDQxODMwLC0xMDUxMDU3MDIxLDExMzExNzg1NjUsLT
+E0MzgxMTMwNDgsLTEwMDU5ODQ0ODUsLTE4NDQ0MywtNDYwODg5
+MTAzXX0=
 -->
