@@ -33,7 +33,7 @@ Lo primero que debes hacer es buscar la información que te interesa. Para este 
 
 ### 2. Copiar en editor de texto plano
 Una vez localizada la información, el segundo paso es copiar el texto que te interesa desde la primera palabra dicha hasta la última y guardarla en un editor de texto sin formato. Por ejemplo:
-* en Windows podría guardarse en Bloc de Notas
+* en Windows podría guardarse en [Bloc de Notas](https://web.archive.org/web/20091013225307/http://windows.microsoft.com/en-us/windows-vista/Notepad-frequently-asked-questions)
 * en Mac, en [TextEdit](https://support.apple.com/es-mx/guide/textedit/welcome/mac); 
 * y en Linux, en [Gedit](https://wiki.gnome.org/Apps/Gedit).
 
@@ -241,5 +241,5 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDg4OTEwM119
+eyJoaXN0b3J5IjpbMjE2NTI3NTksLTQ2MDg4OTEwM119
 -->
