@@ -107,6 +107,10 @@ b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
 La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Un procedimiento común para obtener palabras relevantes es el de filtrar las unidades léxicas gramaticales o _palabras vacías_: artículos, preposiciones, interjecciones, pronombres, etc. (Peña y Peña, 2015)-
 
+#### Actividad 2:
+a) ¿Qué palabras vacías están en la nube de palabras?
+b) ¿Cuáles elimina?
+
 Voyant tiene ya cargada una lista de _stop words_ o palabras vacías; no obstante, nosotros podemos editarla de la siguiente manera:
 Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos clic sobre el icono que parece un interruptor. 
 
@@ -118,10 +122,9 @@ Aparecerá una ventana con diferentes opciones, seleccionamos la primera "Editar
 
 Agregamos las palabras “vacías”, siempre separadas por un salto de línea (tecla enter)
 
-![Editar lista](img/lista_ruid.png)
+![Editar palabras vacías](img/lista_ruido.png)
 
-![](https://lh4.googleusercontent.com/fTmmCqlIGfWAf4HLGSmqwzNFs6bwO8b7qjeeJSJ5HoLZGde8WhMWxUMSlGTXpfov9yn2cyFCZvU6ZOhhlFTQ-vYTaDmqI9za4YYBeflzVEVTA5lAKu3Z494RbLLkYwaSr8Cyv13Z)
-
+Una vez que hayamos añadido 
   
 
 3. Ver palabras en contexto
@@ -251,7 +254,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDk1NDIwOSwtMTA1MTA1NzAyMSwxMT
+eyJoaXN0b3J5IjpbLTE4OTQwNzkwMCwtMTA1MTA1NzAyMSwxMT
 MxMTc4NTY1LC0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0xODQ0
 NDMsLTQ2MDg4OTEwM119
 -->
