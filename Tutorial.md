@@ -112,7 +112,7 @@ Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos 
 
 ![Editar lista](img/editar_lista.png)
 
-Aparecerá una ventana con diferentes opciones y nost
+Aparecerá una ventana con diferentes opciones, seleccionamos la primera "Editar lista"
 ![](https://lh5.googleusercontent.com/BbkeB4jyWyNgvybCCSGXcAzFmav-3p9QY-iQzx7JAFKOp31Cw4Cc4yyLt8ZPyie91XrgPI-AltY6vi3zAnpeLvSoyqDLuAXcmPOk92-QHX9MP2rjPLUKX6nBfRuoOHz0Dk9RsJAs)
 
 Agregar palabras “ruido”, siempre separadas con “enter”
@@ -248,7 +248,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODUzOTI0NCwtMTA1MTA1NzAyMSwxMT
+eyJoaXN0b3J5IjpbMTY0ODA5MDMwMSwtMTA1MTA1NzAyMSwxMT
 MxMTc4NTY1LC0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0xODQ0
 NDMsLTQ2MDg4OTEwM119
 -->
