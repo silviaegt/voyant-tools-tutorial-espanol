@@ -57,6 +57,7 @@ La segunda es que **el nombre de tu archivo no debe contener acentos ni espacios
 
 La tercera es que es una buena práctica integrar ciertos metadatos de contexto (v.g. fecha, género, autor, origen) en el nombre del archivo que te permitan partir tu corpus según diferentes criterios y también leer mejor los resultados. Para este tutorial hemos nombrado los archivos con el año del discurso presidencial, el país del discurso y el apellido de quien profirió el disurso. 
 
+> **¿Por qué evitar acentos y espacios en los nombres de archivo?** Por razones similares a el inciso anterior, un archivo que se llame Ébano.txt no siempre será entendido de forma correcta por todos los sistemas operativos pues varios tienen otro codificador por defecto. Muchos usan ASCII, por ejemplo, que sólo tiene siete bits de manera que el último bit (1) de "11000011" es interpretado como el inicio del siguiente caracter y se descuadra la interpretación.
 
 
 ## Cargar el corpus
@@ -65,9 +66,10 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones son en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar. 
 Una tercera opción es "Abrir" alguno de los dos corpus que Voyant tiene precargados (las obras de Shakespeare o las novelas de Austen: ambos en inglés).
 
-Por último, está la opción que usaremos en este tutorial, 
+Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que hayas preparado.
 
-![Image of Yaktocat](img/cargar.png)
+
+![Cargar documentos](img/cargar.png)
 
 2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
@@ -210,6 +212,6 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc3NDE5NzUsLTEyMTI4MTczNDJdfQ
-==
+eyJoaXN0b3J5IjpbMjA4OTA2NjI0OCwtMjA3Nzc0MTk3NSwtMT
+IxMjgxNzM0Ml19
 -->
