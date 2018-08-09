@@ -110,15 +110,16 @@ De entrada con esta información sabemos exactamente cuántos documentos distint
 Si nuestro corpus se compusiera de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? 
 Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabras únicas.
 
-#### Extensión de documentos
+#### *Extensión de documentos*
 Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece lo siguiente:
 
 -   Más largo:  [2008_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (20702);  [2007_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (20390);  [2006_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (18619);  [2010_cl_pinera](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (16982);  [2007_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (15514)
 -   Más corto:  [2006_pe_toledo](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (1289);  [2006_mx_fox](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (2450);  [2008_mx_calderon](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (3317);  [2006_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (4709);  [2009_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (5807)
 
 #### :pencil2: Actividad
-¿Qué podemos concluir sobre los textos más largos?, ¿qué podemos decir sobre los más cortos?
-¿Para qué nos servirá saber la longitud de los textos?
+1. ¿Qué podemos concluir sobre los textos más largos?, ¿qué podemos decir sobre los más cortos?
+2. ¿Para qué nos servirá saber la longitud de los textos?
+3. ¿Qué nos dice la gráfica a la derecha del título de esta sección?
 
 
 
@@ -271,11 +272,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MT
-A1MzU0ODQsLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC02NTQ5ODk4
-MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC
-02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOTg3OTQw
-MTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMTg5MjkxMzE4My
-w0NTU4NjcxMjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3ODUsMjQz
-ODA5NTIxXX0=
+eyJoaXN0b3J5IjpbLTk5NDk0ODc3MSwxODA3MDU0Mjk5LDQ5Nj
+AzOTM3NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2MDE0
+MDQsLTY1NDk4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLD
+E2NTU5MDgxODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMTg0
+NjQzLDE5ODc5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOS
+wxODkyOTEzMTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMTk0
+MzUxNDc4NV19
 -->
