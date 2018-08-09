@@ -103,7 +103,7 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 
 El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
 
-#### Actividad 1:
+#### Actividad:
 a) ¿Qué palabras son las más frecuente en el corpus?
 b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
@@ -111,7 +111,7 @@ b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
 La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Un procedimiento común para obtener palabras relevantes es el de filtrar las unidades léxicas gramaticales o _palabras vacías_: artículos, preposiciones, interjecciones, pronombres, etc. (Peña y Peña, 2015)-
 
-#### Actividad 2:
+#### Actividad:
 a) ¿Qué palabras vacías están en la nube de palabras?
 b) ¿Cuáles eliminarías y por qué?
 
@@ -154,10 +154,9 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 > **"contra la pobreza"**: buscar la frase exacta
 >  **"pobreza extrema"~ 5**:  buscar los términos dentro de las comillas, el orden no importa, y pueden haber hasta 5 palabras de por medio (esa condición regresaría frases cómo "la extrema desigualdad y la pobreza" donde se encuentra la palabra "pobreza" y "extrema" 
 
-#### Actividad 3:
-Busca el uso de algún término que te p
-
-Ordena 
+#### Actividad:
+1. Busca el uso de algún término que te parezca interesante, utiliza alguna de las estrategias de la consulta avanzada
+2. Ordena las columnas difer
 
 
  (el orden de esta columna palabras en orden inverso, de derecha a izquierda desde la palabra clave)
@@ -290,7 +289,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTQwNzg5Myw5NDQ0NDgxMTgsMTMxMz
+eyJoaXN0b3J5IjpbMTE0MDc0MDY2Niw5NDQ0NDgxMTgsMTMxMz
 E4NDY0MywxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUz
 MDksMTg5MjkxMzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLT
 E5NDM1MTQ3ODUsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODcz
