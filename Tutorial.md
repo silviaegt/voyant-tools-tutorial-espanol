@@ -72,7 +72,7 @@ Por último, está la opción que usaremos en este tutorial, en la que puedes ca
 ![Descargar corpus](img/1_descargar_archivos.png)
 
 >  **Para descomprimir en Windows** haz clic derecho en el  archivo comprimido (.**ZIP**). En el menú desplegable, selecciona **7-zip**  y haz clic en "extraer aquí"
->    **Para descomprimir en Ma**
+>    **Para descomprimir en Mac**
 
 
 
@@ -235,8 +235,8 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDMwNDM4OSw5MjYwODA2MTEsLTYwMz
-g0MjM3OSwtMTgzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIz
-OTczLDMzMjE3MTgyNCwtMjA3Nzc0MTk3NSwtMTIxMjgxNzM0Ml
-19
+eyJoaXN0b3J5IjpbNDMwMTgzMzQ4LDkyNjA4MDYxMSwtNjAzOD
+QyMzc5LC0xODM1MzQzNTUzLDE3MTM2MTQyODgsLTExMDA2MjM5
+NzMsMzMyMTcxODI0LC0yMDc3NzQxOTc1LC0xMjEyODE3MzQyXX
+0=
 -->
