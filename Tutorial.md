@@ -99,7 +99,10 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 
 Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenemos una vista de pájaro sobre algunas estadísticas de nuestro corpus por lo que funciona como un buen punto de partida.
 
-La primera frase que leemos se 
+La primera frase que leemos se ve algo como esto: 
+>Este corpus tiene 25 documentos con 261,032  total de palabras  y 18,550  formulario de palabra única. Creado  hace 8 horas atrás .
+
+Es de notar que el texto es una traducción au
 
 
 ### Términos frecuentes 
@@ -251,7 +254,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODk5MTExNSwxODg2MDE0MDQsLTY1ND
+eyJoaXN0b3J5IjpbMTA5NzM3MDM1MCwxODg2MDE0MDQsLTY1ND
 k4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLDE2NTU5MDgx
 ODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMTg0NjQzLDE5OD
 c5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxODkyOTEz
