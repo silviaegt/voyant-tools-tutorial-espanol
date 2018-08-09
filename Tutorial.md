@@ -100,9 +100,9 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenemos una vista de pájaro sobre algunas estadísticas de nuestro corpus por lo que funciona como un buen punto de partida.
 
 La primera frase que leemos se ve algo como esto: 
->Este corpus tiene 25 documentos con 261,032  total de palabras  y 18,550  formulario de palabra única. Creado  hace 8 horas atrás [el texto es producto de una traducción semi-automática del inglés y por eso se lee raro]
+>Este corpus tiene 25 documentos con 261,032  total de palabras y 18,550 formulario de palabra única. Creado  hace 8 horas atrás [el texto es producto de una traducción semi-automática del inglés y por eso se lee raro]
 
-De entrada con esta información sabemos exactamente cuántos documentos distintos fueron cargados (25); cuántas palabras en total hay (si nuestro corpus fuera la frase "tengo hambre y tengo sueño"
+De entrada con esta información sabemos exactamente cuántos documentos distintos fueron cargados (25); cuántas palabras en total hay (261,032); y cuántas palabras distintas y únicas existen (18
 
 
 ### Términos frecuentes 
@@ -254,11 +254,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTU0ODQzNCwxODg2MDE0MDQsLTY1ND
-k4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLDE2NTU5MDgx
-ODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMTg0NjQzLDE5OD
-c5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxODkyOTEz
-MTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMTk0MzUxNDc4NS
-wyNDM4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0MjkwLDk5MDY2
-ODc2OF19
+eyJoaXN0b3J5IjpbODM4MjA1MDYzLDE4ODYwMTQwNCwtNjU0OT
+g5ODExLDE4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4
+NSwtNjk4NDUzNTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nz
+k0MDExMiwtOTkzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMx
+ODMsNDU1ODY3MTIyLC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LD
+I0MzgwOTUyMSw4OTQ2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4
+NzY4XX0=
 -->
