@@ -109,7 +109,7 @@ La importancia no es un valor intrínseco y dependerá siempre de nuestros inter
 
 #### Actividad 2:
 a) ¿Qué palabras vacías están en la nube de palabras?
-b) ¿Cuáles elimina?
+b) ¿Cuáles eliminarías y por qué?
 
 Voyant tiene ya cargada una lista de _stop words_ o palabras vacías; no obstante, nosotros podemos editarla de la siguiente manera:
 Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos clic sobre el icono que parece un interruptor. 
@@ -124,7 +124,7 @@ Agregamos las palabras “vacías”, siempre separadas por un salto de línea (
 
 ![Editar palabras vacías](img/lista_ruido.png)
 
-Una vez que hayamos añadido 
+Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en salvar y observamos 
   
 
 3. Ver palabras en contexto
@@ -254,7 +254,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQwNzkwMCwtMTA1MTA1NzAyMSwxMT
+eyJoaXN0b3J5IjpbLTY1MDYzNzY2MywtMTA1MTA1NzAyMSwxMT
 MxMTc4NTY1LC0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0xODQ0
 NDMsLTQ2MDg4OTEwM119
 -->
