@@ -148,7 +148,7 @@ Veo que eres malicia con delicadeza
 
 #### Palabras por oración
 
-
+La forma en Voyant calcula la longitud de las oraciones debe considerarse muy aproximada, especialmente por lo complicado que es distinguir entre el final de una abreviaturas y otros usos de la puntuación (el análisis de las oraciones es realizado por la clase BreakIterator de Java y también depende de la detección precisa del lenguaje).
 
 ### Términos frecuentes 
 
@@ -299,11 +299,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4ODg1MTI2LC0xMjU5MTU0MDg1LDYyNT
-UyNTY5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LDQ5NjAzOTM3
-NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2MDE0MDQsLT
-Y1NDk4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLDE2NTU5
-MDgxODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMTg0NjQzLD
-E5ODc5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxODky
-OTEzMTgzXX0=
+eyJoaXN0b3J5IjpbLTgxNDQ3OTAzMywtMTI1OTE1NDA4NSw2Mj
+U1MjU2OTEsLTE4MDcyNDM1MDMsMTgwNzA1NDI5OSw0OTYwMzkz
+NzUsLTE3MTA1MzU0ODQsLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC
+02NTQ5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1
+OTA4MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0My
+wxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMTg5
+MjkxMzE4M119
 -->
