@@ -160,6 +160,7 @@ C --> D
 ```
 ## Bibliografía
 
+
 Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voyant-tools.org/](http://voyant-tools.org/).
 
 
@@ -241,6 +242,6 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgxMTMwNDgsLTEwMDU5ODQ0ODUsLT
-E4NDQ0MywtNDYwODg5MTAzXX0=
+eyJoaXN0b3J5IjpbLTExMDY2MTg1MzgsLTE0MzgxMTMwNDgsLT
+EwMDU5ODQ0ODUsLTE4NDQ0MywtNDYwODg5MTAzXX0=
 -->
