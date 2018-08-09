@@ -71,16 +71,18 @@ Por último, está la opción que usaremos en este tutorial, en la que puedes ca
 
 ![Descargar corpus](img/1_descargar_archivos.png)
 
->  **Para descomprimir en Windows** haz clic derecho en el  archivo comprimido (.**ZIP**). En el menú desplegable, selecciona **7-zip**  y haz clic en "extraer aquí"
+>  **Para descomprimir en Windows** haz clic derecho en el  archivo comprimido (.**ZIP**). En el menú desplegable, selecciona **7-zip**  y haz clic en "Extraer aquí"
 >    **Para descomprimir en Mac** da doble clic sobre el archivo comprimido
->    **Para descomprimir en Linux** botón derecho
+>    **Para descomprimir en Linux** botón derecho + "Extraer aquí"
 
 
+Para cargar los materiales 
 
+![Cargar documentos](img/cargar.png)
  y al momento de cargar, los deberás seleccionar todos pulsando la tecla shift y mientras la dejas presionada se
 
 
-![Cargar documentos](img/cargar.png)
+
 
 ## Explorando el corpus
 
@@ -236,7 +238,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODY1MDgzMCw0MzAxODMzNDgsOTI2MD
+eyJoaXN0b3J5IjpbLTc4ODAxOTkzMyw0MzAxODMzNDgsOTI2MD
 gwNjExLC02MDM4NDIzNzksLTE4MzUzNDM1NTMsMTcxMzYxNDI4
 OCwtMTEwMDYyMzk3MywzMzIxNzE4MjQsLTIwNzc3NDE5NzUsLT
 EyMTI4MTczNDJdfQ==
