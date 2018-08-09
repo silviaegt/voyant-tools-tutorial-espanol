@@ -144,10 +144,9 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 ![Agregar columna de posición](img/posicion.png)
 
 > **Consulta avanzada** Voyant permite el uso de comodines para buscar variaciones de una palabra. Estas son algunas de las combinaciones
-> * famili*: esta consulta arrojará todas las palabras que empiecen con el prefijo "famili" (familias, familiares, familiar, familia)
+> * **famili***: esta consulta arrojará todas las palabras que empiecen con el prefijo "famili" (familias, familiares, familiar, familia)
 > * *ción: términos que terminan con el sufijo "ción" (contaminación, militarización, fabricación)
-> * "crisis econ*" ~ 5: 
-* avena: términos coincidentes que terminan con el sufijo avena como un término
+> * pobreza, desigualdad: puedes buscar más de un término separándolos por comas* avena: términos coincidentes que terminan con el sufijo avena como un término
 ^ * avena: términos coincidentes que terminan con el sufijo avena como términos separados (capa, foso, etc.)
 abrigo, chaqueta: unir cada término separado por comas como términos separados
 abrigo | chaqueta: términos de partido separados por tuberías como un solo término
@@ -291,10 +290,10 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Nzk0MDExMiwtOTkzNzM1Njc1LC0xNj
-c0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIyLC0xMjI3MzI3
-MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUyMSw4OTQ2MTk5NDgsLT
-E5OTg3MzQyOTAsOTkwNjY4NzY4LC0xMzkwNDQxODMwLC0xMDUx
-MDU3MDIxLDExMzExNzg1NjUsLTE0MzgxMTMwNDgsLTEwMDU5OD
-Q0ODUsLTE4NDQ0MywtNDYwODg5MTAzXX0=
+eyJoaXN0b3J5IjpbMzY1MjQxNzUsMTk4Nzk0MDExMiwtOTkzNz
+M1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIy
+LC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUyMSw4OT
+Q2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4NzY4LC0xMzkwNDQx
+ODMwLC0xMDUxMDU3MDIxLDExMzExNzg1NjUsLTE0MzgxMTMwND
+gsLTEwMDU5ODQ0ODUsLTE4NDQ0MywtNDYwODg5MTAzXX0=
 -->
