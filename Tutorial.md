@@ -77,7 +77,7 @@ Por último, está la opción que usaremos en este tutorial, en la que puedes ca
 >    **Para descomprimir en Linux** botón derecho + "Extraer aquí"
 
 
-Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explorador de archivos y, dejando presionada la tecla 'Shift' seleccionas todos los archivos que vas a usar. Para esta primera parte del tutorial 
+Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explorador de archivos y, dejando presionada la tecla 'Shift' seleccionas todos los archivos que vas a usar. Para esta primera parte del tutorial subiremos todos los archivos de la carpeta ["corpus completo"](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo)
 
 ![Cargar documentos](img/cargar.png)
 
@@ -87,7 +87,7 @@ Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explo
 ## Explorando el corpus
 
 
-Una vez que cree un corpus, llegará a la "máscara" o disposición de herramientas por defecto. Están sucediendo muchas cosas a la vez, pero comenzaremos describiendo las herramientas que ves y cómo pueden interactuar.
+Una vez cargados todos los archivos egará a la "máscara" o disposición de herramientas por defecto. Están sucediendo muchas cosas a la vez, pero comenzaremos describiendo las herramientas que ves y cómo pueden interactuar.
 
 Piel predeterminada
 Al principio, verá tres paneles de herramientas a lo largo de la parte superior y dos paneles de herramientas a lo largo de la parte inferior:
@@ -238,8 +238,8 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDYzODk3MCwtNzg4MDE5OTMzLDQzMD
-E4MzM0OCw5MjYwODA2MTEsLTYwMzg0MjM3OSwtMTgzNTM0MzU1
-MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTczLDMzMjE3MTgyNCwtMj
-A3Nzc0MTk3NSwtMTIxMjgxNzM0Ml19
+eyJoaXN0b3J5IjpbNzQzMzI2MzQwLC03ODgwMTk5MzMsNDMwMT
+gzMzQ4LDkyNjA4MDYxMSwtNjAzODQyMzc5LC0xODM1MzQzNTUz
+LDE3MTM2MTQyODgsLTExMDA2MjM5NzMsMzMyMTcxODI0LC0yMD
+c3NzQxOTc1LC0xMjEyODE3MzQyXX0=
 -->
