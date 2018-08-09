@@ -141,9 +141,10 @@ Nos vamos pegando poquito a poquito
 Cuando tú me besas con esa destreza  
 Veo que eres malicia con delicadeza
 
-2. Lee los datos densidad léxica de los documentos de nuestro corpus y compáralos con la información sobre su extensión, ¿qué notas?
+2. Lee los datos densidad léxica de los documentos de nuestro corpus, ¿qué te dicen?
 -   Más alto:  [2006_pe_toledo](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.404);  [2006_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.340);  [2009_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.336);  [2008_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.334);  [2006_mx_fox](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.328)
 -   Más bajo:  [2008_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.192);  [2007_mx_calderon](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.192);  [2007_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.206);  [2007_pe_garcia](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.214);  [2010_ar_fernandez](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.217)
+3. Compáralos con la información sobre su extensión, ¿qué notas?
 
 #### Palabras por oración
 
@@ -298,11 +299,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkxNTQwODUsNjI1NTI1NjkxLC0xOD
-A3MjQzNTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1
-NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLD
-E4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4
-NDUzNTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMi
-wtOTkzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1
-ODY3MTIyXX0=
+eyJoaXN0b3J5IjpbNDA4ODg1MTI2LC0xMjU5MTU0MDg1LDYyNT
+UyNTY5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LDQ5NjAzOTM3
+NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2MDE0MDQsLT
+Y1NDk4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLDE2NTU5
+MDgxODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMTg0NjQzLD
+E5ODc5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxODky
+OTEzMTgzXX0=
 -->
