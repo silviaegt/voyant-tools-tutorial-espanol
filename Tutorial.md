@@ -65,13 +65,26 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones son en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar. 
 Una tercera opción es "Abrir" alguno de los dos corpus que Voyant tiene precargados (las obras de Shakespeare o las novelas de Austen: ambos en inglés).
 
-Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el [corpus completo](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo) de discursos presidenciales
+Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el [corpus completo](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo) de discursos presidenciales. 
+
+Para esto deberás haberlos descargado a tu computadora, descomprimido
 
 
 ![Cargar documentos](img/cargar.png)
 
 ## Explorando el corpus
 
+
+Una vez que cree un corpus, llegará a la "máscara" o disposición de herramientas por defecto. Están sucediendo muchas cosas a la vez, pero comenzaremos describiendo las herramientas que ves y cómo pueden interactuar.
+
+Piel predeterminada
+Al principio, verá tres paneles de herramientas a lo largo de la parte superior y dos paneles de herramientas a lo largo de la parte inferior:
+
+Cirrus: un tipo de nube de palabras que muestra los términos más frecuentes
+Lector: un lector de corpus eficiente que busca segmentos de texto a medida que se desplaza
+Tendencias: un gráfico de distribución que muestra los términos en todo el corpus (o términos dentro de un documento)
+Resumen: una herramienta que proporciona una visión general textual simple del corpus actual
+Contextos: una concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
 2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
 
@@ -213,7 +226,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUzNDM1NTMsMTcxMzYxNDI4OCwtMT
-EwMDYyMzk3MywzMzIxNzE4MjQsLTIwNzc3NDE5NzUsLTEyMTI4
-MTczNDJdfQ==
+eyJoaXN0b3J5IjpbMTUxNzkxNTQxOCwtMTgzNTM0MzU1MywxNz
+EzNjE0Mjg4LC0xMTAwNjIzOTczLDMzMjE3MTgyNCwtMjA3Nzc0
+MTk3NSwtMTIxMjgxNzM0Ml19
 -->
