@@ -147,7 +147,7 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 > * **famili***: esta consulta arrojará todas las palabras que empiecen con el prefijo "famili" (familias, familiares, familiar, familia)
 > * ***ción**: términos que terminan con el sufijo "ción" (contaminación, militarización, fabricación)
 > * **pobreza, desigualdad**: puedes buscar más de un término separándolos por comas* avena: términos coincidentes que terminan con el sufijo avena como un término
-> **"contra la pobreza"**: buscar la frase 
+> **"contra la pobreza"**: buscar la frase exacta
 ^ * avena: términos coincidentes que terminan con el sufijo avena como términos separados (capa, foso, etc.)
 abrigo, chaqueta: unir cada término separado por comas como términos separados
 abrigo | chaqueta: términos de partido separados por tuberías como un solo término
@@ -291,11 +291,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkzNDQzOTYsMTMxMzE4NDY0MywxOT
-g3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMTg5Mjkx
-MzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3OD
-UsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2
-Njg3NjgsLTEzOTA0NDE4MzAsLTEwNTEwNTcwMjEsMTEzMTE3OD
-U2NSwtMTQzODExMzA0OCwtMTAwNTk4NDQ4NSwtMTg0NDQzLC00
-NjA4ODkxMDNdfQ==
+eyJoaXN0b3J5IjpbMTg0NjE4MTk0MiwxMzEzMTg0NjQzLDE5OD
+c5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxODkyOTEz
+MTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMTk0MzUxNDc4NS
+wyNDM4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0MjkwLDk5MDY2
+ODc2OCwtMTM5MDQ0MTgzMCwtMTA1MTA1NzAyMSwxMTMxMTc4NT
+Y1LC0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0xODQ0NDMsLTQ2
+MDg4OTEwM119
 -->
