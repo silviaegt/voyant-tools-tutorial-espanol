@@ -98,7 +98,7 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 
 5. Contextos: concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
 
-
+### Términos frecuentes 
 
 Dar clic en editar lista
 
@@ -236,7 +236,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk1OTcyOTIsLTk0MDgxNzY4MSwxMT
+eyJoaXN0b3J5IjpbLTIxMDQ4NTQ5MTYsLTk0MDgxNzY4MSwxMT
 A1OTc3MjQsLTEwNzI4NzI4NDgsLTQ3NzU0NDkzMiwtNzg4MDE5
 OTMzLDQzMDE4MzM0OCw5MjYwODA2MTEsLTYwMzg0MjM3OSwtMT
 gzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTczLDMzMjE3
