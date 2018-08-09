@@ -165,11 +165,9 @@ Para exportar los datos se da clic en el cuadro con flecha que aparece cuando pa
 Eso lleva a una página donde están separados los campos por un tabulador:
 
 ![Exportar contextos](img/exportar_contextos.png)
+Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) Y pégalos en una hoja de cálculo (Ctrl+V). Si esto no funciona, guarda los datos como en un editor sencillo de texto como .txt (¡no olvides la codificación UTF-8) y luego en tu hoja de cálculo importa los datos. En Excel, por ejemplo, esto se hace en la pestañad de datos y después “Desde un archivo de texto”
 
-Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) Y pégalos en una hoja de cálculo (Ctrl+V). Si esto no funciona, guarda los datos como en un editor sencillo de texto como .txt (¡no olvides la codificación UTF-8) y luego ey después “Desde un archivo de texto”
 
-![](https://lh4.googleusercontent.com/Et1FZZXYzH37jBv5qYv6LL8TFCjadW-mcHyQFoJQyj2pRYm4B92Q-8E8_h59m4Q8I0d0cjZhMAD-5MensLzs-p-qrCxqtye-7XXJII24bV84qybYG5R6IwTtjjroGkZx1PLCs32B)
- 
 
 4. Crear árbol de palabras
 
@@ -202,37 +200,6 @@ C --> D
 Peña, Gilberto Anguiano, y Catalina Naumis Peña. 2015. «Extracción de candidatos a términos de un corpus de la lengua general». _Investigación Bibliotecológica: Archivonomía, Bibliotecología e Información_ 29 (67): 19-45. [https://doi.org/10.1016/j.ibbai.2016.02.035](https://doi.org/10.1016/j.ibbai.2016.02.035).
 Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voyant-tools.org/](http://voyant-tools.org/).
 
-
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
 
 
 ## SmartyPants
@@ -281,11 +248,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjA4OTA2OCwtNjU0OTg5ODExLDE4MD
-k3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUz
-NTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMiwtOT
-kzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3
-MTIyLC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUyMS
-w4OTQ2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4NzY4LC0xMzkw
-NDQxODMwXX0=
+eyJoaXN0b3J5IjpbMTg4NjAxNDA0LC02NTQ5ODk4MTEsMTgwOT
+c2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC02OTg0NTM1
+Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOTg3OTQwMTEyLC05OT
+M3MzU2NzUsLTE2NzQ4OTUzMDksMTg5MjkxMzE4Myw0NTU4Njcx
+MjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3ODUsMjQzODA5NTIxLD
+g5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2Njg3NjgsLTEzOTA0
+NDE4MzBdfQ==
 -->
