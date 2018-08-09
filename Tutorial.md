@@ -121,7 +121,9 @@ Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece 
 3. ¿Qué nos dice la gráfica a la derecha del título de esta sección?
 
 
-#### Extensión de documentos
+#### Densidad del vocabulario y palabras por oración 
+
+
 
 
 ### Términos frecuentes 
@@ -273,11 +275,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcyNDM1MDMsMTgwNzA1NDI5OSw0OT
-YwMzkzNzUsLTE3MTA1MzU0ODQsLTIwNTE4NzA0MjAsMTg4NjAx
-NDA0LC02NTQ5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMi
-wxNjU1OTA4MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4
-NDY0MywxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMD
-ksMTg5MjkxMzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLTE5
-NDM1MTQ3ODVdfQ==
+eyJoaXN0b3J5IjpbNjI1NTI1NjkxLC0xODA3MjQzNTAzLDE4MD
+cwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1NDg0LC0yMDUxODcw
+NDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MDk3Njc2NTEsLT
+EzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUzNTcsOTQ0NDQ4
+MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMiwtOTkzNzM1Njc1LC
+0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIyLC0xMjI3
+MzI3MTc4XX0=
 -->
