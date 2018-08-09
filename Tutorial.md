@@ -92,7 +92,7 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 ![Cirrus](img/cirrus.png)
 2. Lector: espacio para la revisión y lectura de los textos completos con una gráfica de barras que indica la cantidad de texto que tiene cada documento
 ![Lector](img/lector.png)
-Tendencias: gráfico de distribución que muestra los términos en todo el corpus (o términos dentro de un documento)
+3. Tendencias: gráfico de distribución que muestra los términos en todo el corpus (o dentro de un documento cuando sólo se carga uno)
 Resumen: una herramienta que proporciona una visión general textual simple del corpus actual
 Contextos: una concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
 3.  Filtrar palabras comunes (o stopwords)
@@ -236,9 +236,9 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4MjcyNjMzLDExMDU5NzcyNCwtMTA3Mj
-g3Mjg0OCwtNDc3NTQ0OTMyLC03ODgwMTk5MzMsNDMwMTgzMzQ4
-LDkyNjA4MDYxMSwtNjAzODQyMzc5LC0xODM1MzQzNTUzLDE3MT
-M2MTQyODgsLTExMDA2MjM5NzMsMzMyMTcxODI0LC0yMDc3NzQx
-OTc1LC0xMjEyODE3MzQyXX0=
+eyJoaXN0b3J5IjpbOTgyMzc4NiwxMTA1OTc3MjQsLTEwNzI4Nz
+I4NDgsLTQ3NzU0NDkzMiwtNzg4MDE5OTMzLDQzMDE4MzM0OCw5
+MjYwODA2MTEsLTYwMzg0MjM3OSwtMTgzNTM0MzU1MywxNzEzNj
+E0Mjg4LC0xMTAwNjIzOTczLDMzMjE3MTgyNCwtMjA3Nzc0MTk3
+NSwtMTIxMjgxNzM0Ml19
 -->
