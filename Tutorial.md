@@ -123,7 +123,7 @@ Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece 
 
 #### Densidad del vocabulario y palabras por oración 
 
-La densidad de vocubulario se mide dividiendo el número de palabras distintas entre el número de palabras totales. 
+La densidad de vocubulario se mide dividiendo el número de palabras distintas entre el número de palabras totales. Entre más cercano a uno es el índice de densidad quiere 
 
 
 ### Términos frecuentes 
@@ -275,11 +275,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU4OTk3ODEsNjI1NTI1NjkxLC0xOD
-A3MjQzNTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1
-NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLD
-E4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4
-NDUzNTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMi
-wtOTkzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1
-ODY3MTIyXX0=
+eyJoaXN0b3J5IjpbLTEwNjE0OTA5Nyw2MjU1MjU2OTEsLTE4MD
+cyNDM1MDMsMTgwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MTA1MzU0
+ODQsLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC02NTQ5ODk4MTEsMT
+gwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC02OTg0
+NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOTg3OTQwMTEyLC
+05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMTg5MjkxMzE4Myw0NTU4
+NjcxMjJdfQ==
 -->
