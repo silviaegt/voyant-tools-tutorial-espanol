@@ -155,11 +155,11 @@ La forma en Voyant calcula la longitud de las oraciones debe considerarse muy ap
 2. Da clic sobre los nombre de algunos documentos que te interesen por su índice de ppo. Dirige tu mirada a la ventana de "Lector" y lee algunas líneas, ¿leer el texto original agrega información nueva a tu lectura de los datos? Comenta por qué.
 
 #### Palabras más frecuentes y palabras diferenciadas
-(volveremos a este inciso pero antes vamos a la sección siguiente)
+(volveremos a este inciso en la siguiente sección)
 
 ### Términos frecuentes 
 
-El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
+Ya que tenemos una idea de algunas características globales de nuestros documentos, es primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
 
 #### :pencil2: *Actividad*
 a) ¿Qué palabras son las más frecuente en el corpus?
@@ -306,7 +306,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzg2NTI0NCwtNjk5MTA3MTc2LDExOT
+eyJoaXN0b3J5IjpbMTU4Mjg2NjM0MCwtNjk5MTA3MTc2LDExOT
 c4OTc2MDcsMTgxOTE4NjI2MSwxMzkwOTIzMzM1LC0xMjU5MTU0
 MDg1LDYyNTUyNTY5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LD
 Q5NjAzOTM3NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2
