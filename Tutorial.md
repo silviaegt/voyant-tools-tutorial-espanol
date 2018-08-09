@@ -149,13 +149,7 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 > * **pobreza, desigualdad**: puedes buscar más de un término separándolos por comas* avena: términos coincidentes que terminan con el sufijo avena como un término
 > **"contra la pobreza"**: buscar la frase exacta
 >  **"pobreza extrema"~ 5**:  buscar los términos dentro de las comillas, el orden no importa, y pueden haber hasta 5 palabras de por medio (esa condición regresaría frases cómo "la extrema desigualdad y la pobreza" donde se encuentra la palabra "pobreza" y "extrema" 
-^ * avena: términos coincidentes que terminan con el sufijo avena como términos separados (capa, foso, etc.)
-abrigo, chaqueta: unir cada término separado por comas como términos separados
-abrigo | chaqueta: términos de partido separados por tuberías como un solo término
-"abrigo de invierno": abrigo de invierno como frase exacta (el orden de las palabras es importante)
-"abrigo de invierno" ~ 0: frase de invierno abrigo o abrigo de invierno (el orden de las palabras no importa, pero 0 palabras en el medio)
-"manoplas de abrigo" ~ 5: pelele cerca de manoplas (dentro de 5 palabras)
-^ abrigo *, chaqueta | parka, "manoplas de abrigo" ~ 5: combinar sintaxis
+
 #### Actividad 3:
 Busca el uso de algún término que te p
 
@@ -292,11 +286,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nz
-k0MDExMiwtOTkzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMx
-ODMsNDU1ODY3MTIyLC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LD
-I0MzgwOTUyMSw4OTQ2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4
-NzY4LC0xMzkwNDQxODMwLC0xMDUxMDU3MDIxLDExMzExNzg1Nj
-UsLTE0MzgxMTMwNDgsLTEwMDU5ODQ0ODUsLTE4NDQ0MywtNDYw
-ODg5MTAzXX0=
+eyJoaXN0b3J5IjpbLTEyODUxMTUzOTgsOTQ0NDQ4MTE4LDEzMT
+MxODQ2NDMsMTk4Nzk0MDExMiwtOTkzNzM1Njc1LC0xNjc0ODk1
+MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIyLC0xMjI3MzI3MTc4LC
+0xOTQzNTE0Nzg1LDI0MzgwOTUyMSw4OTQ2MTk5NDgsLTE5OTg3
+MzQyOTAsOTkwNjY4NzY4LC0xMzkwNDQxODMwLC0xMDUxMDU3MD
+IxLDExMzExNzg1NjUsLTE0MzgxMTMwNDgsLTEwMDU5ODQ0ODUs
+LTE4NDQ0M119
 -->
