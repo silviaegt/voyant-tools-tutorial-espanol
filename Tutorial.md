@@ -156,10 +156,8 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 
 #### Actividad:
 1. Busca el uso de algún término que te parezca interesante, utiliza alguna de las estrategias de la consulta avanzada
-2. Ordena las filas usando las diferentes columnas (Documento, Izquierda, Derecha y Posición): ¿qué conclusiones puedes
-
-
- (el orden de esta columna palabras en orden inverso, de derecha a izquierda desde la palabra clave)
+2. Ordena las filas usando las diferentes columnas (Documento, Izquierda, Derecha y Posición): ¿qué conclusiones puedes derivar sobre tus términos utilizando la información de estas columnas?
+> **Ojo**: el orden de esta columna palabras en orden inverso, de derecha a izquierda desde la palabra clave)
 Por defecto, los contextos se muestran para los más frecuentes en el término corpus.
 
 Se muestra algún contexto para cada aparición, también puede hacer clic en el ícono más para expandir cualquier fila dada para mostrar más contexto.
@@ -289,11 +287,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODcyMTI3Myw5NDQ0NDgxMTgsMTMxMz
-E4NDY0MywxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUz
-MDksMTg5MjkxMzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLT
-E5NDM1MTQ3ODUsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODcz
-NDI5MCw5OTA2Njg3NjgsLTEzOTA0NDE4MzAsLTEwNTEwNTcwMj
-EsMTEzMTE3ODU2NSwtMTQzODExMzA0OCwtMTAwNTk4NDQ4NSwt
-MTg0NDQzXX0=
+eyJoaXN0b3J5IjpbLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMT
+g0NjQzLDE5ODc5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMw
+OSwxODkyOTEzMTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMT
+k0MzUxNDc4NSwyNDM4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0
+MjkwLDk5MDY2ODc2OCwtMTM5MDQ0MTgzMCwtMTA1MTA1NzAyMS
+wxMTMxMTc4NTY1LC0xNDM4MTEzMDQ4LC0xMDA1OTg0NDg1LC0x
+ODQ0NDNdfQ==
 -->
