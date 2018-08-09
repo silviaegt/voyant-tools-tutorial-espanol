@@ -160,11 +160,9 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 > **Ojo**: el orden de las palabras en la columna "Izquerda" es inverso; es decir, de derecha a izquierda desde la palabra clave.
 
 #### Exportando las tablas
-Para exportar los datos se da clic en el cuadro con flecha que aparece cuando pasas el cursor sobre la esquina derecha de "Contextos". En seguida se selecciona la opción “Exportar datos actuales” y se da clic sobre la última opción 
-
+Para exportar los datos se da clic en el cuadro con flecha que aparece cuando pasas el cursor sobre la esquina derecha de "Contextos". En seguida se selecciona la opción “Exportar datos actuales” y se da clic sobre la última opción **[ExportGridAllTsv]**
   
 
-![](https://lh5.googleusercontent.com/oOAxfmF2GqQPAdoDJu04S-GTXdagRCJWv8dXlECYTzg35mOZR249avA0vYz5dFJDy6xrCneWJgQTr_2D1PHp82ufGRzubhPrIy3H1ZaWGI0B0BUaODvkh_JeouYXP73p3MM2IbFY)
 
 Normalmente copy paste funciona. Si no lo hace guardar en txt y luego abrir excel y dar clic en datos y después “Desde un archivo de texto”
 
@@ -281,11 +279,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNj
-U1OTA4MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0
-MywxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMT
-g5MjkxMzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLTE5NDM1
-MTQ3ODUsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODczNDI5MC
-w5OTA2Njg3NjgsLTEzOTA0NDE4MzAsLTEwNTEwNTcwMjEsMTEz
-MTE3ODU2NV19
+eyJoaXN0b3J5IjpbLTY1NDk4OTgxMSwxODA5NzY3NjUxLC0xMz
+A3OTc3NjMyLDE2NTU5MDgxODUsLTY5ODQ1MzU3LDk0NDQ0ODEx
+OCwxMzEzMTg0NjQzLDE5ODc5NDAxMTIsLTk5MzczNTY3NSwtMT
+Y3NDg5NTMwOSwxODkyOTEzMTgzLDQ1NTg2NzEyMiwtMTIyNzMy
+NzE3OCwtMTk0MzUxNDc4NSwyNDM4MDk1MjEsODk0NjE5OTQ4LC
+0xOTk4NzM0MjkwLDk5MDY2ODc2OCwtMTM5MDQ0MTgzMCwtMTA1
+MTA1NzAyMV19
 -->
