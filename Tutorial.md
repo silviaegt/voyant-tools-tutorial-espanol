@@ -141,7 +141,7 @@ Nos vamos pegando poquito a poquito
 Cuando tú me besas con esa destreza  
 Veo que eres malicia con delicadeza
 
-2. Lee la información de los documentos 
+2. Lee los datos densidad léxica de los documentos de nuestro corpus y compáralos con la información sobre su extensión, ¿qué notas
 -   Más alto:  [2006_pe_toledo](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.404);  [2006_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.340);  [2009_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.336);  [2008_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.334);  [2006_mx_fox](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.328)
 -   Más bajo:  [2008_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.192);  [2007_mx_calderon](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.192);  [2007_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.206);  [2007_pe_garcia](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.214);  [2010_ar_fernandez](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.217)
 
@@ -296,7 +296,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDQzNzkwMyw2MjU1MjU2OTEsLTE4MD
+eyJoaXN0b3J5IjpbLTMyMDU2MTE4Niw2MjU1MjU2OTEsLTE4MD
 cyNDM1MDMsMTgwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MTA1MzU0
 ODQsLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC02NTQ5ODk4MTEsMT
 gwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC02OTg0
