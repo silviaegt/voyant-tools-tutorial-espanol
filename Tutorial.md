@@ -69,7 +69,7 @@ Por último, está la opción que usaremos en este tutorial, en la que puedes ca
 
 Para descargar los materiales de este tutorial ve a la página de Github y descárgala toda
 
-![Descargar corpus](/img/1_descargar_archivos.png)
+![Descargar corpus](img/1_descargar_archivos.png)
 
  deberás haberlos descargado a tu computadora y descomprimido
 
@@ -237,7 +237,8 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0OTk4NCw5MjYwODA2MTEsLTYwMzg0Mj
-M3OSwtMTgzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTcz
-LDMzMjE3MTgyNCwtMjA3Nzc0MTk3NSwtMTIxMjgxNzM0Ml19
+eyJoaXN0b3J5IjpbLTg5NjcxMzgxMyw5MjYwODA2MTEsLTYwMz
+g0MjM3OSwtMTgzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIz
+OTczLDMzMjE3MTgyNCwtMjA3Nzc0MTk3NSwtMTIxMjgxNzM0Ml
+19
 -->
