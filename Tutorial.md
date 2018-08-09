@@ -117,6 +117,7 @@ Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece 
 #### :pencil2: Actividad
 ¿Qué podemos concluir sobre los textos más largos?, ¿qué podemos decir sobre los más cortos?
 
+
 ### Términos frecuentes 
 
 El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
@@ -266,11 +267,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2MDM5Mzc1LC0xNzEwNTM1NDg0LC0yMD
-UxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MDk3Njc2
-NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUzNTcsOT
-Q0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMiwtOTkzNzM1
-Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIyLC
-0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUyMSw4OTQ2
-MTk5NDhdfQ==
+eyJoaXN0b3J5IjpbLTE0NTkyMTQ5NzksNDk2MDM5Mzc1LC0xNz
+EwNTM1NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5
+ODExLDE4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NS
+wtNjk4NDUzNTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0
+MDExMiwtOTkzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxOD
+MsNDU1ODY3MTIyLC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0
+MzgwOTUyMV19
 -->
