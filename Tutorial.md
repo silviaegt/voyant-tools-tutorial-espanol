@@ -65,10 +65,12 @@ La tercera es que es una buena práctica integrar ciertos metadatos de contexto 
 En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones son en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar. 
 Una tercera opción es "Abrir" alguno de los dos corpus que Voyant tiene precargados (las obras de Shakespeare o las novelas de Austen: ambos en inglés).
 
-Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el corpus completo de discursos presidenciales
+Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el [corpus completo](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo) de discursos presidenciales
 
 
 ![Cargar documentos](img/cargar.png)
+
+## Leer resultad
 
 2.  Filtrar palabras comunes (o stopwords)
 Dar clic en el “switch”, esquina superior derecha cuanda pasas mouse
@@ -211,6 +213,6 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA2MjM5NzMsMzMyMTcxODI0LC0yMD
-c3NzQxOTc1LC0xMjEyODE3MzQyXX0=
+eyJoaXN0b3J5IjpbMTcxMzYxNDI4OCwtMTEwMDYyMzk3MywzMz
+IxNzE4MjQsLTIwNzc3NDE5NzUsLTEyMTI4MTczNDJdfQ==
 -->
