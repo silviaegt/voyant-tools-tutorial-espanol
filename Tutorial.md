@@ -152,7 +152,7 @@ La forma en Voyant calcula la longitud de las oraciones debe considerarse muy ap
 
 #### :pencil2: *Actividad*
 1. Observa las estadísticas de palabras por oración (ppo) y contesta: ¿qué patrón o patrones puedes observar si consideras el índice de ppo y los metadatos de país, presidente y año contenidos en el nombre del documento?
-2. Da clic sobre el nombre de algún documento que te interese y observa la venta de "Lector", lee algunas líneas y comenta ¿q
+2. Da clic sobre los nombre de algunos documentos que te interesen por su índice de ppo. Dirige tu mirada a la ventana de "Lector", lee algunas líneas
 
 
 ### Términos frecuentes 
@@ -304,7 +304,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEzMDExNTUsMTE5Nzg5NzYwNywxOD
+eyJoaXN0b3J5IjpbLTIwOTczMjQzNTksMTE5Nzg5NzYwNywxOD
 E5MTg2MjYxLDEzOTA5MjMzMzUsLTEyNTkxNTQwODUsNjI1NTI1
 NjkxLC0xODA3MjQzNTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC
 0xNzEwNTM1NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0
