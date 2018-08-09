@@ -143,9 +143,8 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 
 ![Agregar columna de posición](img/posicion.png)
 
-> **Consulta avanzada** Si se
-
-abrigo: combinar el abrigo del término exacto
+> **Consulta avanzada** Voyant permite el uso de comodines para buscar variaciones de una palabra:
+> abrigo: combinar el abrigo del término exacto
 abrigo *: coincide con los términos que comienzan con la capa de prefijo y luego con un comodín como un término
 ^ abrigo *: términos del fósforo que comienzan con el abrigo como términos separados (abrigo, abrigos, etc.)
 * avena: términos coincidentes que terminan con el sufijo avena como un término
@@ -292,7 +291,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTM4NTk3MywxODkyOTEzMTgzLDQ1NT
+eyJoaXN0b3J5IjpbLTQ0NzA3MTE5MCwxODkyOTEzMTgzLDQ1NT
 g2NzEyMiwtMTIyNzMyNzE3OCwtMTk0MzUxNDc4NSwyNDM4MDk1
 MjEsODk0NjE5OTQ4LC0xOTk4NzM0MjkwLDk5MDY2ODc2OCwtMT
 M5MDQ0MTgzMCwtMTA1MTA1NzAyMSwxMTMxMTc4NTY1LC0xNDM4
