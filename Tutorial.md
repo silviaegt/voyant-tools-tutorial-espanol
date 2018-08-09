@@ -126,7 +126,7 @@ Agregamos las palabras “vacías”, siempre separadas por un salto de línea (
 
 Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en salvar. 
   
->    **Para descomprimir en Linux** botón derecho + "Extraer aquí"
+>    **Ojo** este filtrado afecta las métricas de todas las otras herramientas por lo que es muy importante que documentes estos
 
 3. Ver palabras en contexto
 
@@ -255,7 +255,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzOTc4MzAwLC0xMDUxMDU3MDIxLDExMz
-ExNzg1NjUsLTE0MzgxMTMwNDgsLTEwMDU5ODQ0ODUsLTE4NDQ0
-MywtNDYwODg5MTAzXX0=
+eyJoaXN0b3J5IjpbLTEzOTA0NDE4MzAsLTEwNTEwNTcwMjEsMT
+EzMTE3ODU2NSwtMTQzODExMzA0OCwtMTAwNTk4NDQ4NSwtMTg0
+NDQzLC00NjA4ODkxMDNdfQ==
 -->
