@@ -156,7 +156,7 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 
 #### Actividad:
 1. Busca el uso de algún término que te parezca interesante, utiliza alguna de las estrategias de la consulta avanzada
-2. Ordena las columnas difer
+2. Ordena las filas usando las diferentes columnas (Documento, Izquierda, Derecha y Posición): ¿qué conclusiones puedes
 
 
  (el orden de esta columna palabras en orden inverso, de derecha a izquierda desde la palabra clave)
@@ -289,7 +289,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDc0MDY2Niw5NDQ0NDgxMTgsMTMxMz
+eyJoaXN0b3J5IjpbLTczODcyMTI3Myw5NDQ0NDgxMTgsMTMxMz
 E4NDY0MywxOTg3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUz
 MDksMTg5MjkxMzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLT
 E5NDM1MTQ3ODUsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODcz
