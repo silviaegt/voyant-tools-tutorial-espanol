@@ -148,7 +148,7 @@ Veo que eres malicia con delicadeza
 
 #### Palabras por oración
 
-La forma en Voyant calcula la longitud de las oraciones debe considerarse muy aproximada, especialmente por lo complicado que es distinguir entre el final de una abreviatura y el de una oración y otros usos de la puntuación (por ejemplo, en algunos casos un punto y coma marca el límite entre oraciones y en otros . El análisis de las oraciones es realizado por una 'clase' de Java (es decir, , llamada [BreakIterator](https://docs.oracle.com/javase/tutorial/i18n/text/about.html) y depende, además, de la detección precisa del lenguaje.
+La forma en Voyant calcula la longitud de las oraciones debe considerarse muy aproximada, especialmente por lo complicado que es distinguir entre el final de una abreviatura y el de una oración y otros usos de la puntuación (por ejemplo, en algunos casos un punto y coma marca el límite entre oraciones y en otros . El análisis de las oraciones es realizado por una 'clase' del lenguaje de programación Java (es decir, una plantilla con instrucciones) que se llama [BreakIterator](https://docs.oracle.com/javase/tutorial/i18n/text/about.html).
 
 ### Términos frecuentes 
 
@@ -299,11 +299,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Nzg5NzYwNywxODE5MTg2MjYxLDEzOT
-A5MjMzMzUsLTEyNTkxNTQwODUsNjI1NTI1NjkxLC0xODA3MjQz
-NTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1NDg0LC
-0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MDk3
-Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUzNT
-csOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMiwtOTkz
-NzM1Njc1XX0=
+eyJoaXN0b3J5IjpbLTExMjQzMzMxMDgsMTE5Nzg5NzYwNywxOD
+E5MTg2MjYxLDEzOTA5MjMzMzUsLTEyNTkxNTQwODUsNjI1NTI1
+NjkxLC0xODA3MjQzNTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC
+0xNzEwNTM1NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0
+OTg5ODExLDE4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwOD
+E4NSwtNjk4NDUzNTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4
+Nzk0MDExMl19
 -->
