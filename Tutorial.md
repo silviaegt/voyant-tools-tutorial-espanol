@@ -94,14 +94,15 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 ![Lector](img/lector.png)
 3. Tendencias: gráfico de distribución que muestra los términos en todo el corpus (o dentro de un documento cuando sólo se carga uno)
 ![Lector](img/tendencias.png)
-4. Resumen: proporciona una visión general de ciertas estadísticas textuales del corpus actual
-![Resumen](img/resumen.png)
+4. Sumario: proporciona una visión general de ciertas estadísticas textuales del corpus actual
+![Resumen](img/sumario.png)
 5. Contextos: concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
 ![Contextos](img/contextos.png)
 
 ### Términos frecuentes 
 
 El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
+
 ![](https://lh5.googleusercontent.com/BbkeB4jyWyNgvybCCSGXcAzFmav-3p9QY-iQzx7JAFKOp31Cw4Cc4yyLt8ZPyie91XrgPI-AltY6vi3zAnpeLvSoyqDLuAXcmPOk92-QHX9MP2rjPLUKX6nBfRuoOHz0Dk9RsJAs)
 
 Agregar palabras “ruido”, siempre separadas con “enter”
@@ -236,9 +237,9 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjA4NjMyOSwtOTQwODE3NjgxLDExMD
-U5NzcyNCwtMTA3Mjg3Mjg0OCwtNDc3NTQ0OTMyLC03ODgwMTk5
-MzMsNDMwMTgzMzQ4LDkyNjA4MDYxMSwtNjAzODQyMzc5LC0xOD
-M1MzQzNTUzLDE3MTM2MTQyODgsLTExMDA2MjM5NzMsMzMyMTcx
-ODI0LC0yMDc3NzQxOTc1LC0xMjEyODE3MzQyXX0=
+eyJoaXN0b3J5IjpbLTEwNDIzODk4NzUsLTk0MDgxNzY4MSwxMT
+A1OTc3MjQsLTEwNzI4NzI4NDgsLTQ3NzU0NDkzMiwtNzg4MDE5
+OTMzLDQzMDE4MzM0OCw5MjYwODA2MTEsLTYwMzg0MjM3OSwtMT
+gzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTczLDMzMjE3
+MTgyNCwtMjA3Nzc0MTk3NSwtMTIxMjgxNzM0Ml19
 -->
