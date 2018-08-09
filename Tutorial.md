@@ -102,7 +102,7 @@ Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenem
 La primera frase que leemos se ve algo como esto: 
 >Este corpus tiene 25 documentos con 261,032  total de palabras  y 18,550  formulario de palabra única. Creado  hace 8 horas atrás .
 
-Es de notar que el texto es una traducción au
+Es de notar que el texto es una traducción automática del inglés por lo que no debe de sorprendernos lo raro que se lee. Ignoremos por ahora esta falla menor para 
 
 
 ### Términos frecuentes 
@@ -254,7 +254,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzM3MDM1MCwxODg2MDE0MDQsLTY1ND
+eyJoaXN0b3J5IjpbMTg4MjkzOTYyOSwxODg2MDE0MDQsLTY1ND
 k4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLDE2NTU5MDgx
 ODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMTg0NjQzLDE5OD
 c5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxODkyOTEz
