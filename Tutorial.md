@@ -130,7 +130,19 @@ Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en sal
 
 ### Palabras en contexto
 
-El proyecto con el que algunas historias dan por inauguradas las Humanidades Digitales es el _Index Thomisticus_, una concordancia de la obra de Tomás de Aquino iniciada por el filólogo y religioso Roberto Busa. En la esquina inferior derecha Voyant, es posible hacer consultas de términos específicos y 
+El proyecto con el que algunas historias dan por inauguradas las Humanidades Digitales es el _Index Thomisticus_, una concordancia de la obra de Tomás de Aquino iniciada por el filólogo y religioso Roberto Busa. En la esquina inferior derecha Voyant, es posible hacer consultas de términos específicos.
+
+La tabla que vemos tiene las siguientes columnas predeterminadas:
+
+Documento: este es un documento en el que ocurren palabras clave y contextos
+Izquierda: palabras contextuales a la izquierda de la palabra clave (tenga en cuenta que la ordenación por esta columna trata las palabras en orden inverso, de derecha a izquierda desde la palabra clave)
+Término: la palabra clave que coincide con la consulta de término predeterminada o proporcionada por el usuario
+Derecha: palabras contextuales a la derecha de la palabra clave
+Se puede mostrar una columna adicional para mostrar el término Posición (índice de token) en el documento.
+
+Por defecto, los contextos se muestran para los más frecuentes en el término corpus.
+
+Se muestra algún contexto para cada aparición, también puede hacer clic en el ícono más para expandir cualquier fila dada para mostrar más contexto.
 
 la barra libre inferior esquina izquierda, escribir palabra que se desea analizar
 
@@ -257,9 +269,9 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3Nzk0MTUsLTE5NDM1MTQ3ODUsMjQzOD
-A5NTIxLDg5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2Njg3Njgs
-LTEzOTA0NDE4MzAsLTEwNTEwNTcwMjEsMTEzMTE3ODU2NSwtMT
-QzODExMzA0OCwtMTAwNTk4NDQ4NSwtMTg0NDQzLC00NjA4ODkx
-MDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTQxMjE3MDksLTE5NDM1MTQ3ODUsMj
+QzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2Njg3
+NjgsLTEzOTA0NDE4MzAsLTEwNTEwNTcwMjEsMTEzMTE3ODU2NS
+wtMTQzODExMzA0OCwtMTAwNTk4NDQ4NSwtMTg0NDQzLC00NjA4
+ODkxMDNdfQ==
 -->
