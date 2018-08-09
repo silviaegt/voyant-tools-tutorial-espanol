@@ -104,7 +104,7 @@ b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
 >    **Tip** pasa el mouse sobre las palabras para obtener sus frecuencias derecho
 
-La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opcipo
+La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras 
 
 
 ![](https://lh5.googleusercontent.com/BbkeB4jyWyNgvybCCSGXcAzFmav-3p9QY-iQzx7JAFKOp31Cw4Cc4yyLt8ZPyie91XrgPI-AltY6vi3zAnpeLvSoyqDLuAXcmPOk92-QHX9MP2rjPLUKX6nBfRuoOHz0Dk9RsJAs)
@@ -241,5 +241,5 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MDEwNDc5LC00NjA4ODkxMDNdfQ==
+eyJoaXN0b3J5IjpbLTE4NDQ0MywtNDYwODg5MTAzXX0=
 -->
