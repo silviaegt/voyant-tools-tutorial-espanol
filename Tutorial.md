@@ -143,6 +143,19 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 
 ![Agregar columna de posición](img/posicion.png)
 
+> **Consulta avanzada** Si se
+
+abrigo: combinar el abrigo del término exacto
+abrigo *: coincide con los términos que comienzan con la capa de prefijo y luego con un comodín como un término
+^ abrigo *: términos del fósforo que comienzan con el abrigo como términos separados (abrigo, abrigos, etc.)
+* avena: términos coincidentes que terminan con el sufijo avena como un término
+^ * avena: términos coincidentes que terminan con el sufijo avena como términos separados (capa, foso, etc.)
+abrigo, chaqueta: unir cada término separado por comas como términos separados
+abrigo | chaqueta: términos de partido separados por tuberías como un solo término
+"abrigo de invierno": abrigo de invierno como frase exacta (el orden de las palabras es importante)
+"abrigo de invierno" ~ 0: frase de invierno abrigo o abrigo de invierno (el orden de las palabras no importa, pero 0 palabras en el medio)
+"manoplas de abrigo" ~ 5: pelele cerca de manoplas (dentro de 5 palabras)
+^ abrigo *, chaqueta | parka, "manoplas de abrigo" ~ 5: combinar sintaxis
 #### Actividad 3:
 Busca el uso de algún término que te p
 
@@ -279,10 +292,10 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ3MTQ3MDIsMTg5MjkxMzE4Myw0NT
-U4NjcxMjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3ODUsMjQzODA5
-NTIxLDg5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2Njg3NjgsLT
-EzOTA0NDE4MzAsLTEwNTEwNTcwMjEsMTEzMTE3ODU2NSwtMTQz
-ODExMzA0OCwtMTAwNTk4NDQ4NSwtMTg0NDQzLC00NjA4ODkxMD
-NdfQ==
+eyJoaXN0b3J5IjpbLTM4OTM4NTk3MywxODkyOTEzMTgzLDQ1NT
+g2NzEyMiwtMTIyNzMyNzE3OCwtMTk0MzUxNDc4NSwyNDM4MDk1
+MjEsODk0NjE5OTQ4LC0xOTk4NzM0MjkwLDk5MDY2ODc2OCwtMT
+M5MDQ0MTgzMCwtMTA1MTA1NzAyMSwxMTMxMTc4NTY1LC0xNDM4
+MTEzMDQ4LC0xMDA1OTg0NDg1LC0xODQ0NDMsLTQ2MDg4OTEwM1
+19
 -->
