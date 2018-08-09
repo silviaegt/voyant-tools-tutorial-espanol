@@ -105,8 +105,8 @@ La primera frase que leemos se ve algo como esto:
 De entrada con esta información sabemos exactamente cuántos documentos distintos fueron cargados (25); cuántas palabras en total hay (261,032); y cuántas palabras distintas y únicas existen (18,550).
 
 #### Actividad
-1. Si nuestro corpus se compusiera de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? 
-Este corpus tiene ____ documentos con un total de palabras  y 18,550 formulario de palabra única.
+1. Si nuestro corpus se compusiera de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? Completa la línea de abajo
+Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabras únicas.
 
 ### Términos frecuentes 
 
@@ -257,11 +257,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjIxOTQwMCwxODg2MDE0MDQsLTY1ND
-k4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLDE2NTU5MDgx
-ODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEzMTg0NjQzLDE5OD
-c5NDAxMTIsLTk5MzczNTY3NSwtMTY3NDg5NTMwOSwxODkyOTEz
-MTgzLDQ1NTg2NzEyMiwtMTIyNzMyNzE3OCwtMTk0MzUxNDc4NS
-wyNDM4MDk1MjEsODk0NjE5OTQ4LC0xOTk4NzM0MjkwLDk5MDY2
-ODc2OF19
+eyJoaXN0b3J5IjpbLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC02NT
+Q5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4
+MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOT
+g3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMTg5Mjkx
+MzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3OD
+UsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2
+Njg3NjhdfQ==
 -->
