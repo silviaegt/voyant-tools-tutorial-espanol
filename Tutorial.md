@@ -97,6 +97,7 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 
 ### El sumario o la atalaya
 
+Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenemos una vista de pájaro sobre algunas estadísticas de nuestro corpus y es un buen
 
 
 ### Términos frecuentes 
@@ -248,11 +249,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjAxNDA0LC02NTQ5ODk4MTEsMTgwOT
-c2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC02OTg0NTM1
-Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOTg3OTQwMTEyLC05OT
-M3MzU2NzUsLTE2NzQ4OTUzMDksMTg5MjkxMzE4Myw0NTU4Njcx
-MjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3ODUsMjQzODA5NTIxLD
-g5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2Njg3NjgsLTEzOTA0
-NDE4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE5MDU2MDYwNjgsMTg4NjAxNDA0LC02NT
+Q5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4
+MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOT
+g3OTQwMTEyLC05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMTg5Mjkx
+MzE4Myw0NTU4NjcxMjIsLTEyMjczMjcxNzgsLTE5NDM1MTQ3OD
+UsMjQzODA5NTIxLDg5NDYxOTk0OCwtMTk5ODczNDI5MCw5OTA2
+Njg3NjhdfQ==
 -->
