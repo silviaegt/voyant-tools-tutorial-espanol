@@ -126,7 +126,8 @@ Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece 
 La densidad de vocubulario se mide dividiendo el número de palabras distintas entre el número de palabras totales. Entre más cercano a uno es el índice de densidad quiere decir que el vocabulario es más denso.
 #### :pencil2: *Actividad*
 
-Calcula la densidad de la siguiente estrofa:
+Calcula la densidad de las siguientes estrofas:
+
 >¿Qué humor puede ser más raro 
 >que el que, falto de consejo, 
 >él mismo empaña el espejo,
@@ -287,7 +288,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEyMTIwODEsNjI1NTI1NjkxLC0xOD
+eyJoaXN0b3J5IjpbLTE4OTYwNTM5NDYsNjI1NTI1NjkxLC0xOD
 A3MjQzNTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1
 NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLD
 E4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4
