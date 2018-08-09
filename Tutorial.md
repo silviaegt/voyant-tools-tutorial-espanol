@@ -162,7 +162,7 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 #### Exportando las tablas
 Para exportar los datos se da clic en el cuadro con flecha que aparece cuando pasas el cursor sobre la esquina derecha de "Contextos". En seguida se selecciona la opción “Exportar datos actuales” y se da clic sobre la última opción **[ExportGridAllTsv]**
   
-
+Eso lleva a un
 
 Normalmente copy paste funciona. Si no lo hace guardar en txt y luego abrir excel y dar clic en datos y después “Desde un archivo de texto”
 
@@ -279,11 +279,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDk4OTgxMSwxODA5NzY3NjUxLC0xMz
-A3OTc3NjMyLDE2NTU5MDgxODUsLTY5ODQ1MzU3LDk0NDQ0ODEx
-OCwxMzEzMTg0NjQzLDE5ODc5NDAxMTIsLTk5MzczNTY3NSwtMT
-Y3NDg5NTMwOSwxODkyOTEzMTgzLDQ1NTg2NzEyMiwtMTIyNzMy
-NzE3OCwtMTk0MzUxNDc4NSwyNDM4MDk1MjEsODk0NjE5OTQ4LC
-0xOTk4NzM0MjkwLDk5MDY2ODc2OCwtMTM5MDQ0MTgzMCwtMTA1
-MTA1NzAyMV19
+eyJoaXN0b3J5IjpbMTc3NjIyODI3NiwtNjU0OTg5ODExLDE4MD
+k3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUz
+NTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMiwtOT
+kzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3
+MTIyLC0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUyMS
+w4OTQ2MTk5NDgsLTE5OTg3MzQyOTAsOTkwNjY4NzY4LC0xMzkw
+NDQxODMwXX0=
 -->
