@@ -69,7 +69,7 @@ Por último, está la opción que usaremos en este tutorial, en la que puedes ca
 
 Para esto deberás haberlos descargado a tu computadora y descomprimido
 
->  **Para descomprimir** haz clic derecho en el **archivo** comprimido (.**ZIP** o .RAR). En el menú desplegable, selecciona 7-**Zip** y haz clic en una de estas 3 opciones: Extraer ficheros
+>  **Para descomprimir** haz clic derecho en el  archivo comprimido (.**ZIP**). En el menú desplegable, selecciona  y haz clic en una de estas 3 opciones: Extraer ficheros
  y al momento de cargar, los deberás seleccionar todos pulsando la tecla shift y mientras la dejas presionada se
 
 
@@ -229,7 +229,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE0NTg4NzQsLTYwMzg0MjM3OSwtMT
-gzNTM0MzU1MywxNzEzNjE0Mjg4LC0xMTAwNjIzOTczLDMzMjE3
-MTgyNCwtMjA3Nzc0MTk3NSwtMTIxMjgxNzM0Ml19
+eyJoaXN0b3J5IjpbMTczNTIzMjYwOSwtNjAzODQyMzc5LC0xOD
+M1MzQzNTUzLDE3MTM2MTQyODgsLTExMDA2MjM5NzMsMzMyMTcx
+ODI0LC0yMDc3NzQxOTc1LC0xMjEyODE3MzQyXX0=
 -->
