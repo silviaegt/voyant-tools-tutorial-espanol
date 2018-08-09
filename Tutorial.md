@@ -130,7 +130,7 @@ Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en sal
 
 ### Palabras en contexto
 
-En la barra libre inferior esquina izquierda, escribir palabra que se desea analizar
+Uno de los primeros desarrollos de las humanidades digitales fueron las concordancias. Una concordanicEn la barra libre inferior esquina izquierda, escribir palabra que se desea analizar
 
 
 
@@ -255,8 +255,8 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDc5NzAwOSw5OTA2Njg3NjgsLTEzOT
-A0NDE4MzAsLTEwNTEwNTcwMjEsMTEzMTE3ODU2NSwtMTQzODEx
-MzA0OCwtMTAwNTk4NDQ4NSwtMTg0NDQzLC00NjA4ODkxMDNdfQ
-==
+eyJoaXN0b3J5IjpbLTE5OTg3MzQyOTAsOTkwNjY4NzY4LC0xMz
+kwNDQxODMwLC0xMDUxMDU3MDIxLDExMzExNzg1NjUsLTE0Mzgx
+MTMwNDgsLTEwMDU5ODQ0ODUsLTE4NDQ0MywtNDYwODg5MTAzXX
+0=
 -->
