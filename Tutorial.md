@@ -126,16 +126,18 @@ Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece 
 La densidad de vocubulario se mide dividiendo el número de palabras distintas entre el número de palabras totales. Entre más cercano a uno es el índice de densidad quiere decir que el vocabulario es más denso.
 #### :pencil2: *Actividad*
 
-Calcula la densidad de las siguientes estrofas:
-
+1. Calcula la densidad de las siguientes estrofas:
+Estrofa 1.
 >¿Qué humor puede ser más raro 
->que el que, falto de consejo, 
->él mismo empaña el espejo,
->y siente que no esté claro?
+que el que, falto de consejo, 
+él mismo empaña el espejo,
+y siente que no esté claro?
 
-
-
-es sumamente densa pues tiene 5 palabras en total y ninguna se repite (5/5 = 1). Por el contrario, la frase "Deja que te diga cosas al oído, para que te acuerdes si no estás conmigo"
+Estrofa 2.
+>Pasito a pasito, suave suavecito  
+Nos vamos pegando poquito a poquito  
+Cuando tú me besas con esa destreza  
+Veo que eres malicia con delicadeza
 
 #### Palabras por oración
 
@@ -288,11 +290,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYwNTM5NDYsNjI1NTI1NjkxLC0xOD
-A3MjQzNTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1
-NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLD
-E4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4
-NDUzNTcsOTQ0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMi
-wtOTkzNzM1Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1
-ODY3MTIyXX0=
+eyJoaXN0b3J5IjpbLTk0MzkxNzU0NCw2MjU1MjU2OTEsLTE4MD
+cyNDM1MDMsMTgwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MTA1MzU0
+ODQsLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC02NTQ5ODk4MTEsMT
+gwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC02OTg0
+NTM1Nyw5NDQ0NDgxMTgsMTMxMzE4NDY0MywxOTg3OTQwMTEyLC
+05OTM3MzU2NzUsLTE2NzQ4OTUzMDksMTg5MjkxMzE4Myw0NTU4
+NjcxMjJdfQ==
 -->
