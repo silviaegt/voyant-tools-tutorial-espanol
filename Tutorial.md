@@ -37,9 +37,7 @@ Una vez localizada la información, el segundo paso es copiar el texto que te in
 
 ![Bloc de notas](https://upload.wikimedia.org/wikipedia/en/4/44/Windows_Notepad.png)
 * en Mac, en TextEdit; 
-![Text Edit](https://upload.wikimedia.org/wikipedia/commons/7/7a/TextEdit_1.10_screenshot.png)
-* y en Linux, en Gedit.
-![Gedit](https://upload.wikimedia.org/wikipedia/commons/7/7a/TextEdit_1.10_screenshot.png)
+* y en Linux, en [Gedit](https://wiki.gnome.org/Apps/Gedit).
 
 ### 3. Guardar archivo
 
@@ -245,5 +243,5 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTMyMTIwNF19
+eyJoaXN0b3J5IjpbLTg5NjE1NDQxNV19
 -->
