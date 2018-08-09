@@ -109,8 +109,13 @@ Si nuestro corpus se compusiera de dos documentos; uno que dijera: "tengo hambre
 Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabras únicas.
 
 
+Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece lo siguiente:
 
+-   Más largo:  [2008_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (20702);  [2007_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (20390);  [2006_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (18619);  [2010_cl_pinera](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (16982);  [2007_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (15514)
+-   Más corto:  [2006_pe_toledo](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (1289);  [2006_mx_fox](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (2450);  [2008_mx_calderon](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (3317);  [2006_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (4709);  [2009_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (5807)
 
+#### :pencil2: Actividad
+¿Qué podemos concluir sobre los textos más largos?, ¿qué 
 ### Términos frecuentes 
 
 El primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
@@ -260,11 +265,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzgxMDI1NCwtMTcxMDUzNTQ4NCwtMj
-A1MTg3MDQyMCwxODg2MDE0MDQsLTY1NDk4OTgxMSwxODA5NzY3
-NjUxLC0xMzA3OTc3NjMyLDE2NTU5MDgxODUsLTY5ODQ1MzU3LD
-k0NDQ0ODExOCwxMzEzMTg0NjQzLDE5ODc5NDAxMTIsLTk5Mzcz
-NTY3NSwtMTY3NDg5NTMwOSwxODkyOTEzMTgzLDQ1NTg2NzEyMi
-wtMTIyNzMyNzE3OCwtMTk0MzUxNDc4NSwyNDM4MDk1MjEsODk0
-NjE5OTQ4XX0=
+eyJoaXN0b3J5IjpbNzgxOTE3NTUyLC0xNzEwNTM1NDg0LC0yMD
+UxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MDk3Njc2
+NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUzNTcsOT
+Q0NDQ4MTE4LDEzMTMxODQ2NDMsMTk4Nzk0MDExMiwtOTkzNzM1
+Njc1LC0xNjc0ODk1MzA5LDE4OTI5MTMxODMsNDU1ODY3MTIyLC
+0xMjI3MzI3MTc4LC0xOTQzNTE0Nzg1LDI0MzgwOTUyMSw4OTQ2
+MTk5NDhdfQ==
 -->
