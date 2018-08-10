@@ -210,7 +210,7 @@ Ahora, más veces que no, la información más interesante no se encuentra dentr
 Y en Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784):
 
 $$
-tf-idf_{t,D} = ( \frac{tf_{t,d}}{N}) \cdot \log_{10}  \frac{|D|}{\{ d∈D\}}
+tf-idf_{t,D} = ( \frac{tf_{t,d}}{N}) \cdot \log_{10}  \frac{|D|}{\{ d∈D:t∈D\}}
 $$
 **Palabras diferenciadas**  (comparado con el resto del corpus):
 
@@ -273,11 +273,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzY3MTY2OSwtMTM2NzI2OTY2LC0xNz
-IxMTg5MTY1LC0xMzM4MzQxMzcyLDEzMDg2OTg3NTAsLTEwNTQy
-Mzg0MDQsLTIwMzU0Nzc2MzQsLTM4ODk3NjE0MywxNDAyNjkwMD
-gzLDE2MzEzODA5NzksLTY5OTEwNzE3NiwxMTk3ODk3NjA3LDE4
-MTkxODYyNjEsMTM5MDkyMzMzNSwtMTI1OTE1NDA4NSw2MjU1Mj
-U2OTEsLTE4MDcyNDM1MDMsMTgwNzA1NDI5OSw0OTYwMzkzNzUs
-LTE3MTA1MzU0ODRdfQ==
+eyJoaXN0b3J5IjpbMzQyODUzMTE5LC0xMzY3MjY5NjYsLTE3Mj
+ExODkxNjUsLTEzMzgzNDEzNzIsMTMwODY5ODc1MCwtMTA1NDIz
+ODQwNCwtMjAzNTQ3NzYzNCwtMzg4OTc2MTQzLDE0MDI2OTAwOD
+MsMTYzMTM4MDk3OSwtNjk5MTA3MTc2LDExOTc4OTc2MDcsMTgx
+OTE4NjI2MSwxMzkwOTIzMzM1LC0xMjU5MTU0MDg1LDYyNTUyNT
+Y5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LDQ5NjAzOTM3NSwt
+MTcxMDUzNTQ4NF19
 -->
