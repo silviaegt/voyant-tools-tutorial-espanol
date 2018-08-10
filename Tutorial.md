@@ -205,7 +205,7 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 #### Palabras diferenciadas
 
-Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes / evidentes
+Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. 
 
 **Palabras diferenciadas**  (comparado con el resto del corpus):
 
@@ -268,7 +268,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjgzMjEwOCwxNDAyNjkwMDgzLDE2Mz
+eyJoaXN0b3J5IjpbLTI5NTY1NTUzOCwxNDAyNjkwMDgzLDE2Mz
 EzODA5NzksLTY5OTEwNzE3NiwxMTk3ODk3NjA3LDE4MTkxODYy
 NjEsMTM5MDkyMzMzNSwtMTI1OTE1NDA4NSw2MjU1MjU2OTEsLT
 E4MDcyNDM1MDMsMTgwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MTA1
