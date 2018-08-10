@@ -188,7 +188,7 @@ Agregamos las palabras “vacías”, siempre separadas por un salto de línea (
 
 Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en salvar. 
   
->    **Ojo** este filtrado afecta las métricas de todas las otras herramientas por lo que es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt)
+>    **Ojo** por defecto está seleccionado una caja que dice "Aplicar a todo"; si ésta se deja presionada el filtrado afectará las métricas de todas las otras herramienta. Esto n por lo que es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt)
 
 #### Palabras más frecuentes y palabras diferenciadas
 Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anterior las palabras  
@@ -240,7 +240,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5OTY2NDY2LDE2MzEzODA5NzksLTY5OT
+eyJoaXN0b3J5IjpbNzI5MzY1NTcwLDE2MzEzODA5NzksLTY5OT
 EwNzE3NiwxMTk3ODk3NjA3LDE4MTkxODYyNjEsMTM5MDkyMzMz
 NSwtMTI1OTE1NDA4NSw2MjU1MjU2OTEsLTE4MDcyNDM1MDMsMT
 gwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MTA1MzU0ODQsLTIwNTE4
