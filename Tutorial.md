@@ -95,7 +95,7 @@ Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene 
 5. Contextos: concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
 ![Contextos](img/contextos.png)
 
-### El sumario 
+### Sumario de los documentos 
 
 Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenemos una vista de pájaro sobre algunas estadísticas de nuestro corpus por lo que funciona como un buen punto de partida.
 
@@ -189,6 +189,10 @@ Agregamos las palabras “vacías”, siempre separadas por un salto de línea (
 Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en salvar. 
   
 >    **Ojo** este filtrado afecta las métricas de todas las otras herramientas por lo que es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt)
+
+
+#### Palabras por oración
+
 
 ### Palabras en contexto
 
@@ -306,11 +310,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM4NTQzMjIsLTY5OTEwNzE3NiwxMT
-k3ODk3NjA3LDE4MTkxODYyNjEsMTM5MDkyMzMzNSwtMTI1OTE1
-NDA4NSw2MjU1MjU2OTEsLTE4MDcyNDM1MDMsMTgwNzA1NDI5OS
-w0OTYwMzkzNzUsLTE3MTA1MzU0ODQsLTIwNTE4NzA0MjAsMTg4
-NjAxNDA0LC02NTQ5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3Nz
-YzMiwxNjU1OTA4MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMx
-MzE4NDY0M119
+eyJoaXN0b3J5IjpbMTEzMTI3MzM0NywtNjk5MTA3MTc2LDExOT
+c4OTc2MDcsMTgxOTE4NjI2MSwxMzkwOTIzMzM1LC0xMjU5MTU0
+MDg1LDYyNTUyNTY5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LD
+Q5NjAzOTM3NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2
+MDE0MDQsLTY1NDk4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3Nj
+MyLDE2NTU5MDgxODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEz
+MTg0NjQzXX0=
 -->
