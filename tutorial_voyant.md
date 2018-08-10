@@ -30,7 +30,7 @@
 <li>Exportar los datos y las visualizaciones en diferentes formatos (csv, png, html)</li>
 </ul>
 <h2 id="creando-un-corpus-en-texto-plano">Creando un corpus en texto plano</h2>
-<p>Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial y tampoco  o conocimiento extra.</p>
+<p>Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial ni conocimiento extra.</p>
 <h3 id="buscar-textos">1. Buscar textos</h3>
 <p>Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, <a href="https://twitter.com/rivaquiroga">Riva Quiroga</a> y yo preparamos un corpus de los discursos anuales de presidentes de Argentina, Chile, Colombia, México y Perú (¡gracias <a href="https://twitter.com/madvivacious">Pamela Sertzen</a>!) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008.</p>
 <h3 id="copiar-en-editor-de-texto-plano">2. Copiar en editor de texto plano</h3>
