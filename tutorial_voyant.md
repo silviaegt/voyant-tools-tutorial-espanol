@@ -237,8 +237,8 @@ tfidf_{t,D} = ( \frac{tf_{t,d}}{N_i}) \cdot \log_{10}  \frac{|D|}{\{ d∈D:t∈d
 <h4 id="exportando-las-tablas">Exportando las tablas</h4>
 <p>Para exportar los datos se da clic en el cuadro con flecha que aparece cuando pasas el cursor sobre la esquina derecha de “Contextos”. En seguida se selecciona la opción “Exportar datos actuales” y se da clic sobre la última opción <strong>[ExportGridAllTsv]</strong></p>
 <p>Eso lleva a una página donde están separados los campos por un tabulador:</p>
-<p><img src="img/exportar_contextos.png" alt="Exportar contextos"><br>
-Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) Y pégalos en una hoja de cálculo (Ctrl+V). Si esto no funciona, guarda los datos como en un editor sencillo de texto como .txt (¡no olvides la codificación UTF-8) y luego en tu hoja de cálculo importa los datos. En Excel, por ejemplo, esto se hace en la pestañad de datos y después “Desde un archivo de texto”</p>
+<p><img src="img/exportar_contextos.png" alt="Exportar contextos"></p>
+<p>Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) y pégalos en una hoja de cálculo (Ctrl+V). Si esto no funciona, guarda los datos como en un editor sencillo de texto como .txt (¡no olvides la codificación UTF-8) y luego en tu hoja de cálculo importa los datos. En Excel, por ejemplo, esto se hace en la pestañad de datos y después “Desde un archivo de texto”</p>
 <h2 id="bibliografía">Bibliografía</h2>
 <p>Peña, Gilberto Anguiano, y Catalina Naumis Peña. 2015. «Extracción de candidatos a términos de un corpus de la lengua general». <em>Investigación Bibliotecológica: Archivonomía, Bibliotecología e Información</em> 29 (67): 19-45. <a href="https://doi.org/10.1016/j.ibbai.2016.02.035">https://doi.org/10.1016/j.ibbai.2016.02.035</a>.<br>
 Sinclair, Stéfan and Geoffrey Rockwell, 2016.  <em>Voyant Tools</em>. Web. <a href="http://voyant-tools.org/">http://voyant-tools.org/</a>.</p>
