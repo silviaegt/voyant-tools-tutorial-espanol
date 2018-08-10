@@ -208,9 +208,12 @@ Ahora, más veces que no, la información más interesante no se encuentra dentr
 
 Y en Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784):
 
+
 $$
 tfidf_{t,D} = ( \frac{tf_{t,d}}{N_i}) \cdot \log_{10}  \frac{|D|}{\{ d∈D:t∈d\}}
 $$
+
+
 **Palabras diferenciadas**  (comparado con el resto del corpus):
 
 1.  [2006_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#):  [argentinos](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (25),  [argentino](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (24),  [argentina](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (64),  [uruguay](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (12),  [2004](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (13).
@@ -272,11 +275,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI1NzU1MTYsNzU5NjU5MjU5LDUyMT
-YyODYwMSwtMTM2NTE0NDU1MywxNDA1Mjg0NzI0LDU2NjI2OTMz
-MiwtNzM1MzI1OTA5LDM0Mjg1MzExOSwtMTM2NzI2OTY2LC0xNz
-IxMTg5MTY1LC0xMzM4MzQxMzcyLDEzMDg2OTg3NTAsLTEwNTQy
-Mzg0MDQsLTIwMzU0Nzc2MzQsLTM4ODk3NjE0MywxNDAyNjkwMD
-gzLDE2MzEzODA5NzksLTY5OTEwNzE3NiwxMTk3ODk3NjA3LDE4
-MTkxODYyNjFdfQ==
+eyJoaXN0b3J5IjpbMTMwNzU3MDgzNCwtMTc4MjU3NTUxNiw3NT
+k2NTkyNTksNTIxNjI4NjAxLC0xMzY1MTQ0NTUzLDE0MDUyODQ3
+MjQsNTY2MjY5MzMyLC03MzUzMjU5MDksMzQyODUzMTE5LC0xMz
+Y3MjY5NjYsLTE3MjExODkxNjUsLTEzMzgzNDEzNzIsMTMwODY5
+ODc1MCwtMTA1NDIzODQwNCwtMjAzNTQ3NzYzNCwtMzg4OTc2MT
+QzLDE0MDI2OTAwODMsMTYzMTM4MDk3OSwtNjk5MTA3MTc2LDEx
+OTc4OTc2MDddfQ==
 -->
