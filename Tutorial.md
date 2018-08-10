@@ -208,14 +208,15 @@ Ahora, más veces que no, la información más interesante no se encuentra dentr
 
 En Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784):
 
-![Fórmula de TF-IDF](img/tfidf.png)
+![Fórmula de TF-IDF](img/tf_idf.png)
 
 $$
 tfidf_{t,D} = ( \frac{tf_{t,d}}{N_i}) \cdot \log_{10}  \frac{|D|}{\{ d∈D:t∈d\}}
 $$
 
+#### :pencil2: *Actividad*
 
-**Palabras diferenciadas**  (comparado con el resto del corpus):
+Observa las **Palabras diferenciadas  (comparado con el resto del corpus)** de cada uno de los documentos y anota qué hipótesis puedes derivar de ell
 
 1.  [2006_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#):  [argentinos](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (25),  [argentino](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (24),  [argentina](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (64),  [uruguay](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (12),  [2004](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (13).
 2.  [2006_cl_bachelet](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#):  [chilenos](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (24),  [chile](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (67),  [innovación](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (15),  [rodrigo](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (8),  [chilenas](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (8).
@@ -276,11 +277,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk1Njc2NjMsLTI4MDUwNzE0NiwtMT
-c4MjU3NTUxNiw3NTk2NTkyNTksNTIxNjI4NjAxLC0xMzY1MTQ0
-NTUzLDE0MDUyODQ3MjQsNTY2MjY5MzMyLC03MzUzMjU5MDksMz
-QyODUzMTE5LC0xMzY3MjY5NjYsLTE3MjExODkxNjUsLTEzMzgz
-NDEzNzIsMTMwODY5ODc1MCwtMTA1NDIzODQwNCwtMjAzNTQ3Nz
-YzNCwtMzg4OTc2MTQzLDE0MDI2OTAwODMsMTYzMTM4MDk3OSwt
-Njk5MTA3MTc2XX0=
+eyJoaXN0b3J5IjpbLTYzOTY1OTI5NCwtMjgwNTA3MTQ2LC0xNz
+gyNTc1NTE2LDc1OTY1OTI1OSw1MjE2Mjg2MDEsLTEzNjUxNDQ1
+NTMsMTQwNTI4NDcyNCw1NjYyNjkzMzIsLTczNTMyNTkwOSwzND
+I4NTMxMTksLTEzNjcyNjk2NiwtMTcyMTE4OTE2NSwtMTMzODM0
+MTM3MiwxMzA4Njk4NzUwLC0xMDU0MjM4NDA0LC0yMDM1NDc3Nj
+M0LC0zODg5NzYxNDMsMTQwMjY5MDA4MywxNjMxMzgwOTc5LC02
+OTkxMDcxNzZdfQ==
 -->
