@@ -205,7 +205,7 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 #### Palabras diferenciadas
 
-Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf/idf. 
+Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency 
 
 **Palabras diferenciadas**  (comparado con el resto del corpus):
 
@@ -268,11 +268,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODk3NjE0MywxNDAyNjkwMDgzLDE2Mz
-EzODA5NzksLTY5OTEwNzE3NiwxMTk3ODk3NjA3LDE4MTkxODYy
-NjEsMTM5MDkyMzMzNSwtMTI1OTE1NDA4NSw2MjU1MjU2OTEsLT
-E4MDcyNDM1MDMsMTgwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MTA1
-MzU0ODQsLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC02NTQ5ODk4MT
-EsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC02
-OTg0NTM1N119
+eyJoaXN0b3J5IjpbLTQ5MDUwODQwNSwtMzg4OTc2MTQzLDE0MD
+I2OTAwODMsMTYzMTM4MDk3OSwtNjk5MTA3MTc2LDExOTc4OTc2
+MDcsMTgxOTE4NjI2MSwxMzkwOTIzMzM1LC0xMjU5MTU0MDg1LD
+YyNTUyNTY5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LDQ5NjAz
+OTM3NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2MDE0MD
+QsLTY1NDk4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLDE2
+NTU5MDgxODVdfQ==
 -->
