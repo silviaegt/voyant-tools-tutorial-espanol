@@ -188,10 +188,12 @@ Agregamos las palabras “vacías”, siempre separadas por un salto de línea (
 
 Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en salvar. 
   
->    **Ojo** por defecto está seleccionado una caja que dice "Aplicar a todo"; si ésta se deja presionada el filtrado afectará las métricas de todas las otras herramienta. Esto n por lo que es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt)
+>    **Ojo** por defecto está seleccionado una caja que dice "Aplicar a todo"; si ésta se deja presionada el filtrado afectará las métricas de todas las otras herramienta. Esto puede ser algo que busques, pero es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt)
 
-#### Palabras más frecuentes y palabras diferenciadas
-Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anterior las palabras  
+#### Palabras más frecuentes
+
+#### ¨Palabras diferenciadas
+Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anterior las palabras filtradas afectan otros campos de Voyant. En este caso, si dejasta seleccionada la caja de "Aplicar a todo"  
 
 ### Palabras en contexto
 
@@ -240,11 +242,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5MzY1NTcwLDE2MzEzODA5NzksLTY5OT
-EwNzE3NiwxMTk3ODk3NjA3LDE4MTkxODYyNjEsMTM5MDkyMzMz
-NSwtMTI1OTE1NDA4NSw2MjU1MjU2OTEsLTE4MDcyNDM1MDMsMT
-gwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MTA1MzU0ODQsLTIwNTE4
-NzA0MjAsMTg4NjAxNDA0LC02NTQ5ODk4MTEsMTgwOTc2NzY1MS
-wtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC02OTg0NTM1Nyw5NDQ0
-NDgxMThdfQ==
+eyJoaXN0b3J5IjpbMTkxMjA5MzU4MCwxNjMxMzgwOTc5LC02OT
+kxMDcxNzYsMTE5Nzg5NzYwNywxODE5MTg2MjYxLDEzOTA5MjMz
+MzUsLTEyNTkxNTQwODUsNjI1NTI1NjkxLC0xODA3MjQzNTAzLD
+E4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1NDg0LC0yMDUx
+ODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MDk3Njc2NT
+EsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUzNTcsOTQ0
+NDQ4MTE4XX0=
 -->
