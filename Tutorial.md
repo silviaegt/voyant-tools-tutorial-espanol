@@ -190,9 +190,8 @@ Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en sal
   
 >    **Ojo** este filtrado afecta las métricas de todas las otras herramientas por lo que es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt)
 
-
-#### Palabras por oración
-
+#### Palabras más frecuentes y palabras diferenciadas
+Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anterior las palabras 
 
 ### Palabras en contexto
 
@@ -310,7 +309,7 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTI3MzM0NywtNjk5MTA3MTc2LDExOT
+eyJoaXN0b3J5IjpbMTYzMTM4MDk3OSwtNjk5MTA3MTc2LDExOT
 c4OTc2MDcsMTgxOTE4NjI2MSwxMzkwOTIzMzM1LC0xMjU5MTU0
 MDg1LDYyNTUyNTY5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LD
 Q5NjAzOTM3NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2
