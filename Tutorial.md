@@ -198,7 +198,7 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 #### :pencil2: *Actividad*
 
-Reflexiona sobre estas palabras y piensa qué si estás en un grupo discute las diferencias 
+Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue ésta información de la que obtienes con si estás en un grupo discute las diferencias 
 
 #### Palabras diferenciadas
 
@@ -265,11 +265,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ5NDk1NTAsMTYzMTM4MDk3OSwtNj
-k5MTA3MTc2LDExOTc4OTc2MDcsMTgxOTE4NjI2MSwxMzkwOTIz
-MzM1LC0xMjU5MTU0MDg1LDYyNTUyNTY5MSwtMTgwNzI0MzUwMy
-wxODA3MDU0Mjk5LDQ5NjAzOTM3NSwtMTcxMDUzNTQ4NCwtMjA1
-MTg3MDQyMCwxODg2MDE0MDQsLTY1NDk4OTgxMSwxODA5NzY3Nj
-UxLC0xMzA3OTc3NjMyLDE2NTU5MDgxODUsLTY5ODQ1MzU3LDk0
-NDQ0ODExOF19
+eyJoaXN0b3J5IjpbMTAzNjY3ODkzMSwxNjMxMzgwOTc5LC02OT
+kxMDcxNzYsMTE5Nzg5NzYwNywxODE5MTg2MjYxLDEzOTA5MjMz
+MzUsLTEyNTkxNTQwODUsNjI1NTI1NjkxLC0xODA3MjQzNTAzLD
+E4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1NDg0LC0yMDUx
+ODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MDk3Njc2NT
+EsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUzNTcsOTQ0
+NDQ4MTE4XX0=
 -->
