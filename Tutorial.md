@@ -201,6 +201,8 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 1. Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue esta información de la que obtienes viendo la nube de palabras. 
 2. Si estás en un grupo discute las diferencias de tus resultados con los de los demás
 
+
+
 #### Palabras diferenciadas
 
 
@@ -266,11 +268,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjY5MDA4MywxNjMxMzgwOTc5LC02OT
-kxMDcxNzYsMTE5Nzg5NzYwNywxODE5MTg2MjYxLDEzOTA5MjMz
-MzUsLTEyNTkxNTQwODUsNjI1NTI1NjkxLC0xODA3MjQzNTAzLD
-E4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1NDg0LC0yMDUx
-ODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MDk3Njc2NT
-EsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwtNjk4NDUzNTcsOTQ0
-NDQ4MTE4XX0=
+eyJoaXN0b3J5IjpbLTEyMjQ5Nzc1OTMsMTQwMjY5MDA4MywxNj
+MxMzgwOTc5LC02OTkxMDcxNzYsMTE5Nzg5NzYwNywxODE5MTg2
+MjYxLDEzOTA5MjMzMzUsLTEyNTkxNTQwODUsNjI1NTI1NjkxLC
+0xODA3MjQzNTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEw
+NTM1NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5OD
+ExLDE4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwt
+Njk4NDUzNTddfQ==
 -->
