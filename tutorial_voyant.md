@@ -6,8 +6,8 @@
 <h1 id="análisis-de-corpus-con-voyant-tools">Análisis de corpus con Voyant Tools</h1>
 <p>El análisis de corpus es un tipo de <a href="http://vocabularios.caicyt.gov.ar/portal/index.php?task=fetchTerm&amp;arg=26&amp;v=42">análisis de contenido</a>, que permite hacer comparaciones a gran escala entre los textos contenidos en dichos corpus.</p>
 <p>Desde el inicio de la computación, lingüistas y especialistas de la <a href="http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&amp;arg=178&amp;v=42">recuperación de la información</a> han creado y utilizado software para apreciar patrones que no son evidentes en la lectura o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de ciertas palabras, o las expresiones que distinguen a un grupo de textos frente a otros.</p>
-<p>Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet.</p>
-<p>Como se ha dicho en este otro <a href="https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc">tutorial</a>,</p>
+<p>Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a Internet y un explorador.</p>
+<p>Como se ha dicho en este otro <a href="https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc">tutorial</a>,es la puerta de entrada perfecta a otros métodos más complejos.</p>
 <p>Al finalizar este tutorial, tendrás la capacidad de:</p>
 <ul>
 <li>Armar un corpus en texto plano</li>
@@ -24,7 +24,7 @@
 <ul>
 <li>Buscar palabras clave en contexto</li>
 <li>Identificar patrones de uso de un término</li>
-<li>Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia, curtosis, asimetría estadística)</li>
+<li>Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia, asimetría estadística)</li>
 </ul>
 </li>
 <li>Exportar los datos y las visualizaciones en diferentes formatos (csv, png, html)</li>
