@@ -159,7 +159,7 @@ La forma en Voyant calcula la longitud de las oraciones debe considerarse muy ap
 
 ### Términos frecuentes 
 
-Ya que tenemos una idea de algunas características globales de nuestros documentos, es primer concepto con el que vamos a trabajar es con el de **frecuencia**. Para esto utilizaremos la ventana de Cirrus. 
+Ya que tenemos una idea de algunas características globales de nuestros documentos, es momento de que empecemos con las características de los conceptos en nuestro corpus. El primer aspecto con el que vamos a trabajar es con el de **frecuencia** y para esto utilizaremos la ventana de Cirrus. 
 
 #### :pencil2: *Actividad*
 a) ¿Qué palabras son las más frecuente en el corpus?
@@ -306,11 +306,11 @@ And this will produce a flow chart:
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjg2NjM0MCwtNjk5MTA3MTc2LDExOT
-c4OTc2MDcsMTgxOTE4NjI2MSwxMzkwOTIzMzM1LC0xMjU5MTU0
-MDg1LDYyNTUyNTY5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LD
-Q5NjAzOTM3NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2
-MDE0MDQsLTY1NDk4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3Nj
-MyLDE2NTU5MDgxODUsLTY5ODQ1MzU3LDk0NDQ0ODExOCwxMzEz
-MTg0NjQzXX0=
+eyJoaXN0b3J5IjpbLTE2MzM4NTQzMjIsLTY5OTEwNzE3NiwxMT
+k3ODk3NjA3LDE4MTkxODYyNjEsMTM5MDkyMzMzNSwtMTI1OTE1
+NDA4NSw2MjU1MjU2OTEsLTE4MDcyNDM1MDMsMTgwNzA1NDI5OS
+w0OTYwMzkzNzUsLTE3MTA1MzU0ODQsLTIwNTE4NzA0MjAsMTg4
+NjAxNDA0LC02NTQ5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3Nz
+YzMiwxNjU1OTA4MTg1LC02OTg0NTM1Nyw5NDQ0NDgxMTgsMTMx
+MzE4NDY0M119
 -->
