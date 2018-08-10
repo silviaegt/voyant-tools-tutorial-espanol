@@ -204,9 +204,9 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 #### Palabras diferenciadas
 
-Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un [documento](https://es.wikipedia.org/wiki/Documento "Documento") en una colección determinada.
+Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
 
-Y en Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784):
+En Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784):
 
 
 $$
@@ -275,11 +275,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg2Nzg2ODIsLTE3ODI1NzU1MTYsNz
-U5NjU5MjU5LDUyMTYyODYwMSwtMTM2NTE0NDU1MywxNDA1Mjg0
-NzI0LDU2NjI2OTMzMiwtNzM1MzI1OTA5LDM0Mjg1MzExOSwtMT
-M2NzI2OTY2LC0xNzIxMTg5MTY1LC0xMzM4MzQxMzcyLDEzMDg2
-OTg3NTAsLTEwNTQyMzg0MDQsLTIwMzU0Nzc2MzQsLTM4ODk3Nj
-E0MywxNDAyNjkwMDgzLDE2MzEzODA5NzksLTY5OTEwNzE3Niwx
-MTk3ODk3NjA3XX0=
+eyJoaXN0b3J5IjpbLTI4MDUwNzE0NiwtMTc4MjU3NTUxNiw3NT
+k2NTkyNTksNTIxNjI4NjAxLC0xMzY1MTQ0NTUzLDE0MDUyODQ3
+MjQsNTY2MjY5MzMyLC03MzUzMjU5MDksMzQyODUzMTE5LC0xMz
+Y3MjY5NjYsLTE3MjExODkxNjUsLTEzMzgzNDEzNzIsMTMwODY5
+ODc1MCwtMTA1NDIzODQwNCwtMjAzNTQ3NzYzNCwtMzg4OTc2MT
+QzLDE0MDI2OTAwODMsMTYzMTM4MDk3OSwtNjk5MTA3MTc2LDEx
+OTc4OTc2MDddfQ==
 -->
