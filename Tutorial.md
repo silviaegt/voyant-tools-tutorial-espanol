@@ -192,13 +192,13 @@ Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en sal
 
 #### Palabras más frecuentes
 
-Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anterior las palabras filtradas afectan otros campos de Voyant. En este caso, si dejasta seleccionada la caja de "Aplicar a todo"  la lista debajo de la leyenda: **Palabra más frecuente en el corpus** , te mostrará las palabras que se repiten más **sin contar** a aquéllas que fueron filtradas. En mi caso, muestra:
+Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anterior las palabras filtradas afectan otros campos de Voyant. En este caso, si dejasta seleccionada la caja de "Aplicar a todo"  la lista debajo de la leyenda: **Palabra más frecuente en el corpus** , mostrará las palabras que se repiten más **sin contar** aquéllas que fueron filtradas. En mi caso, muestra:
 
 >[social](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (437);  [nacional](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (427);  [chile](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (395);  [nuestro](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (393);  [inversión](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (376)
 
 #### :pencil2: *Actividad*
 
-1. Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue ésta información de la que obtienes viendo la nube de palabras. 
+1. Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue esta información de la que obtienes viendo la nube de palabras. 
 2. Si estás en un grupo discute las diferencias de tus resultados con los de los demás
 
 #### Palabras diferenciadas
@@ -266,7 +266,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTQ1NzA4OSwxNjMxMzgwOTc5LC02OT
+eyJoaXN0b3J5IjpbMTQwMjY5MDA4MywxNjMxMzgwOTc5LC02OT
 kxMDcxNzYsMTE5Nzg5NzYwNywxODE5MTg2MjYxLDEzOTA5MjMz
 MzUsLTEyNTkxNTQwODUsNjI1NTI1NjkxLC0xODA3MjQzNTAzLD
 E4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1NDg0LC0yMDUx
