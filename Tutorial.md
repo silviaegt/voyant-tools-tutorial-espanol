@@ -210,7 +210,7 @@ Ahora, más veces que no, la información más interesante no se encuentra dentr
 Y en Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784):
 
 $$
-tf-idf_ = ( \frac{frecuencia de término}{número de palabras}) \cdot \log_{10}  \frac{N}{df_t}
+tf-idf_ = ( \frac{Frecuencia De Término}{Número De Palabras}) \cdot \log_{10}  \frac{|D|}{df_t}
 $$
 **Palabras diferenciadas**  (comparado con el resto del corpus):
 
@@ -273,7 +273,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM3OTM4NzUsLTEzMzgzNDEzNzIsMT
+eyJoaXN0b3J5IjpbLTE3MjExODkxNjUsLTEzMzgzNDEzNzIsMT
 MwODY5ODc1MCwtMTA1NDIzODQwNCwtMjAzNTQ3NzYzNCwtMzg4
 OTc2MTQzLDE0MDI2OTAwODMsMTYzMTM4MDk3OSwtNjk5MTA3MT
 c2LDExOTc4OTc2MDcsMTgxOTE4NjI2MSwxMzkwOTIzMzM1LC0x
