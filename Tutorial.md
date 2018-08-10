@@ -205,8 +205,9 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 #### Palabras diferenciadas
 
-Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); es decir, 
+Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); es decir, la frecuencia de 
 
+Y en Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784):
 
 $$
 tf-idf_{t,d} = (1 +\log tf_{t,d}) \cdot \log_{10}  \frac{N}{df_t}
@@ -272,11 +273,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU0Nzc2MzQsLTM4ODk3NjE0MywxND
-AyNjkwMDgzLDE2MzEzODA5NzksLTY5OTEwNzE3NiwxMTk3ODk3
-NjA3LDE4MTkxODYyNjEsMTM5MDkyMzMzNSwtMTI1OTE1NDA4NS
-w2MjU1MjU2OTEsLTE4MDcyNDM1MDMsMTgwNzA1NDI5OSw0OTYw
-MzkzNzUsLTE3MTA1MzU0ODQsLTIwNTE4NzA0MjAsMTg4NjAxND
-A0LC02NTQ5ODk4MTEsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwx
-NjU1OTA4MTg1XX0=
+eyJoaXN0b3J5IjpbMjA0Mzg4MTY3LC0yMDM1NDc3NjM0LC0zOD
+g5NzYxNDMsMTQwMjY5MDA4MywxNjMxMzgwOTc5LC02OTkxMDcx
+NzYsMTE5Nzg5NzYwNywxODE5MTg2MjYxLDEzOTA5MjMzMzUsLT
+EyNTkxNTQwODUsNjI1NTI1NjkxLC0xODA3MjQzNTAzLDE4MDcw
+NTQyOTksNDk2MDM5Mzc1LC0xNzEwNTM1NDg0LC0yMDUxODcwND
+IwLDE4ODYwMTQwNCwtNjU0OTg5ODExLDE4MDk3Njc2NTEsLTEz
+MDc5Nzc2MzJdfQ==
 -->
