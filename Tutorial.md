@@ -205,7 +205,7 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 #### Palabras diferenciadas
 
-
+Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes / evidentes
 
 **Palabras diferenciadas**  (comparado con el resto del corpus):
 
@@ -268,11 +268,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ5Nzc1OTMsMTQwMjY5MDA4MywxNj
-MxMzgwOTc5LC02OTkxMDcxNzYsMTE5Nzg5NzYwNywxODE5MTg2
-MjYxLDEzOTA5MjMzMzUsLTEyNTkxNTQwODUsNjI1NTI1NjkxLC
-0xODA3MjQzNTAzLDE4MDcwNTQyOTksNDk2MDM5Mzc1LC0xNzEw
-NTM1NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNCwtNjU0OTg5OD
-ExLDE4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1NTkwODE4NSwt
-Njk4NDUzNTddfQ==
+eyJoaXN0b3J5IjpbLTg2MjgzMjEwOCwxNDAyNjkwMDgzLDE2Mz
+EzODA5NzksLTY5OTEwNzE3NiwxMTk3ODk3NjA3LDE4MTkxODYy
+NjEsMTM5MDkyMzMzNSwtMTI1OTE1NDA4NSw2MjU1MjU2OTEsLT
+E4MDcyNDM1MDMsMTgwNzA1NDI5OSw0OTYwMzkzNzUsLTE3MTA1
+MzU0ODQsLTIwNTE4NzA0MjAsMTg4NjAxNDA0LC02NTQ5ODk4MT
+EsMTgwOTc2NzY1MSwtMTMwNzk3NzYzMiwxNjU1OTA4MTg1LC02
+OTg0NTM1N119
 -->
