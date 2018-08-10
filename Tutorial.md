@@ -208,6 +208,7 @@ Ahora, más veces que no, la información más interesante no se encuentra dentr
 
 En Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784):
 
+![Fórmula de TF-IDF](img/tfidf.png)
 
 $$
 tfidf_{t,D} = ( \frac{tf_{t,d}}{N_i}) \cdot \log_{10}  \frac{|D|}{\{ d∈D:t∈d\}}
@@ -275,11 +276,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDUwNzE0NiwtMTc4MjU3NTUxNiw3NT
-k2NTkyNTksNTIxNjI4NjAxLC0xMzY1MTQ0NTUzLDE0MDUyODQ3
-MjQsNTY2MjY5MzMyLC03MzUzMjU5MDksMzQyODUzMTE5LC0xMz
-Y3MjY5NjYsLTE3MjExODkxNjUsLTEzMzgzNDEzNzIsMTMwODY5
-ODc1MCwtMTA1NDIzODQwNCwtMjAzNTQ3NzYzNCwtMzg4OTc2MT
-QzLDE0MDI2OTAwODMsMTYzMTM4MDk3OSwtNjk5MTA3MTc2LDEx
-OTc4OTc2MDddfQ==
+eyJoaXN0b3J5IjpbLTEzMTk1Njc2NjMsLTI4MDUwNzE0NiwtMT
+c4MjU3NTUxNiw3NTk2NTkyNTksNTIxNjI4NjAxLC0xMzY1MTQ0
+NTUzLDE0MDUyODQ3MjQsNTY2MjY5MzMyLC03MzUzMjU5MDksMz
+QyODUzMTE5LC0xMzY3MjY5NjYsLTE3MjExODkxNjUsLTEzMzgz
+NDEzNzIsMTMwODY5ODc1MCwtMTA1NDIzODQwNCwtMjAzNTQ3Nz
+YzNCwtMzg4OTc2MTQzLDE0MDI2OTAwODMsMTYzMTM4MDk3OSwt
+Njk5MTA3MTc2XX0=
 -->
