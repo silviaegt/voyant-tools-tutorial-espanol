@@ -205,8 +205,12 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 #### Palabras diferenciadas
 
-Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency 
+Ahora, más veces que no, la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); es decir, 
 
+
+$$
+tf-idf_{t,d} = (1 +\log tf_{t,d}) \cdot \log \frac{N}{df_t}
+$$
 **Palabras diferenciadas**  (comparado con el resto del corpus):
 
 1.  [2006_ar_kircher](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#):  [argentinos](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (25),  [argentino](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (24),  [argentina](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (64),  [uruguay](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (12),  [2004](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#)  (13).
@@ -268,11 +272,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDUwODQwNSwtMzg4OTc2MTQzLDE0MD
-I2OTAwODMsMTYzMTM4MDk3OSwtNjk5MTA3MTc2LDExOTc4OTc2
-MDcsMTgxOTE4NjI2MSwxMzkwOTIzMzM1LC0xMjU5MTU0MDg1LD
-YyNTUyNTY5MSwtMTgwNzI0MzUwMywxODA3MDU0Mjk5LDQ5NjAz
-OTM3NSwtMTcxMDUzNTQ4NCwtMjA1MTg3MDQyMCwxODg2MDE0MD
-QsLTY1NDk4OTgxMSwxODA5NzY3NjUxLC0xMzA3OTc3NjMyLDE2
-NTU5MDgxODVdfQ==
+eyJoaXN0b3J5IjpbMTczNDA4MTU2LC0zODg5NzYxNDMsMTQwMj
+Y5MDA4MywxNjMxMzgwOTc5LC02OTkxMDcxNzYsMTE5Nzg5NzYw
+NywxODE5MTg2MjYxLDEzOTA5MjMzMzUsLTEyNTkxNTQwODUsNj
+I1NTI1NjkxLC0xODA3MjQzNTAzLDE4MDcwNTQyOTksNDk2MDM5
+Mzc1LC0xNzEwNTM1NDg0LC0yMDUxODcwNDIwLDE4ODYwMTQwNC
+wtNjU0OTg5ODExLDE4MDk3Njc2NTEsLTEzMDc5Nzc2MzIsMTY1
+NTkwODE4NV19
 -->
