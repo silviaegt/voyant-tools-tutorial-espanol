@@ -263,7 +263,9 @@ Para exportar los datos se da clic en el cuadro con flecha que aparece cuando pa
 Eso lleva a una página donde están separados los campos por un tabulador:
 
 ![Exportar contextos](img/exportar_contextos.png)
-Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) Y pégalos en una hoja de cálculo (Ctrl+V). Si esto no funciona, guarda los datos como en un editor sencillo de texto como .txt (¡no olvides la codificación UTF-8) y luego en tu hoja de cálculo importa los datos. En Excel, por ejemplo, esto se hace en la pestañad de datos y después “Desde un archivo de texto”
+
+
+Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) y pégalos en una hoja de cálculo (Ctrl+V). Si esto no funciona, guarda los datos como en un editor sencillo de texto como .txt (¡no olvides la codificación UTF-8) y luego en tu hoja de cálculo importa los datos. En Excel, por ejemplo, esto se hace en la pestañad de datos y después “Desde un archivo de texto”
 
 
 
@@ -277,11 +279,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODY0Mzc1NiwtMjgwNTA3MTQ2LC0xNz
-gyNTc1NTE2LDc1OTY1OTI1OSw1MjE2Mjg2MDEsLTEzNjUxNDQ1
-NTMsMTQwNTI4NDcyNCw1NjYyNjkzMzIsLTczNTMyNTkwOSwzND
-I4NTMxMTksLTEzNjcyNjk2NiwtMTcyMTE4OTE2NSwtMTMzODM0
-MTM3MiwxMzA4Njk4NzUwLC0xMDU0MjM4NDA0LC0yMDM1NDc3Nj
-M0LC0zODg5NzYxNDMsMTQwMjY5MDA4MywxNjMxMzgwOTc5LC02
-OTkxMDcxNzZdfQ==
+eyJoaXN0b3J5IjpbMTY4MDI5NDk1MiwxMTM4NjQzNzU2LC0yOD
+A1MDcxNDYsLTE3ODI1NzU1MTYsNzU5NjU5MjU5LDUyMTYyODYw
+MSwtMTM2NTE0NDU1MywxNDA1Mjg0NzI0LDU2NjI2OTMzMiwtNz
+M1MzI1OTA5LDM0Mjg1MzExOSwtMTM2NzI2OTY2LC0xNzIxMTg5
+MTY1LC0xMzM4MzQxMzcyLDEzMDg2OTg3NTAsLTEwNTQyMzg0MD
+QsLTIwMzU0Nzc2MzQsLTM4ODk3NjE0MywxNDAyNjkwMDgzLDE2
+MzEzODA5NzldfQ==
 -->
