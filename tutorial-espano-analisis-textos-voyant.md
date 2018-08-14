@@ -52,7 +52,9 @@ La primera es que deberás **guardar tus textos en UTF-8**, que es un formato de
 > **¿Qué es utf-8?** Si bien en nuestra pantalla vemos que al teclear una "É" aprece una "É"; para una computadora "É" es una serie de ceros y unos que son interpretados en imagen depiendo del "traductor" o "codificador" que se esté usando. El codificador que contiene códigos binarios para todas los caracteres que se usan en el español es UTF-8. Siguiendo con el ejemplo "11000011", es una cadena de ocho bits --es decir, **ocho** espacios de información-- que en UTF-**8** son interpretados como "É"
 
 En Windows:
-![Guardar en UTF-8 en Windows](img/guardar-en-utf8.gif)
+
+
+![Guardar en UTF-8 en Windows (Torresblanca, 2014)](img/guardar-en-utf8.gif)
 
 
 La segunda es que **el nombre de tu archivo no debe contener acentos ni espacios**, esto asegurará que pueda ser abierto en otros sistemas operativos
@@ -281,6 +283,8 @@ Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) y pégalos en u
 
 Peña, Gilberto Anguiano, y Catalina Naumis Peña. 2015. «Extracción de candidatos a términos de un corpus de la lengua general». _Investigación Bibliotecológica: Archivonomía, Bibliotecología e Información_ 29 (67): 19-45. [https://doi.org/10.1016/j.ibbai.2016.02.035](https://doi.org/10.1016/j.ibbai.2016.02.035).
 Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voyant-tools.org/](http://voyant-tools.org/).
+Torreblanca Perles, José María. 2014. Abrir en excel archivos csv con codificación UTF-8. https://www.youtube.com/watch?v=6l1w8VpIi-E.
+
 
 
 ## Notas al pie
