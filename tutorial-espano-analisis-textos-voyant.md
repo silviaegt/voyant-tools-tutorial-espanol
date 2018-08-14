@@ -155,10 +155,12 @@ La densidad de vocubulario se mide dividiendo el número de palabras distintas e
 1. Calcula la densidad de las siguientes estrofas, compara y comenta:
 
 * Estrofa 1.
->¿Qué humor puede ser más raro
->que el que, falto de consejo,
->él mismo empaña el espejo,
+
+>¿Qué humor puede ser más raro  
+>que el que, falto de consejo,  
+>él mismo empaña el espejo,  
 >y siente que no esté claro?
+
 
 * Estrofa 2.
 >Pasito a pasito, suave suavecito  
