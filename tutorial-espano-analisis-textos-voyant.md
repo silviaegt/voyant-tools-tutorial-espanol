@@ -66,7 +66,9 @@ La primera es que deberás **guardar tus textos en UTF-8**, que es un formato de
 
 #### En Linux
 
-![Guardar en UTF-8 en Mac (Creative Corner, 2016)](img/guardar-en-utf8-ubuntu.gif)
+
+
+![Guardar en UTF-8 en Ubuntu](img/guardar-en-utf8-ubuntu.gif)
 
 
 
