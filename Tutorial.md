@@ -1,13 +1,19 @@
 # Análisis de corpus con Voyant Tools
 
+En este tutorial se aprenderán los principios de creación de un conjunto de textos sobre el que queremos hacer ciertas indagaciones –es decir, de un corpus– y las métrica principales del análisis cuantitativo de estos textos a través de una plataforma sencilla de usar que no requiere instalación: [Voyant Tools](https://voyant-tools.org) (Sinclair y Rockwell, 2016). Está pensado como un primer paso en una serie cada vez más compleja de operaciones que podemos aprender a aplicar sobre nuestros textos. En este sentido, podría considerarse este tutorial como el primero en una serie de tres, donde el segundo es "[Análisis de corpus con Antconc](https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc)" y el tercero "[Análisis de corpus con R](https://programminghistorian.org/es/lecciones/)".
+
+
+## Análisis de corpus
 
 El análisis de corpus es un tipo de [análisis de contenido](http://vocabularios.caicyt.gov.ar/portal/index.php?task=fetchTerm&arg=26&v=42), que permite hacer comparaciones a gran escala entre los textos contenidos en dichos corpus.
 
-Desde el inicio de la computación, lingüistas y especialistas de la [recuperación de la información](http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&arg=178&v=42) han creado y utilizado software para apreciar patrones que no son evidentes en la lectura o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de ciertas palabras, o las expresiones que distinguen a un grupo de textos frente a otros.
+Desde el inicio de la informática, lingüistas computacionales y especialistas de la [recuperación de la información](http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&arg=178&v=42) han creado y utilizado software para apreciar patrones que no son evidentes en la lectura o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de ciertas palabras, o las expresiones que distinguen a un grupo de textos frente a otros.
 
-Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet. 
+## Qué aprenderás en este tutorial
 
-Como se ha dicho en este otro [tutorial](https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc), 
+Voyant Tools es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet. 
+
+Como se ha dicho en este otro [tutorial](https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc), esta herramienta es la puerta de entrada perfecta a otros métodos más complejos.
 
 Al finalizar este tutorial, tendrás la capacidad de:
 
@@ -41,9 +47,8 @@ Una vez localizada la información, el segundo paso es copiar el texto que te in
 
 Cuando guardes el texto debes considerar tres cosas esenciales:
 
-La primera es que, si los textos de tu corpus están en español, deberás **guardarlos en UTF-8**, que es un formato de codificación de caracteres estándar para este idioma. 
+La primera es que deberás **guardar tus textos en UTF-8**, que es un formato de codificación de caracteres estándar. 
 
-(gif de cómo guardar)
 
 > **¿Qué es utf-8?** Si bien en nuestra pantalla vemos que al teclear una "É" aprece una "É"; para una computadora "É" es una serie de ceros y unos que son interpretados en imagen depiendo del "traductor" o "codificador" que se esté usando. El codificador que contiene códigos binarios para todas los caracteres que se usan en el español es UTF-8. Siguiendo con el ejemplo "11000011", es una cadena de ocho bits --es decir, **ocho** espacios de información-- que en UTF-**8** son interpretados como "É"
 
@@ -278,6 +283,3 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 ## Notas al pie
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDI5NDk1Ml19
--->
