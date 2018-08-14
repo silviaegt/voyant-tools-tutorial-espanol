@@ -51,10 +51,23 @@ La primera es que deberás **guardar tus textos en UTF-8**, que es un formato de
 
 > **¿Qué es utf-8?** Si bien en nuestra pantalla vemos que al teclear una "É" aprece una "É"; para una computadora "É" es una serie de ceros y unos que son interpretados en imagen depiendo del "traductor" o "codificador" que se esté usando. El codificador que contiene códigos binarios para todas los caracteres que se usan en el español es UTF-8. Siguiendo con el ejemplo "11000011", es una cadena de ocho bits --es decir, **ocho** espacios de información-- que en UTF-**8** son interpretados como "É"
 
-En Windows:
+#### En Windows:
 
 
 ![Guardar en UTF-8 en Windows (Torresblanca, 2014)](img/guardar-en-utf8.gif)
+
+
+
+#### En Mac:
+
+
+![Guardar en UTF-8 en Mac (Creative Corner, 2016)](img/guardar-en-utf8-mac.gif)
+
+
+#### En Linux
+
+![Guardar en UTF-8 en Mac (Creative Corner, 2016)](img/guardar-en-utf8-ubuntu.gif)
+
 
 
 La segunda es que **el nombre de tu archivo no debe contener acentos ni espacios**, esto asegurará que pueda ser abierto en otros sistemas operativos
