@@ -181,8 +181,6 @@ La forma en Voyant calcula la longitud de las oraciones debe considerarse muy ap
 1. Observa las estadísticas de palabras por oración (ppo) y contesta: ¿qué patrón o patrones puedes observar si consideras el índice de ppo y los metadatos de país, presidente y año contenidos en el nombre del documento?
 2. Da clic sobre los nombre de algunos documentos que te interesen por su índice de ppo. Dirige tu mirada a la ventana de "Lector" y lee algunas líneas, ¿leer el texto original agrega información nueva a tu lectura de los datos? Comenta por qué.
 
-#### Palabras más frecuentes y palabras diferenciadas
-(volveremos a este inciso en la siguiente sección)
 
 ### Términos frecuentes 
 
@@ -192,7 +190,7 @@ Ya que tenemos una idea de algunas características globales de nuestros documen
 a) ¿Qué palabras son las más frecuente en el corpus?
 b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
->    **Tip** pasa el mouse sobre las palabras para obtener sus frecuencias derecho
+>    **Tip** pasa el mouse sobre las palabras para obtener sus frecuencias
 
 La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Un procedimiento común para obtener palabras relevantes es el de filtrar las unidades léxicas gramaticales o _palabras vacías_: artículos, preposiciones, interjecciones, pronombres, etc. (Peña y Peña, 2015)-
 
@@ -217,7 +215,7 @@ Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en sal
   
 >    **Ojo** por defecto está seleccionado una caja que dice "Aplicar a todo"; si ésta se deja presionada el filtrado afectará las métricas de todas las otras herramienta. Esto puede ser algo que busques, pero es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt)
 
-#### Palabras más frecuentes
+#### Frecuencia absoluta
 
 Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anterior las palabras filtradas afectan otros campos de Voyant. En este caso, si dejasta seleccionada la caja de "Aplicar a todo"  la lista debajo de la leyenda: **Palabra más frecuente en el corpus** , mostrará las palabras que se repiten más **sin contar** aquéllas que fueron filtradas. En mi caso, muestra:
 
@@ -227,6 +225,18 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 1. Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue esta información de la que obtienes viendo la nube de palabras. 
 2. Si estás en un grupo discute las diferencias de tus resultados con los de los demás
+
+
+#### Frecuencia relativa
+
+Uno de los procedimientos más comunes de la lingüística de corpus es comparar textos, pero a veces la frecuencia absoluta no es muy informativa. Imaginen el siguiente ejemplo. Tenemos un texto 'A' en el que la palabra **'país'** aparece 15 veces y otro en texto 'B' en el que aparece 60 veces. Leído así parecería que 'país' es cuatro veces más "relevante" en el segundo caso. ¿Pero qué pasa si el texto 'A' tiene 1,500 palabras y el texto 'B' 6,000,000. En 'A', país representa el 1% del texto, mientras que en 'B' sólo el 0.001. Estos números se pueden volver muy pequeñitos, por eso la convención para "normalizar" estas cifras es calcular por cada millón de palabras (Brown). Calcular una frecuencia normalizada es un proceso bastante sencillo. La regla de tres para calcular las palabras por millón del texto 'B' se puede representar de esta manera:
+
+$$
+( \frac{16}{6,000,000}) =  \frac{x}{1,000,000}
+$$
+
+
+RawFrequency*1,000,000/NumberOfTokens (http://www.thegrammarlab.com/?p=160 )
 
 
 #### Palabras diferenciadas
