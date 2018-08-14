@@ -155,16 +155,16 @@ La densidad de vocubulario se mide dividiendo el número de palabras distintas e
 1. Calcula la densidad de las siguientes estrofas, compara y comenta:
 
 * Estrofa 1.
->¿Qué humor puede ser más raro 
-que el que, falto de consejo, 
-él mismo empaña el espejo,
-y siente que no esté claro?
+>¿Qué humor puede ser más raro
+>que el que, falto de consejo,
+>él mismo empaña el espejo,
+>y siente que no esté claro?
 
 * Estrofa 2.
 >Pasito a pasito, suave suavecito  
-Nos vamos pegando poquito a poquito  
-Cuando tú me besas con esa destreza  
-Veo que eres malicia con delicadeza
+>Nos vamos pegando poquito a poquito  
+>Cuando tú me besas con esa destreza  
+>Veo que eres malicia con delicadeza
 
 2. Lee los datos densidad léxica de los documentos de nuestro corpus, ¿qué te dicen?
 -   Más alto:  [2006_pe_toledo](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.404);  [2006_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.340);  [2009_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.336);  [2008_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.334);  [2006_mx_fox](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (0.328)
