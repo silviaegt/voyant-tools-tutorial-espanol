@@ -212,14 +212,14 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 Generalmente la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
 
-En Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784): 
+En Voyant el tfidf se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784): 
 
-Frecuencia Bruta  / Número de Palabras) * log10(totalDocsCount / termInDocsCount
+Frecuencia Bruta  (tf) / Número de Palabras (N)  * log10(totalDocsCount / termInDocsCount
 
 ![Fórmula de TF-IDF](img/tf_idf.png)
 
 $$
-tfidf_{t,D} = ( \frac{tf_{t,d}}{N_i}) \cdot \log_{10}  \frac{|D|}{\{ d∈D:t∈d\}}
+tfidf_{t,D} = ( \frac{tf}{N}) \cdot \log_{10}  \frac{|D|}{\{ d∈D:t∈d\}}
 $$
 
 #### :pencil2: *Actividad*
@@ -287,6 +287,6 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MzMyMDc1LC00MTQ4NzMwMzAsMTY4MD
-I5NDk1Ml19
+eyJoaXN0b3J5IjpbMTM2MTM1MzYyMywtNDE0ODczMDMwLDE2OD
+AyOTQ5NTJdfQ==
 -->
