@@ -214,7 +214,7 @@ Generalmente la información más interesante no se encuentra dentro de las pala
 
 En Voyant se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784): 
 
-Frecuencias  / tokensCount) * log10(totalDocsCount / termInDocsCount
+Frecuencia Bruta  / Número de Palabras) * log10(totalDocsCount / termInDocsCount
 
 ![Fórmula de TF-IDF](img/tf_idf.png)
 
@@ -287,6 +287,6 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzAyMDAxLC00MTQ4NzMwMzAsMTY4MD
+eyJoaXN0b3J5IjpbMzI1MzMyMDc1LC00MTQ4NzMwMzAsMTY4MD
 I5NDk1Ml19
 -->
