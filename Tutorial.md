@@ -207,10 +207,14 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 1. Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue esta información de la que obtienes viendo la nube de palabras. 
 2. Si estás en un grupo discute las diferencias de tus resultados con los de los demás
 
+#### Frecuencia Relativa
+
+Ahora 
+
 
 #### Palabras diferenciadas
 
-Generalmente la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. Es por eso que en el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
+Generalmente la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. En el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
 
 En Voyant el tfidf se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784): 
 
@@ -287,6 +291,6 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3ODc5ODY4LC00MTQ4NzMwMzAsMTY4MD
-I5NDk1Ml19
+eyJoaXN0b3J5IjpbMTg1ODEwNDY4Nyw2MDc4Nzk4NjgsLTQxND
+g3MzAzMCwxNjgwMjk0OTUyXX0=
 -->
