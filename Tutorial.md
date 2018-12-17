@@ -208,7 +208,8 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 #### Frecuencia Relativa
 
-Ahora una "frecuencia bruta" de tres, en un documento de seis palabras es el 50% del total, pero en uno de 3,000 palabras es el 0.1%. Para tener una idea de qué significa esta frecuencia en el contexto de un documento dado
+En el apartado anterior hemos observado la "frecuencia bruta" de las palabras. 
+Sin embargo, como observamos en la sección sobre la extensión de l, en un documento de seis palabras es el 50% del total, pero en uno de 3,000 palabras es el 0.1%. Para tener una idea de qué significa esta frecuencia en el contexto de un documento dado
 
 
 #### Palabras diferenciadas
@@ -307,8 +308,8 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5MDE5OTcsLTIxNDE0NjA2NTYsLTIxMz
-UxMTk0MTIsMTg5MTE5NjA1NiwxNzI4NDc5NDQ5LDY5NjU2NDU0
-NiwxNTYyMzcxNTAyLDYwNzg3OTg2OCwtNDE0ODczMDMwLDE2OD
-AyOTQ5NTJdfQ==
+eyJoaXN0b3J5IjpbLTEyODQxMjEyNiwtMjE0MTQ2MDY1NiwtMj
+EzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0
+NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMT
+Y4MDI5NDk1Ml19
 -->
