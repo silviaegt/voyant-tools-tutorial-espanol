@@ -222,10 +222,6 @@ Frecuencia Bruta  (tf) / Número de Palabras (N)  * log10( Total número de Docu
 
 ![Fórmula de TF-IDF](img/tf_idf.png)
 
-$$
-tfidf_{t,D} = ( \frac{tf}{N}) \cdot \log_{10}  \frac{|D|}{\{ d∈D:t∈d\}}
-$$
-
 #### :pencil2: *Actividad*
 
 Observa las **palabras diferenciadas  (comparado con el resto del corpus)** de cada uno de los documentos y anota qué hipótesis puedes derivar de ellas 
@@ -291,6 +287,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNjA3OD
-c5ODY4LC00MTQ4NzMwMzAsMTY4MDI5NDk1Ml19
+eyJoaXN0b3J5IjpbLTIwNDczOTQyODQsNjk2NTY0NTQ2LDE1Nj
+IzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMTY4MDI5NDk1
+Ml19
 -->
