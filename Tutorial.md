@@ -286,8 +286,8 @@ Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras única
 2. Parece haber una correspondencia entre los discursos más cortos y los más densos, esto es natural pues entre más breve es un texto menos "oportunidad" hay para repetirse. No obstante, esto también podría decirnos algo sobre los estilos de diferentes países o presidentes. Entre menos densidad es más probable que recurran a más recursos retóricos.
 ### Actividad 4
 
-Estos resultados parecen indicar que la presidenta Kirchner, además de tener los discursos más largos es la que hace frases más largas; sin embargo tenemos que tener cuidado con las conclusiones de este tipo pues 
-2. Da clic sobre los nombre de algunos documentos que te interesen por su índice de ppo. Dirige tu mirada a la ventana de "Lector" y lee algunas líneas, ¿leer el texto original agrega información nueva a tu lectura de los datos? Comenta por qué.
+Estos resultados parecen indicar que la presidenta Kirchner, además de tener los discursos más largos es la que hace frases más largas; sin embargo tenemos que tener cuidado con las conclusiones de este tipo pues se trata de discursos orales en los que la puntuación depende de quien transcribe el texto.
+
 
 
 
@@ -301,7 +301,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODMyMDc5MywxODkxMTk2MDU2LDE3Mj
-g0Nzk0NDksNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4
-LC00MTQ4NzMwMzAsMTY4MDI5NDk1Ml19
+eyJoaXN0b3J5IjpbNTcyOTQ0ODI3LDE4OTExOTYwNTYsMTcyOD
+Q3OTQ0OSw2OTY1NjQ1NDYsMTU2MjM3MTUwMiw2MDc4Nzk4Njgs
+LTQxNDg3MzAzMCwxNjgwMjk0OTUyXX0=
 -->
