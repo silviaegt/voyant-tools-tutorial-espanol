@@ -196,7 +196,12 @@ Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos 
 <li>Si estás en un grupo discute las diferencias de tus resultados con los de los demás</li>
 </ol>
 <h4 id="frecuencia-relativa">Frecuencia Relativa</h4>
-<p>Ahora una “frecuencia bruta” de tres, en un documento de seis palabras es el 50% del total, pero en uno de 3,000 palabras es el 0.1%. Para tener una idea de qué significa esta frecuencia en el contexto de un documento dado</p>
+<p>En el apartado anterior hemos observado la “frecuencia bruta” de las palabras.<br>
+Sin embargo, como observamos en la sección sobre la extensión de los documentos, nos dimos cuenta que hay discursos que son mucho más largos que otros.<br>
+Exagerando un poco, no es lo mismo tres palabras en un documento de seis; que tres palabras en un documento de 3,000 palabras. En un caso se trata del 50% del total y en el segundo, es un 0.1% del total.<br>
+Esto queda claro en el apartado anterior con la “frecuencia bruta” de ‘chile’; pues es justo sospechar que d eesas 427 menciones, lo más probable es que la mayoría provenga de los discursos de Bachelet, que como vimos, son los más extensos.<br>
+Para evitar la sobre-representación de un término, los lingüistas han ideado otra medida que se llama: “frecuencia relativa”.<br>
+Ésta se calcula de la siguiente manera:</p>
 <h4 id="palabras-diferenciadas">Palabras diferenciadas</h4>
 <p>Generalmente la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. En el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.</p>
 <p>En Voyant el tfidf se calcula <a href="https://twitter.com/VoyantTools/status/1025458748574326784">de la siguiente manera</a>:</p>
@@ -260,12 +265,18 @@ Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos 
 </ol>
 <h3 id="actividad-3">Actividad 3</h3>
 <ol>
-<li></li>
+<li>a) <strong>La estrofa 1</strong> tiene 23 palabras y 20 son palabras únicas, por lo que 20/23 da igual a una densidad de vocabulario de 0.870; en realidad de 0.869 pero Voyant Tools redondea estos números: <a href="https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e">https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e</a> b) <strong>La estrofa 2</strong> tiene 24 palabras y 20 son palabras únicas, por lo que 20/24 da igual a una densidad de vocabulario de 0.833: <a href="https://voyant-tools.org/?corpus=366630ce91f54ed3577a0873d601d714">https://voyant-tools.org/?corpus=366630ce91f54ed3577a0873d601d714</a>. Como podemos observar la diferencia entre un verso de Sor Juana Inés de la Cruz y otro compuesto por Érika Ender, Daddy Yankee y Luis Fonsi tienen una diferencia de densidad de 0.037; por lo cual debemos tener cuidado al interpretar estos números pues sólo son un indicador cuantitativo de la riqueza del vocabulario y no incluye parámetros como la complejidad de la rima o de los términos.</li>
+<li>Parece haber una correspondencia entre los discursos más cortos y los más densos, esto es natural pues entre más breve es un texto menos “oportunidad” hay para repetirse. No obstante, esto también podría decirnos algo sobre los estilos de diferentes países o presidentes. Entre menos densidad es más probable que recurran a más recursos retóricos.</li>
 </ol>
-<p>a) La estrofa 1 tiene 23 palabras y 20 son palabras únicas, por lo que 20/23 da igual a una densidad de vocabulario de 0.870; en realidad de 0.869 pero Voyant Tools redondea estos números: <a href="https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e">https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e</a><br>
-b) La estrofa 2 tiene 24 palabras y 20 son palabras únicas, por lo que 20/24 da igual a una densidad de vocabulario de 0.833: <a href="https://voyant-tools.org/?corpus=366630ce91f54ed3577a0873d601d714">https://voyant-tools.org/?corpus=366630ce91f54ed3577a0873d601d714</a><br>
-Como podemos observar la diferencia entre un verso de Sor Juana Inés de la Cruz y otro compuesto por Érika Ender, Daddy Yankee y Luis Fonsi tienen una diferencia de densidad de 0.037; por lo cual debemos tener cuidado al interpretar estos números pues sólo son un indicador cuantitativo de la riqueza del vocabulario y no incluye parámetros como la complejidad de la rima o de los términos.<br>
-2. Parece haber una correspondencia entre los discursos más cortos y los más densos, esto es natural pues entre más breve es un texto menos “oportunidad” hay para repetirse. No obstante, esto también podría decirnos algo sobre los estilos de diferentes países o presidentes. Entre menos densidad es más probable que recurran a más recursos retóricos.</p>
+<h3 id="actividad-4">Actividad 4</h3>
+<p>Estos resultados parecen indicar que la presidenta Kirchner, además de tener los discursos más largos es la que hace frases más largas; sin embargo tenemos que tener cuidado con las conclusiones de este tipo pues se trata de discursos orales en los que la puntuación depende de quien transcribe el texto.</p>
+<h3 id="actividad-5">Actividad 5</h3>
+<ol>
+<li><a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">a</a> (5943); <a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">más</a> (1946); <a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">no</a> (1694); <a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">mil</a> (1045); <a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">millones</a> (971)</li>
+<li>La primera palabra es una preposición, la segunda un adverbio de comparición y la tercera un adverbio de negación. Estas palabras podrían ser significativas si lo que se busca comprender es el uso de este tipo de palabras funcionales. Sin embargo, si lo que se  busca son más bien sustantivos, habrá que hacer un filtrado (ver sección: “Palabras más frecuentes”)</li>
+</ol>
+<h3 id="actividad-7">Actividad 7</h3>
+<p>Aquí</p>
 <h2 id="bibliografía">Bibliografía</h2>
 <p>Peña, Gilberto Anguiano, y Catalina Naumis Peña. 2015. «Extracción de candidatos a términos de un corpus de la lengua general». <em>Investigación Bibliotecológica: Archivonomía, Bibliotecología e Información</em> 29 (67): 19-45. <a href="https://doi.org/10.1016/j.ibbai.2016.02.035">https://doi.org/10.1016/j.ibbai.2016.02.035</a>.<br>
 Sinclair, Stéfan and Geoffrey Rockwell, 2016.  <em>Voyant Tools</em>. Web. <a href="http://voyant-tools.org/">http://voyant-tools.org/</a>.</p>
