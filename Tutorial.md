@@ -216,7 +216,7 @@ Para evitar la sobre-representación de un término, los lingüistas han ideado 
 Ésta se calcula de la siguiente manera:
 Frecuencia Bruta * 1,000,000 / Número total de palabras.
 Por ejemplo: 
-Si analizáramos la frecuencia relativa de la palabra 'corazón' vs la palabra 'no' en el verso: "pero  mi  corazón  dice que no, dice que no" 
+Si analizáramos la frecuencia relativa de la palabra 'corazón' vs la palabra 'dice' en el verso: "pero mi corazón dice que no, dice que no" 
 
 
 
@@ -316,7 +316,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NDkxNTEzLC0yMTQxNDYwNjU2LC0yMT
+eyJoaXN0b3J5IjpbOTAxNDQ4MTY3LC0yMTQxNDYwNjU2LC0yMT
 M1MTE5NDEyLDE4OTExOTYwNTYsMTcyODQ3OTQ0OSw2OTY1NjQ1
 NDYsMTU2MjM3MTUwMiw2MDc4Nzk4NjgsLTQxNDg3MzAzMCwxNj
 gwMjk0OTUyXX0=
