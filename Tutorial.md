@@ -211,7 +211,7 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 En el apartado anterior hemos observado la "frecuencia bruta" de las palabras. 
 Sin embargo, como observamos en la sección sobre la extensión de los documentos, nos dimos cuenta que hay discursos que son mucho más largos que otros. 
 Exagerando un poco, no es lo mismo tres palabras en un documento de seis; que tres palabras en un documento de 3,000 palabras. En un caso se trata del 50% del total y en el segundo, es un 0.1% del total. 
-Esto queda claro en el apartado anterior con la presenc
+Esto queda claro en el apartado anterior con la "frecuencia bruta" de 'chile'; pues es justo sospechar que d eesas 427 menciones, lo más probable es que la mayoría se de
 Es por esto que los lingüistas han ideado otra medida que se llama: "frecuencia relativa".
 
 
@@ -312,7 +312,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjEzMTQ2OCwtMjE0MTQ2MDY1NiwtMj
+eyJoaXN0b3J5IjpbMTYwODI2NDkyMiwtMjE0MTQ2MDY1NiwtMj
 EzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0
 NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMT
 Y4MDI5NDk1Ml19
