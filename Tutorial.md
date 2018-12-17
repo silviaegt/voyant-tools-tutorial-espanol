@@ -122,9 +122,8 @@ Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece 
 -   Más corto:  [2006_pe_toledo](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (1289);  [2006_mx_fox](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (2450);  [2008_mx_calderon](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (3317);  [2006_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (4709);  [2009_co_uribe](https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&panels=cirrus,reader,trends,summary,contexts#) (5807)
 
 #### :pencil2: *Actividad 2*
-1. ¿Qué podemos concluir sobre los textos más largos?, ¿qué podemos decir sobre los más cortos?
+1. ¿Qué podemos concluir sobre los textos más largos y los más cortos considerando los metadatos del título?
 2. ¿Para qué nos servirá saber la longitud de los textos?
-3. ¿Qué nos dice la gráfica a la derecha del título de esta sección?
 
 
 #### Densidad del vocabulario
@@ -279,6 +278,9 @@ Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) y pégalos en u
 ## Respuestas a Actividades
 ### Actividad 1
 Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras únicas *(tengo, hambre, sueño)*
+### Actividad 2
+Podríamos observar, por ejemplo, que los textos más largos son de dos países: Chile y Argentina
+
 
 ## Bibliografía
 
@@ -290,7 +292,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA5Njc1ODYsNjk2NTY0NTQ2LDE1Nj
-IzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMTY4MDI5NDk1
-Ml19
+eyJoaXN0b3J5IjpbNDk2MTYwNjg0LDY5NjU2NDU0NiwxNTYyMz
+cxNTAyLDYwNzg3OTg2OCwtNDE0ODczMDMwLDE2ODAyOTQ5NTJd
+fQ==
 -->
