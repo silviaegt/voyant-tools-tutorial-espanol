@@ -279,7 +279,8 @@ Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) y pégalos en u
 ### Actividad 1
 Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras únicas *(tengo, hambre, sueño)*
 ### Actividad 2
-Podríamos observar, por ejemplo, que los textos más largos son de dos países: Chile y Argentina
+1. Podríamos observar, por ejemplo, que los textos más largos son de dos países: Chile y Argentina, y de tres presidentes distintos: Kirchner, Bachelet y Pinera. Sobre los más cortos podríamos ver que si bien el más corto es de Perú, es el único 
+
 
 
 ## Bibliografía
@@ -292,7 +293,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2MTYwNjg0LDY5NjU2NDU0NiwxNTYyMz
-cxNTAyLDYwNzg3OTg2OCwtNDE0ODczMDMwLDE2ODAyOTQ5NTJd
-fQ==
+eyJoaXN0b3J5IjpbMTQ5MTgxMDI3MSw2OTY1NjQ1NDYsMTU2Mj
+M3MTUwMiw2MDc4Nzk4NjgsLTQxNDg3MzAzMCwxNjgwMjk0OTUy
+XX0=
 -->
