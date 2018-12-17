@@ -284,6 +284,12 @@ Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras única
 ### Actividad 3
 1. a) **La estrofa 1** tiene 23 palabras y 20 son palabras únicas, por lo que 20/23 da igual a una densidad de vocabulario de 0.870; en realidad de 0.869 pero Voyant Tools redondea estos números: https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e b) **La estrofa 2** tiene 24 palabras y 20 son palabras únicas, por lo que 20/24 da igual a una densidad de vocabulario de 0.833: https://voyant-tools.org/?corpus=366630ce91f54ed3577a0873d601d714. Como podemos observar la diferencia entre un verso de Sor Juana Inés de la Cruz y otro compuesto por Érika Ender, Daddy Yankee y Luis Fonsi tienen una diferencia de densidad de 0.037; por lo cual debemos tener cuidado al interpretar estos números pues sólo son un indicador cuantitativo de la riqueza del vocabulario y no incluye parámetros como la complejidad de la rima o de los términos.
 2. Parece haber una correspondencia entre los discursos más cortos y los más densos, esto es natural pues entre más breve es un texto menos "oportunidad" hay para repetirse. No obstante, esto también podría decirnos algo sobre los estilos de diferentes países o presidentes. Entre menos densidad es más probable que recurran a más recursos retóricos.
+### Actividad 4
+1. Pareciera in
+2. Da clic sobre los nombre de algunos documentos que te interesen por su índice de ppo. Dirige tu mirada a la ventana de "Lector" y lee algunas líneas, ¿leer el texto original agrega información nueva a tu lectura de los datos? Comenta por qué.
+
+
+
 ## Bibliografía
 
 Peña, Gilberto Anguiano, y Catalina Naumis Peña. 2015. «Extracción de candidatos a términos de un corpus de la lengua general». _Investigación Bibliotecológica: Archivonomía, Bibliotecología e Información_ 29 (67): 19-45. [https://doi.org/10.1016/j.ibbai.2016.02.035](https://doi.org/10.1016/j.ibbai.2016.02.035).
@@ -294,7 +300,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU4ODY3MjIsMTg5MTE5NjA1NiwxNz
-I4NDc5NDQ5LDY5NjU2NDU0NiwxNTYyMzcxNTAyLDYwNzg3OTg2
-OCwtNDE0ODczMDMwLDE2ODAyOTQ5NTJdfQ==
+eyJoaXN0b3J5IjpbMTY4Mzk2OTkxNywxODkxMTk2MDU2LDE3Mj
+g0Nzk0NDksNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4
+LC00MTQ4NzMwMzAsMTY4MDI5NDk1Ml19
 -->
