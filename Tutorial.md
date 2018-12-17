@@ -215,10 +215,11 @@ Esto queda claro en el apartado anterior con la "frecuencia bruta" de 'chile'; p
 Para evitar la sobre-representación de un término, los lingüistas han ideado otra medida que se llama: "frecuencia relativa".
 Ésta se calcula de la siguiente manera:
 Frecuencia Bruta * 1,000,000 / Número total de palabras.
-Analicemos un verso como ejemplo. Tomemos la frase: "pero mi corazón dice que no, dice que no". Si calculamos su frecuencia bruta y relativa tenemos que:
+Analicemos un verso como ejemplo. Tomemos la frase: "pero mi corazón dice que no, dice que no", que tiene ocho palabras en total. Si calculamos su frecuencia bruta y relativa tenemos que:
 |palabra|frecuencia bruta  |frecuencia relativa|
 |--|--|--|
-| corazón |  |
+| corazón | 1 |1*1,000,000/8 = 125,000|
+| dice| 1 |1*1,000,000/8 = 125,000|
 
 
 
@@ -318,7 +319,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODEwNTA0OSwtMjE0MTQ2MDY1NiwtMj
+eyJoaXN0b3J5IjpbMTc4Mzg3NDA3OCwtMjE0MTQ2MDY1NiwtMj
 EzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0
 NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMT
 Y4MDI5NDk1Ml19
