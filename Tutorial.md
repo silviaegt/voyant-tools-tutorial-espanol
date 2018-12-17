@@ -214,6 +214,8 @@ Exagerando un poco, no es lo mismo tres palabras en un documento de seis; que tr
 Esto queda claro en el apartado anterior con la "frecuencia bruta" de 'chile'; pues es justo sospechar que d eesas 427 menciones, lo más probable es que la mayoría provenga de los discursos de Bachelet, que como vimos, son los más extensos.
 Para evitar la sobre-representación de un término, los lingüistas han ideado otra medida que se llama: "frecuencia relativa".
 Ésta se calcula de la siguiente manera:
+Frecuencia Bruta * 1,000,000 / Número total de palabras.
+Por ejemplo:
 
 
 
@@ -314,7 +316,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDAzNDEwNSwtMjE0MTQ2MDY1NiwtMj
+eyJoaXN0b3J5IjpbLTg3MTY5ODY0NSwtMjE0MTQ2MDY1NiwtMj
 EzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0
 NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMT
 Y4MDI5NDk1Ml19
