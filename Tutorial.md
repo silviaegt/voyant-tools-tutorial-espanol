@@ -284,7 +284,7 @@ Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras única
 ### Actividad 3
 1.
 a) La estrofa 1 tiene 23 palabras y 20 son palabras únicas, por lo que 20/23 da igual a una densidad de vocabulario de 0.870; en realidad de 0.869 pero Voyant Tools redondea estos números: https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e
-b) La estrofa 2 tiene 23 palabras y 20 son palabras únicas, por lo que 20/23 da igual a una densidad de vocabulario de 0.870; en realidad de 0.869 pero Voyant Tools redondea estos números: https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e
+b) La estrofa 2 tiene 24 palabras y 20 son palabras únicas, por lo que 20/24 da igual a una densidad de vocabulario de 0.833. Como podemos observar la diferencia e
 
 ## Bibliografía
 
@@ -296,7 +296,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODQ3OTQ0OSw2OTY1NjQ1NDYsMTU2Mj
-M3MTUwMiw2MDc4Nzk4NjgsLTQxNDg3MzAzMCwxNjgwMjk0OTUy
-XX0=
+eyJoaXN0b3J5IjpbLTExMjUxMDg0ODIsMTcyODQ3OTQ0OSw2OT
+Y1NjQ1NDYsMTU2MjM3MTUwMiw2MDc4Nzk4NjgsLTQxNDg3MzAz
+MCwxNjgwMjk0OTUyXX0=
 -->
