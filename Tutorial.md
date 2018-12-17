@@ -284,6 +284,7 @@ Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras única
 ### Actividad 3
 1. a) **La estrofa 1** tiene 23 palabras y 20 son palabras únicas, por lo que 20/23 da igual a una densidad de vocabulario de 0.870; en realidad de 0.869 pero Voyant Tools redondea estos números: https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e b) **La estrofa 2** tiene 24 palabras y 20 son palabras únicas, por lo que 20/24 da igual a una densidad de vocabulario de 0.833: https://voyant-tools.org/?corpus=366630ce91f54ed3577a0873d601d714. Como podemos observar la diferencia entre un verso de Sor Juana Inés de la Cruz y otro compuesto por Érika Ender, Daddy Yankee y Luis Fonsi tienen una diferencia de densidad de 0.037; por lo cual debemos tener cuidado al interpretar estos números pues sólo son un indicador cuantitativo de la riqueza del vocabulario y no incluye parámetros como la complejidad de la rima o de los términos.
 2. Parece haber una correspondencia entre los discursos más cortos y los más densos, esto es natural pues entre más breve es un texto menos "oportunidad" hay para repetirse. No obstante, esto también podría decirnos algo sobre los estilos de diferentes países o presidentes. Entre menos densidad es más probable que recurran a más recursos retóricos.
+
 ### Actividad 4
 
 Estos resultados parecen indicar que la presidenta Kirchner, además de tener los discursos más largos es la que hace frases más largas; sin embargo tenemos que tener cuidado con las conclusiones de este tipo pues se trata de discursos orales en los que la puntuación depende de quien transcribe el texto.
@@ -303,8 +304,8 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIsMT
-g5MTE5NjA1NiwxNzI4NDc5NDQ5LDY5NjU2NDU0NiwxNTYyMzcx
-NTAyLDYwNzg3OTg2OCwtNDE0ODczMDMwLDE2ODAyOTQ5NTJdfQ
-==
+eyJoaXN0b3J5IjpbNzU4Nzk4NTI2LC0yMTQxNDYwNjU2LC0yMT
+M1MTE5NDEyLDE4OTExOTYwNTYsMTcyODQ3OTQ0OSw2OTY1NjQ1
+NDYsMTU2MjM3MTUwMiw2MDc4Nzk4NjgsLTQxNDg3MzAzMCwxNj
+gwMjk0OTUyXX0=
 -->
