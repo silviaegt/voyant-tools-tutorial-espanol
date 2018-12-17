@@ -290,7 +290,7 @@ Estos resultados parecen indicar que la presidenta Kirchner, además de tener lo
 
 ### Actividad 5
 1. [a](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (5943); [más](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (1946); [no](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (1694); [mil](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (1045); [millones](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (971)
-b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
+2. La primera palabra es una preposición, la segunda un adverbio de comparición y la tercera 
 
 
 ## Bibliografía
@@ -303,7 +303,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQzMDQ1NjgsMTg5MTE5NjA1NiwxNz
-I4NDc5NDQ5LDY5NjU2NDU0NiwxNTYyMzcxNTAyLDYwNzg3OTg2
-OCwtNDE0ODczMDMwLDE2ODAyOTQ5NTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTQ3NTIxNCwxODkxMTk2MDU2LDE3Mj
+g0Nzk0NDksNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4
+LC00MTQ4NzMwMzAsMTY4MDI5NDk1Ml19
 -->
