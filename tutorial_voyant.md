@@ -105,8 +105,8 @@ Una tercera opción es “Abrir” alguno de los dos corpus que Voyant tiene pre
 <p>Este corpus tiene 25 documentos con 261,032  total de palabras y 18,550 formulario de palabra única. Creado  hace 8 horas atrás [el texto es producto de una traducción semi-automática del inglés y por eso se lee raro]</p>
 </blockquote>
 <p>De entrada con esta información sabemos exactamente cuántos documentos distintos fueron cargados (25); cuántas palabras en total hay (261,032); y cuántas palabras distintas y únicas existen (18,550).</p>
-<h4 id="pencil2-actividad">✏️ <em>Actividad</em></h4>
-<p>Si nuestro corpus se compusiera de dos documentos; uno que dijera: “tengo hambre”; y otro que dijera: “tengo sueño”. ¿Qué información aparecería en la primera línea del sumario?<br>
+<h4 id="pencil2-actividad-1">✏️ <em>Actividad 1</em></h4>
+<p>Si nuestro corpus estuviera compuesto de dos documentos; uno que dijera: “tengo hambre”; y otro que dijera: “tengo sueño”. ¿Qué información aparecería en la primera línea del sumario?<br>
 Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabras únicas.</p>
 <h4 id="extensión-de-documentos">Extensión de documentos</h4>
 <p>Lo segundo que vemos es la sección de “extensión del documento”. Ahí aparece lo siguiente:</p>
@@ -114,15 +114,14 @@ Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabr
 <li>Más largo:  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2008_cl_bachelet</a> (20702);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2007_ar_kircher</a> (20390);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2006_ar_kircher</a> (18619);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2010_cl_pinera</a> (16982);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2007_cl_bachelet</a> (15514)</li>
 <li>Más corto:  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2006_pe_toledo</a> (1289);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2006_mx_fox</a> (2450);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2008_mx_calderon</a> (3317);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2006_co_uribe</a> (4709);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2009_co_uribe</a> (5807)</li>
 </ul>
-<h4 id="pencil2-actividad-1">✏️ <em>Actividad</em></h4>
+<h4 id="pencil2-actividad-2">✏️ <em>Actividad 2</em></h4>
 <ol>
-<li>¿Qué podemos concluir sobre los textos más largos?, ¿qué podemos decir sobre los más cortos?</li>
+<li>¿Qué podemos concluir sobre los textos más largos y los más cortos considerando los metadatos del título?</li>
 <li>¿Para qué nos servirá saber la longitud de los textos?</li>
-<li>¿Qué nos dice la gráfica a la derecha del título de esta sección?</li>
 </ol>
 <h4 id="densidad-del-vocabulario">Densidad del vocabulario</h4>
 <p>La densidad de vocubulario se mide dividiendo el número de palabras distintas entre el número de palabras totales. Entre más cercano a uno es el índice de densidad quiere decir que el vocabulario es más denso.</p>
-<h4 id="pencil2-actividad-2">✏️ <em>Actividad</em></h4>
+<h4 id="pencil2-actividad-3">✏️ <em>Actividad 3</em></h4>
 <ol>
 <li>Calcula la densidad de las siguientes estrofas, compara y comenta:</li>
 </ol>
@@ -156,7 +155,7 @@ Veo que eres malicia con delicadeza</p>
 </ol>
 <h4 id="palabras-por-oración">Palabras por oración</h4>
 <p>La forma en Voyant calcula la longitud de las oraciones debe considerarse muy aproximada, especialmente por lo complicado que es distinguir entre el final de una abreviatura y el de una oración y otros usos de la puntuación (por ejemplo, en algunos casos un punto y coma marca el límite entre oraciones y en otros . El análisis de las oraciones es realizado por una ‘clase’ del lenguaje de programación Java (es decir, una plantilla con instrucciones) que se llama <a href="https://docs.oracle.com/javase/tutorial/i18n/text/about.html">BreakIterator</a>.</p>
-<h4 id="pencil2-actividad-3">✏️ <em>Actividad</em></h4>
+<h4 id="pencil2-actividad-4">✏️ <em>Actividad 4</em></h4>
 <ol>
 <li>Observa las estadísticas de palabras por oración (ppo) y contesta: ¿qué patrón o patrones puedes observar si consideras el índice de ppo y los metadatos de país, presidente y año contenidos en el nombre del documento?</li>
 <li>Da clic sobre los nombre de algunos documentos que te interesen por su índice de ppo. Dirige tu mirada a la ventana de “Lector” y lee algunas líneas, ¿leer el texto original agrega información nueva a tu lectura de los datos? Comenta por qué.</li>
@@ -165,14 +164,14 @@ Veo que eres malicia con delicadeza</p>
 <p>(volveremos a este inciso en la siguiente sección)</p>
 <h3 id="términos-frecuentes">Términos frecuentes</h3>
 <p>Ya que tenemos una idea de algunas características globales de nuestros documentos, es momento de que empecemos con las características de los conceptos en nuestro corpus. El primer aspecto con el que vamos a trabajar es con el de <strong>frecuencia</strong> y para esto utilizaremos la ventana de Cirrus.</p>
-<h4 id="pencil2-actividad-4">✏️ <em>Actividad</em></h4>
+<h4 id="pencil2-actividad-5">✏️ <em>Actividad 5</em></h4>
 <p>a) ¿Qué palabras son las más frecuente en el corpus?<br>
 b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?</p>
 <blockquote>
 <p><strong>Tip</strong> pasa el mouse sobre las palabras para obtener sus frecuencias derecho</p>
 </blockquote>
 <p>La importancia no es un valor intrínseco y dependerá siempre de nuestros intereses. Justo por eso Voyant ofrece la opción de filtrar ciertas palabras. Un procedimiento común para obtener palabras relevantes es el de filtrar las unidades léxicas gramaticales o <em>palabras vacías</em>: artículos, preposiciones, interjecciones, pronombres, etc. (Peña y Peña, 2015)-</p>
-<h4 id="pencil2-actividad-5">✏️ <em>Actividad</em></h4>
+<h4 id="pencil2-actividad-6">✏️ <em>Actividad 6</em></h4>
 <p>a) ¿Qué palabras vacías están en la nube de palabras?<br>
 b) ¿Cuáles eliminarías y por qué?</p>
 <p>Voyant tiene ya cargada una lista de <em>stop words</em> o palabras vacías; no obstante, nosotros podemos editarla de la siguiente manera:<br>
@@ -191,7 +190,7 @@ Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos 
 <blockquote>
 <p><a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">social</a> (437);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">nacional</a> (427);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">chile</a> (395);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">nuestro</a> (393);  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">inversión</a> (376)</p>
 </blockquote>
-<h4 id="pencil2-actividad-6">✏️ <em>Actividad</em></h4>
+<h4 id="pencil2-actividad-7">✏️ <em>Actividad 7</em></h4>
 <ol>
 <li>Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue esta información de la que obtienes viendo la nube de palabras.</li>
 <li>Si estás en un grupo discute las diferencias de tus resultados con los de los demás</li>
@@ -203,7 +202,7 @@ Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos 
 <p>En Voyant el tfidf se calcula <a href="https://twitter.com/VoyantTools/status/1025458748574326784">de la siguiente manera</a>:</p>
 <p>Frecuencia Bruta  (tf) / Número de Palabras (N)  * log10( Total número de Documentos / termInDocsCount</p>
 <p><img src="img/tf_idf.png" alt="Fórmula de TF-IDF"></p>
-<h4 id="pencil2-actividad-7">✏️ <em>Actividad</em></h4>
+<h4 id="pencil2-actividad-8">✏️ <em>Actividad 8</em></h4>
 <p>Observa las <strong>palabras diferenciadas  (comparado con el resto del corpus)</strong> de cada uno de los documentos y anota qué hipótesis puedes derivar de ellas</p>
 <ol>
 <li><a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2006_ar_kircher</a>:  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">argentinos</a>  (25),  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">argentino</a>  (24),  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">argentina</a>  (64),  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">uruguay</a>  (12),  <a href="https://voyant-tools.org/?corpus=b6f0e2c5ee1bc9b644ffda6b86a93740&amp;panels=cirrus,reader,trends,summary,contexts#">2004</a>  (13).</li>
@@ -238,7 +237,7 @@ Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos 
 <strong>"pobreza extrema"~ 5</strong>:  buscar los términos dentro de las comillas, el orden no importa, y pueden haber hasta 5 palabras de por medio (esa condición regresaría frases cómo “la extrema desigualdad y la pobreza” donde se encuentra la palabra “pobreza” y “extrema”</li>
 </ul>
 </blockquote>
-<h4 id="pencil2-actividad-8">✏️ <em>Actividad</em></h4>
+<h4 id="pencil2-actividad-9">✏️ <em>Actividad 9</em></h4>
 <ol>
 <li>Busca el uso de algún término que te parezca interesante, utiliza alguna de las estrategias de la consulta avanzada</li>
 <li>Ordena las filas usando las diferentes columnas (Documento, Izquierda, Derecha y Posición): ¿qué conclusiones puedes derivar sobre tus términos utilizando la información de estas columnas?</li>
@@ -251,6 +250,22 @@ Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos 
 <p>Eso lleva a una página donde están separados los campos por un tabulador:</p>
 <p><img src="img/exportar_contextos.png" alt="Exportar contextos"></p>
 <p>Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) y pégalos en una hoja de cálculo (Ctrl+V). Si esto no funciona, guarda los datos como en un editor sencillo de texto como .txt (¡no olvides la codificación UTF-8) y luego en tu hoja de cálculo importa los datos. En Excel, por ejemplo, esto se hace en la pestañad de datos y después “Desde un archivo de texto”</p>
+<h2 id="respuestas-a-actividades">Respuestas a Actividades</h2>
+<h3 id="actividad-1">Actividad 1</h3>
+<p>Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras únicas <em>(tengo, hambre, sueño)</em></p>
+<h3 id="actividad-2">Actividad 2</h3>
+<ol>
+<li>Podríamos observar, por ejemplo, que los textos más largos son de dos países: Chile y Argentina, y de tres presidentes distintos: Kirchner, Bachelet y Pinera. Sobre los más cortos podríamos ver que si bien el más corto es de Perú, en realidad los que más aparecen entre los breves son los de México y Colombia.</li>
+<li>Saber la extensión de nuestros textos nos permite entender la homogeneidad o disparidad de nuestro corpus, así como entender ciertas tendencias (por ejemplo, en qué años tendían a ser más cortos los discursos, en qué momento cambió la extensión, etc.)</li>
+</ol>
+<h3 id="actividad-3">Actividad 3</h3>
+<ol>
+<li></li>
+</ol>
+<p>a) La estrofa 1 tiene 23 palabras y 20 son palabras únicas, por lo que 20/23 da igual a una densidad de vocabulario de 0.870; en realidad de 0.869 pero Voyant Tools redondea estos números: <a href="https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e">https://voyant-tools.org/?corpus=b6b17408eb605cb1477756ce412de78e</a><br>
+b) La estrofa 2 tiene 24 palabras y 20 son palabras únicas, por lo que 20/24 da igual a una densidad de vocabulario de 0.833: <a href="https://voyant-tools.org/?corpus=366630ce91f54ed3577a0873d601d714">https://voyant-tools.org/?corpus=366630ce91f54ed3577a0873d601d714</a><br>
+Como podemos observar la diferencia entre un verso de Sor Juana Inés de la Cruz y otro compuesto por Érika Ender, Daddy Yankee y Luis Fonsi tienen una diferencia de densidad de 0.037; por lo cual debemos tener cuidado al interpretar estos números pues sólo son un indicador cuantitativo de la riqueza del vocabulario y no incluye parámetros como la complejidad de la rima o de los términos.<br>
+2. Parece haber una correspondencia entre los discursos más cortos y los más densos, esto es natural pues entre más breve es un texto menos “oportunidad” hay para repetirse. No obstante, esto también podría decirnos algo sobre los estilos de diferentes países o presidentes. Entre menos densidad es más probable que recurran a más recursos retóricos.</p>
 <h2 id="bibliografía">Bibliografía</h2>
 <p>Peña, Gilberto Anguiano, y Catalina Naumis Peña. 2015. «Extracción de candidatos a términos de un corpus de la lengua general». <em>Investigación Bibliotecológica: Archivonomía, Bibliotecología e Información</em> 29 (67): 19-45. <a href="https://doi.org/10.1016/j.ibbai.2016.02.035">https://doi.org/10.1016/j.ibbai.2016.02.035</a>.<br>
 Sinclair, Stéfan and Geoffrey Rockwell, 2016.  <em>Voyant Tools</em>. Web. <a href="http://voyant-tools.org/">http://voyant-tools.org/</a>.</p>
