@@ -112,8 +112,10 @@ La primera frase que leemos se ve algo como esto:
 De entrada con esta información sabemos exactamente cuántos documentos distintos fueron cargados (25); cuántas palabras en total hay (261,032); y cuántas palabras distintas y únicas existen (18,550).
 
 #### :pencil2: *Actividad*
-Si nuestro corpus se compusiera de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? 
+Si nuestro corpus estuviera compuesto de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? 
 Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabras únicas.
+
+(Respuesta: Este corpus tiene 2 documen
 
 #### Extensión de documentos
 Lo segundo que vemos es la sección de "extensión del documento". Ahí aparece lo siguiente:
@@ -287,7 +289,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDczOTQyODQsNjk2NTY0NTQ2LDE1Nj
-IzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMTY4MDI5NDk1
-Ml19
+eyJoaXN0b3J5IjpbMTczMTgyNDg0OCw2OTY1NjQ1NDYsMTU2Mj
+M3MTUwMiw2MDc4Nzk4NjgsLTQxNDg3MzAzMCwxNjgwMjk0OTUy
+XX0=
 -->
