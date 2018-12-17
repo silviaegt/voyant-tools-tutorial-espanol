@@ -289,7 +289,7 @@ Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras única
 Estos resultados parecen indicar que la presidenta Kirchner, además de tener los discursos más largos es la que hace frases más largas; sin embargo tenemos que tener cuidado con las conclusiones de este tipo pues se trata de discursos orales en los que la puntuación depende de quien transcribe el texto.
 
 ### Actividad 5
-a) ¿Qué palabras son las más frecuente en el corpus?
+1. [a](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (5943); [más](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (1946); [no](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (1694); [mil](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (1045); [millones](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (971)
 b) ¿Qué nos dicen estas palabras del corpus?, ¿son significativas todas?
 
 
@@ -303,7 +303,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzczMzI5NzgsMTg5MTE5NjA1NiwxNz
+eyJoaXN0b3J5IjpbLTE4NjQzMDQ1NjgsMTg5MTE5NjA1NiwxNz
 I4NDc5NDQ5LDY5NjU2NDU0NiwxNTYyMzcxNTAyLDYwNzg3OTg2
 OCwtNDE0ODczMDMwLDE2ODAyOTQ5NTJdfQ==
 -->
