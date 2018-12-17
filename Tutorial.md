@@ -219,9 +219,9 @@ Analicemos un verso como ejemplo. Tomemos la frase: "pero mi corazón dice que n
 |palabra|frecuencia bruta  |frecuencia relativa|
 |--|--|--|
 | corazón | 1 |1*1,000,000/8 = 125,000|
-| dice| 1 |1*1,000,000/8 = 125,000|
+| dice| 2 |2*1,000,000/8 = 111,000|
 
-
+¿Cuál es la ventaja de esto? Que si tuviéramos un documento en el que la palabra corazón tuviera la misma proporción, por ejemplo 1,000 ocurrencias entre 8,000 palabras; si bien la frecuencia bruta es muy distinta, la frecuencia
 
 #### Palabras diferenciadas
 
@@ -319,8 +319,8 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Mzg3NDA3OCwtMjE0MTQ2MDY1NiwtMj
-EzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0
-NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMT
-Y4MDI5NDk1Ml19
+eyJoaXN0b3J5IjpbLTE0MDk2NzQ0MzUsLTIxNDE0NjA2NTYsLT
+IxMzUxMTk0MTIsMTg5MTE5NjA1NiwxNzI4NDc5NDQ5LDY5NjU2
+NDU0NiwxNTYyMzcxNTAyLDYwNzg3OTg2OCwtNDE0ODczMDMwLD
+E2ODAyOTQ5NTJdfQ==
 -->
