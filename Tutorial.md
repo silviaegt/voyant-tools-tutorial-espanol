@@ -225,7 +225,7 @@ Veamos cómo funciona esto en Voyant Tools:
 1. En la sección de Cirrus (la nube de palabras), damos clic sobre 'Terms' o 'Términos'. Esto abrirá una tabla que por defecto tiene tres columnas: Términos (con la lista de palabras en los documentos, sin las filtradas), Contar (con la 'frecuencia bruta o neta' de cada término) y Tendencia (con una gráfica de la distribución de una palabra tomando su frecuencia relativa). Para obtener información sobre la frecuencia relativa de un término, en la barra de los nombres de columna, en el extremo derecho, se da clic sobre el triángulo que ofrece más opciones y en 'Columnas' se selecciona la opción 'Relativo' como se muestra en la imagen a continuación:
 ![Editar palabras vacías](img/frecuencia_relativa.png)
 
-2. Si ordenas las columnas en orden descendiente como lo harías en Excel, observarás que el orden de la frecuencia bruta ('Contar') y la frecuencia relativa ('Relativo') el orden es el mismo. ¿Para qué nos sirve entonces esta medida? Para cuando comparamos diferentes corpus. Un corpus es un conjunto de textos con algo en común. En este caso, Voyant está interpretando todos los discursos como un solo corpus. Si quisiéramos que cada cada país fuera un corpus distinto, tendríamos que guardar nuestro texto en una tabla, en HTML o en XML, donde los metadatos estuvieran expresados en columnas (en el caso de la tabla) o en etiquetas (en el caso de HTML o XML). Para más información, consulta: https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627
+2. Si ordenas las columnas en orden descendiente como lo harías en Excel, observarás que el orden de la frecuencia bruta ('Contar') y la frecuencia relativa ('Relativo') el orden es el mismo. ¿Para qué nos sirve entonces esta medida? Para cuando comparamos diferentes corpus. Un corpus es un conjunto de textos con algo en común. En este caso, Voyant está interpretando todos los discursos como un solo corpus. Si quisiéramos que cada cada país fuera un corpus distinto, tendríamos que guardar nuestro texto en una tabla, en HTML o en XML, donde los metadatos estuvieran expresados en columnas (en el caso de la tabla) o en etiquetas (en el caso de HTML o XML). Para más información, consulta la documentación en inglés.<sup>1</sup>
 
 #### Palabras diferenciadas
 
@@ -331,13 +331,13 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 ## Notas al pie
 
-<sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
+<sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgwMjEwNTIsLTEwMzAzNTU3NTgsLT
-Y0MDU5MTY1OCwxOTIxMjAyNzYzLDEwOTM0NjI2ODEsOTg4NjU0
-ODEzLDExMzMzMTc5NDYsMTE2NDcyODE2MSwxNzMzOTUzNTQ2LC
-0yMjcyMzIwMTgsNDUzNTMwMTYyLDEyMTQ1ODM0MjgsLTYwNTE4
-NTAwNSwtMjE0MTQ2MDY1NiwtMjEzNTExOTQxMiwxODkxMTk2MD
-U2LDE3Mjg0Nzk0NDksNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNjA3
-ODc5ODY4XX0=
+eyJoaXN0b3J5IjpbLTUxNDY4MTI1MywtMTUxODAyMTA1MiwtMT
+AzMDM1NTc1OCwtNjQwNTkxNjU4LDE5MjEyMDI3NjMsMTA5MzQ2
+MjY4MSw5ODg2NTQ4MTMsMTEzMzMxNzk0NiwxMTY0NzI4MTYxLD
+E3MzM5NTM1NDYsLTIyNzIzMjAxOCw0NTM1MzAxNjIsMTIxNDU4
+MzQyOCwtNjA1MTg1MDA1LC0yMTQxNDYwNjU2LC0yMTM1MTE5ND
+EyLDE4OTExOTYwNTYsMTcyODQ3OTQ0OSw2OTY1NjQ1NDYsMTU2
+MjM3MTUwMl19
 -->
