@@ -206,22 +206,22 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 1. Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue esta información de la que obtienes viendo la nube de palabras. 
 2. Si estás en un grupo discute las diferencias de tus resultados con los de los demás
 
-#### Frecuencia Relativa
+#### Frecuencia Normalizada
 
 En el apartado anterior hemos observado la "frecuencia bruta" de las palabras. 
 Sin embargo, como observamos en la sección sobre la extensión de los documentos, nos dimos cuenta que hay discursos que son mucho más largos que otros. 
 Exagerando un poco, no es lo mismo tres palabras en un documento de seis; que tres palabras en un documento de 3,000 palabras. En un caso se trata del 50% del total y en el segundo, es un 0.1% del total. 
-Esto queda claro en el apartado anterior con la "frecuencia bruta" de 'chile'; pues es justo sospechar que d eesas 427 menciones, lo más probable es que la mayoría provenga de los discursos de Bachelet, que como vimos, son los más extensos.
-Para evitar la sobre-representación de un término, los lingüistas han ideado otra medida que se llama: "frecuencia relativa".
+Esto queda claro en el apartado anterior con la "frecuencia bruta" de 'chile'; pues es justo sospechar que de esas 427 menciones, lo más probable es que la mayoría provenga de los discursos de Bachelet, que como vimos, son los más extensos.
+Para evitar la sobre-representación de un término, los lingüistas han ideado otra medida que se llama: "frecuencia normalizada".
 Ésta se calcula de la siguiente manera:
 Frecuencia Bruta * 1,000,000 / Número total de palabras.
 Analicemos un verso como ejemplo. Tomemos la frase: "pero mi corazón dice que no, dice que no", que tiene ocho palabras en total. Si calculamos su frecuencia bruta y relativa tenemos que:
-|palabra|frecuencia bruta  |frecuencia relativa|
+|palabra|frecuencia bruta  |frecuencia normalizada|
 |--|--|--|
 | corazón | 1 |1*1,000,000/8 = 125,000|
 | dice| 2 |2*1,000,000/8 = 111,000|
 
-¿Cuál es la ventaja de esto? Que si tuviéramos un documento en el que la palabra corazón tuviera la misma proporción, por ejemplo 1,000 ocurrencias entre 8,000 palabras; si bien la frecuencia bruta es muy distinta, la frecuencia relativa sería la misma, pues 1,000*1,000,000/8,000 también es 125,000.
+¿Cuál es la ventaja de esto? Que si tuviéramos un documento en el que la palabra corazón tuviera la misma proporción, por ejemplo 1,000 ocurrencias entre 8,000 palabras; si bien la frecuencia bruta es muy distinta, la frecuencia normalizada sería la misma, pues 1,000*1,000,000/8,000 también es 125,000.
 
 Veamos cómo funciona esto en Voyant Tools:
 1. En la sección de Cirrus (la nube de palabras), damos clic sobre 'Terms' o 'Términos'. Esto abrirá una tabla que por defecto tiene tres columnas: Términos (con la lista de palabras en los documentos, sin las filtradas), Contar (con la 'frecuencia bruta o neta' de cada término) y Tendencia (con una gráfica de la distribución de una palabra tomando su frecuencia relativa). Para obtener información sobre la frecuencia relativa de un término, en la barra de los nombres de columna, en el extremo derecho, se da clic sobre el triángulo que ofrece más opciones y en 'Columnas' se selecciona la opción 'Relativo' como se muestra en la imagen a continuación:
@@ -326,10 +326,10 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTEwODk3MjEsMTA5MzQ2MjY4MSw5OD
-g2NTQ4MTMsMTEzMzMxNzk0NiwxMTY0NzI4MTYxLDE3MzM5NTM1
-NDYsLTIyNzIzMjAxOCw0NTM1MzAxNjIsMTIxNDU4MzQyOCwtNj
-A1MTg1MDA1LC0yMTQxNDYwNjU2LC0yMTM1MTE5NDEyLDE4OTEx
-OTYwNTYsMTcyODQ3OTQ0OSw2OTY1NjQ1NDYsMTU2MjM3MTUwMi
-w2MDc4Nzk4NjgsLTQxNDg3MzAzMCwxNjgwMjk0OTUyXX0=
+eyJoaXN0b3J5IjpbMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4OD
+Y1NDgxMywxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0
+NiwtMjI3MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MD
+UxODUwMDUsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIsMTg5MTE5
+NjA1NiwxNzI4NDc5NDQ5LDY5NjU2NDU0NiwxNTYyMzcxNTAyLD
+YwNzg3OTg2OCwtNDE0ODczMDMwLDE2ODAyOTQ5NTJdfQ==
 -->
