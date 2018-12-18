@@ -7,8 +7,6 @@ Desde el inicio de la computación, lingüistas y especialistas de la [recuperac
 
 Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet. 
 
-Como se ha dicho en este otro [tutorial](https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc), 
-
 Al finalizar este tutorial, tendrás la capacidad de:
 
 * Armar un corpus en texto plano
@@ -29,7 +27,7 @@ Al finalizar este tutorial, tendrás la capacidad de:
 Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial y tampoco  o conocimiento extra.
 
 ### 1. Buscar textos
-Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos anuales de presidentes de Argentina, Chile, Colombia, México y Perú (¡gracias [Pamela Sertzen](https://twitter.com/madvivacious)!) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008. 
+Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos presidenciales anuales de Argentina, Chile, Colombia, México y Perú (este último gracias a [Pamela Sertzen](https://twitter.com/madvivacious)) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008. 
 
 ### 2. Copiar en editor de texto plano
 Una vez localizada la información, el segundo paso es copiar el texto que te interesa desde la primera palabra dicha hasta la última y guardarla en un editor de texto sin formato. Por ejemplo:
@@ -330,11 +328,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDkxMzA2NiwtMTUxODAyMTA1MiwtMT
-AzMDM1NTc1OCwtNjQwNTkxNjU4LDE5MjEyMDI3NjMsMTA5MzQ2
-MjY4MSw5ODg2NTQ4MTMsMTEzMzMxNzk0NiwxMTY0NzI4MTYxLD
-E3MzM5NTM1NDYsLTIyNzIzMjAxOCw0NTM1MzAxNjIsMTIxNDU4
-MzQyOCwtNjA1MTg1MDA1LC0yMTQxNDYwNjU2LC0yMTM1MTE5ND
-EyLDE4OTExOTYwNTYsMTcyODQ3OTQ0OSw2OTY1NjQ1NDYsMTU2
-MjM3MTUwMl19
+eyJoaXN0b3J5IjpbLTExMzU2NDQzNzAsLTE1MTgwMjEwNTIsLT
+EwMzAzNTU3NTgsLTY0MDU5MTY1OCwxOTIxMjAyNzYzLDEwOTM0
+NjI2ODEsOTg4NjU0ODEzLDExMzMzMTc5NDYsMTE2NDcyODE2MS
+wxNzMzOTUzNTQ2LC0yMjcyMzIwMTgsNDUzNTMwMTYyLDEyMTQ1
+ODM0MjgsLTYwNTE4NTAwNSwtMjE0MTQ2MDY1NiwtMjEzNTExOT
+QxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0NTQ2LDE1
+NjIzNzE1MDJdfQ==
 -->
