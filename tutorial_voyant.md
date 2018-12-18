@@ -7,7 +7,6 @@
 <p>El análisis de corpus es un tipo de <a href="http://vocabularios.caicyt.gov.ar/portal/index.php?task=fetchTerm&amp;arg=26&amp;v=42">análisis de contenido</a>, que permite hacer comparaciones a gran escala entre los textos contenidos en dichos corpus.</p>
 <p>Desde el inicio de la computación, lingüistas y especialistas de la <a href="http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&amp;arg=178&amp;v=42">recuperación de la información</a> han creado y utilizado software para apreciar patrones que no son evidentes en la lectura o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de ciertas palabras, o las expresiones que distinguen a un grupo de textos frente a otros.</p>
 <p>Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet.</p>
-<p>Como se ha dicho en este otro <a href="https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc">tutorial</a>,</p>
 <p>Al finalizar este tutorial, tendrás la capacidad de:</p>
 <ul>
 <li>Armar un corpus en texto plano</li>
@@ -32,7 +31,7 @@
 <h2 id="creando-un-corpus-en-texto-plano">Creando un corpus en texto plano</h2>
 <p>Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial y tampoco  o conocimiento extra.</p>
 <h3 id="buscar-textos">1. Buscar textos</h3>
-<p>Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, <a href="https://twitter.com/rivaquiroga">Riva Quiroga</a> y yo preparamos un corpus de los discursos anuales de presidentes de Argentina, Chile, Colombia, México y Perú (¡gracias <a href="https://twitter.com/madvivacious">Pamela Sertzen</a>!) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008.</p>
+<p>Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, <a href="https://twitter.com/rivaquiroga">Riva Quiroga</a> y yo preparamos un corpus de los discursos presidenciales anuales de Argentina, Chile, Colombia, México y Perú (este último gracias a <a href="https://twitter.com/madvivacious">Pamela Sertzen</a>) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008.</p>
 <h3 id="copiar-en-editor-de-texto-plano">2. Copiar en editor de texto plano</h3>
 <p>Una vez localizada la información, el segundo paso es copiar el texto que te interesa desde la primera palabra dicha hasta la última y guardarla en un editor de texto sin formato. Por ejemplo:</p>
 <ul>
@@ -318,8 +317,6 @@ Analicemos un verso como ejemplo. Tomemos la frase: “pero mi corazón dice que
 <li><a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">a</a> (5943); <a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">más</a> (1946); <a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">no</a> (1694); <a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">mil</a> (1045); <a href="https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#">millones</a> (971)</li>
 <li>La primera palabra es una preposición, la segunda un adverbio de comparición y la tercera un adverbio de negación. Estas palabras podrían ser significativas si lo que se busca comprender es el uso de este tipo de palabras funcionales. Sin embargo, si lo que se  busca son más bien sustantivos, habrá que hacer un filtrado (ver sección: “Palabras más frecuentes”)</li>
 </ol>
-<h3 id="actividad-7">Actividad 7</h3>
-<p>Aquí</p>
 <h2 id="bibliografía">Bibliografía</h2>
 <p>Peña, Gilberto Anguiano, y Catalina Naumis Peña. 2015. «Extracción de candidatos a términos de un corpus de la lengua general». <em>Investigación Bibliotecológica: Archivonomía, Bibliotecología e Información</em> 29 (67): 19-45. <a href="https://doi.org/10.1016/j.ibbai.2016.02.035">https://doi.org/10.1016/j.ibbai.2016.02.035</a>.<br>
 Sinclair, Stéfan and Geoffrey Rockwell, 2016.  <em>Voyant Tools</em>. Web. <a href="http://voyant-tools.org/">http://voyant-tools.org/</a>.</p>
