@@ -319,9 +319,6 @@ Estos resultados parecen indicar que la presidenta Kirchner, además de tener lo
 1. [a](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (5943); [más](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (1946); [no](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (1694); [mil](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (1045); [millones](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#) (971)
 2. La primera palabra es una preposición, la segunda un adverbio de comparición y la tercera un adverbio de negación. Estas palabras podrían ser significativas si lo que se busca comprender es el uso de este tipo de palabras funcionales. Sin embargo, si lo que se  busca son más bien sustantivos, habrá que hacer un filtrado (ver sección: "Palabras más frecuentes")
 
-### Actividad 7
-
-Aquí 
 
 ## Bibliografía
 
@@ -333,7 +330,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDY4MTI1MywtMTUxODAyMTA1MiwtMT
+eyJoaXN0b3J5IjpbMTUzMDkxMzA2NiwtMTUxODAyMTA1MiwtMT
 AzMDM1NTc1OCwtNjQwNTkxNjU4LDE5MjEyMDI3NjMsMTA5MzQ2
 MjY4MSw5ODg2NTQ4MTMsMTEzMzMxNzk0NiwxMTY0NzI4MTYxLD
 E3MzM5NTM1NDYsLTIyNzIzMjAxOCw0NTM1MzAxNjIsMTIxNDU4
