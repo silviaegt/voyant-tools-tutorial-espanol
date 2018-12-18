@@ -219,13 +219,13 @@ Analicemos un verso como ejemplo. Tomemos la frase: "pero mi corazón dice que n
 | corazón | 1 |1*1,000,000/8 = 125,000|
 | dice| 2 |2*1,000,000/8 = 111,000|
 
-¿Cuál es la ventaja de esto? Que si tuviéramos un documento en el que la palabra corazón tuviera la misma proporción, por ejemplo 1,000 ocurrencias entre 8,000 palabras; si bien la frecuencia bruta es muy distinta, la frecuencia normalizada sería la misma, pues 1,000*1,000,000/8,000 también es 125,000.
+¿Cuál es la ventaja de esto? Que si tuviéramos un corpus en el que la palabra corazón tuviera la misma proporción, por ejemplo 1,000 ocurrencias entre 8,000 palabras; si bien la frecuencia bruta es muy distinta, la frecuencia normalizada sería la misma, pues 1,000*1,000,000/8,000 también es 125,000.
 
 Veamos cómo funciona esto en Voyant Tools:
 1. En la sección de Cirrus (la nube de palabras), damos clic sobre 'Terms' o 'Términos'. Esto abrirá una tabla que por defecto tiene tres columnas: Términos (con la lista de palabras en los documentos, sin las filtradas), Contar (con la 'frecuencia bruta o neta' de cada término) y Tendencia (con una gráfica de la distribución de una palabra tomando su frecuencia relativa). Para obtener información sobre la frecuencia relativa de un término, en la barra de los nombres de columna, en el extremo derecho, se da clic sobre el triángulo que ofrece más opciones y en 'Columnas' se selecciona la opción 'Relativo' como se muestra en la imagen a continuación:
 ![Editar palabras vacías](img/frecuencia_relativa.png)
 
-2. Puedes ordenar las columnas en orden descendiente como lo harías en Excel. Si aplicaste el filtro de palabras con la lista que te proporcioné, observarás por ejemplo que si ordenas tus datos por la frecuencia bruta ('Contar') las palabras más frecuentes son: social, nacional, chile, nuestro y que si las ordenamos por su frecuencia relativa ('Relativo') el resultado, en cuanto al ordenamiento, es el mismo. ¿Para qué nos sirve entonces esta medida? Esta medida nos sirve si comparáramos diferentes corpus. ¿Qué es un corpus? En palabras simples es un conjunto de textos con algo en común. En este caso, Voyant está interpretando todos los discursos como un corpus. Si quisiéramos que cada cada país fuera un corpus distinto, tendríamos que guardar nuestro texto en una tabla, en HTML o en XML, donde los metadatos estuvieran expresados en columnas (en el caso de la tabla) o en etiquetas (en el caso de HTML o XML). Para más información, consulta: https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627
+2. Si ordenas las columnas en orden descendiente como lo harías en Excel, observarás por ejemplo que si ordenas tus datos por la frecuencia bruta ('Contar') las palabras más frecuentes son: social, nacional, chile, nuestro y que si las ordenamos por su frecuencia relativa ('Relativo') el resultado, en cuanto al ordenamiento, es el mismo. ¿Para qué nos sirve entonces esta medida? Esta medida nos sirve si comparáramos diferentes corpus. ¿Qué es un corpus? En palabras simples es un conjunto de textos con algo en común. En este caso, Voyant está interpretando todos los discursos como un corpus. Si quisiéramos que cada cada país fuera un corpus distinto, tendríamos que guardar nuestro texto en una tabla, en HTML o en XML, donde los metadatos estuvieran expresados en columnas (en el caso de la tabla) o en etiquetas (en el caso de HTML o XML). Para más información, consulta: https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627
 
 #### Palabras diferenciadas
 
@@ -324,11 +324,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk0NDEzNjksMTkyMTIwMjc2MywxMD
-kzNDYyNjgxLDk4ODY1NDgxMywxMTMzMzE3OTQ2LDExNjQ3Mjgx
-NjEsMTczMzk1MzU0NiwtMjI3MjMyMDE4LDQ1MzUzMDE2MiwxMj
-E0NTgzNDI4LC02MDUxODUwMDUsLTIxNDE0NjA2NTYsLTIxMzUx
-MTk0MTIsMTg5MTE5NjA1NiwxNzI4NDc5NDQ5LDY5NjU2NDU0Ni
-wxNTYyMzcxNTAyLDYwNzg3OTg2OCwtNDE0ODczMDMwLDE2ODAy
-OTQ5NTJdfQ==
+eyJoaXN0b3J5IjpbLTMxMjYzODExMCwxOTIxMjAyNzYzLDEwOT
+M0NjI2ODEsOTg4NjU0ODEzLDExMzMzMTc5NDYsMTE2NDcyODE2
+MSwxNzMzOTUzNTQ2LC0yMjcyMzIwMTgsNDUzNTMwMTYyLDEyMT
+Q1ODM0MjgsLTYwNTE4NTAwNSwtMjE0MTQ2MDY1NiwtMjEzNTEx
+OTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0NTQ2LD
+E1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMTY4MDI5
+NDk1Ml19
 -->
