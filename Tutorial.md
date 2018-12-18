@@ -225,11 +225,11 @@ Veamos cómo funciona esto en Voyant Tools:
 1. En la sección de Cirrus (la nube de palabras), damos clic sobre 'Terms' o 'Términos'. Esto abrirá una tabla que por defecto tiene tres columnas: Términos (con la lista de palabras en los documentos, sin las filtradas), Contar (con la 'frecuencia bruta o neta' de cada término) y Tendencia (con una gráfica de la distribución de una palabra tomando su frecuencia relativa). Para obtener información sobre la frecuencia relativa de un término, en la barra de los nombres de columna, en el extremo derecho, se da clic sobre el triángulo que ofrece más opciones y en 'Columnas' se selecciona la opción 'Relativo' como se muestra en la imagen a continuación:
 ![Editar palabras vacías](img/frecuencia_relativa.png)
 
-2. Si ordenas las columnas en orden descendiente como lo harías en Excel, observarás que el orden de la frecuencia bruta ('Contar') y la frecuencia relativa ('Relativo') es igual. ¿Para qué nos sirve entonces esta medida? Para cuando comparamos diferentes corpus. Un corpus es un conjunto de textos con algo en común. En este caso, Voyant está interpretando todos los discursos como un solo corpus. Si quisiéramos que cada cada país fuera un corpus distinto, tendríamos que guardar nuestro texto en una tabla, en HTML o en XML, donde los metadatos estuvieran expresados en columnas (en el caso de la tabla) o en etiquetas (en el caso de HTML o XML). Para más información, consulta: https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627
+2. Si ordenas las columnas en orden descendiente como lo harías en Excel, observarás que el orden de la frecuencia bruta ('Contar') y la frecuencia relativa ('Relativo') el orden es el mismo. ¿Para qué nos sirve entonces esta medida? Para cuando comparamos diferentes corpus. Un corpus es un conjunto de textos con algo en común. En este caso, Voyant está interpretando todos los discursos como un solo corpus. Si quisiéramos que cada cada país fuera un corpus distinto, tendríamos que guardar nuestro texto en una tabla, en HTML o en XML, donde los metadatos estuvieran expresados en columnas (en el caso de la tabla) o en etiquetas (en el caso de HTML o XML). Para más información, consulta: https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627
 
 #### Palabras diferenciadas
 
-Generalmente la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. En el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
+Como tal vez ya sospechas, la información más interesante generalmente no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. En el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
 
 En Voyant el tfidf se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784): 
 
@@ -324,11 +324,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDU5MTY1OCwxOTIxMjAyNzYzLDEwOT
-M0NjI2ODEsOTg4NjU0ODEzLDExMzMzMTc5NDYsMTE2NDcyODE2
-MSwxNzMzOTUzNTQ2LC0yMjcyMzIwMTgsNDUzNTMwMTYyLDEyMT
-Q1ODM0MjgsLTYwNTE4NTAwNSwtMjE0MTQ2MDY1NiwtMjEzNTEx
-OTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0NTQ2LD
-E1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMTY4MDI5
-NDk1Ml19
+eyJoaXN0b3J5IjpbLTEwMzAzNTU3NTgsLTY0MDU5MTY1OCwxOT
+IxMjAyNzYzLDEwOTM0NjI2ODEsOTg4NjU0ODEzLDExMzMzMTc5
+NDYsMTE2NDcyODE2MSwxNzMzOTUzNTQ2LC0yMjcyMzIwMTgsND
+UzNTMwMTYyLDEyMTQ1ODM0MjgsLTYwNTE4NTAwNSwtMjE0MTQ2
+MDY1NiwtMjEzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0ND
+ksNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4
+NzMwMzBdfQ==
 -->
