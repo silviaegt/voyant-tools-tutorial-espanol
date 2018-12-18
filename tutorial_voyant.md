@@ -201,7 +201,33 @@ Sin embargo, como observamos en la sección sobre la extensión de los documento
 Exagerando un poco, no es lo mismo tres palabras en un documento de seis; que tres palabras en un documento de 3,000 palabras. En un caso se trata del 50% del total y en el segundo, es un 0.1% del total.<br>
 Esto queda claro en el apartado anterior con la “frecuencia bruta” de ‘chile’; pues es justo sospechar que d eesas 427 menciones, lo más probable es que la mayoría provenga de los discursos de Bachelet, que como vimos, son los más extensos.<br>
 Para evitar la sobre-representación de un término, los lingüistas han ideado otra medida que se llama: “frecuencia relativa”.<br>
-Ésta se calcula de la siguiente manera:</p>
+Ésta se calcula de la siguiente manera:<br>
+Frecuencia Bruta * 1,000,000 / Número total de palabras.<br>
+Analicemos un verso como ejemplo. Tomemos la frase: “pero mi corazón dice que no, dice que no”, que tiene ocho palabras en total. Si calculamos su frecuencia bruta y relativa tenemos que:</p>
+
+<table>
+<thead>
+<tr>
+<th>palabra</th>
+<th>frecuencia bruta</th>
+<th>frecuencia relativa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>corazón</td>
+<td>1</td>
+<td>1*1,000,000/8 = 125,000</td>
+</tr>
+<tr>
+<td>dice</td>
+<td>2</td>
+<td>2*1,000,000/8 = 111,000</td>
+</tr>
+</tbody>
+</table><p>¿Cuál es la ventaja de esto? Que si tuviéramos un documento en el que la palabra corazón tuviera la misma proporción, por ejemplo 1,000 ocurrencias entre 8,000 palabras; si bien la frecuencia bruta es muy distinta, la frecuencia relativa sería la misma, pues 1,000*1,000,000/8,000 también es 125,000.</p>
+<p>Veamos cómo funciona esto en Voyant Tools:</p>
+<p><img src="img/frecuencia_relativa.png" alt="Editar palabras vacías"></p>
 <h4 id="palabras-diferenciadas">Palabras diferenciadas</h4>
 <p>Generalmente la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. En el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.</p>
 <p>En Voyant el tfidf se calcula <a href="https://twitter.com/VoyantTools/status/1025458748574326784">de la siguiente manera</a>:</p>
