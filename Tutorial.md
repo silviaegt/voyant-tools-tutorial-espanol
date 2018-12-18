@@ -227,7 +227,7 @@ Veamos cómo funciona esto en Voyant Tools:
 1. En la sección de Cirrus (la nube de palabras), damos clic sobre 'Terms' o 'Términos'. Esto abrirá una tabla que por defecto tiene tres columnas: Términos (con la lista de palabras en los documentos, sin las filtradas), Contar (con la 'frecuencia bruta o neta' de cada término) y Tendencia (con una gráfica de la distribución de una palabra tomando su frecuencia relativa). Para obtener información sobre la frecuencia relativa de un término, en la barra de los nombres de columna, en el extremo derecho, se da clic sobre el triángulo que ofrece más opciones y en 'Columnas' se selecciona la opción 'Relativo' como se muestra en la imagen a continuación:
 ![Editar palabras vacías](img/frecuencia_relativa.png)
 
-2. Eso debería de dar una 
+2. Eso debería de darte una vi
 
 
 #### Palabras diferenciadas
@@ -327,10 +327,10 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA2OTYxMzMsMTEzMzMxNzk0NiwxMT
-Y0NzI4MTYxLDE3MzM5NTM1NDYsLTIyNzIzMjAxOCw0NTM1MzAx
-NjIsMTIxNDU4MzQyOCwtNjA1MTg1MDA1LC0yMTQxNDYwNjU2LC
-0yMTM1MTE5NDEyLDE4OTExOTYwNTYsMTcyODQ3OTQ0OSw2OTY1
-NjQ1NDYsMTU2MjM3MTUwMiw2MDc4Nzk4NjgsLTQxNDg3MzAzMC
-wxNjgwMjk0OTUyXX0=
+eyJoaXN0b3J5IjpbOTg4NjU0ODEzLDExMzMzMTc5NDYsMTE2ND
+cyODE2MSwxNzMzOTUzNTQ2LC0yMjcyMzIwMTgsNDUzNTMwMTYy
+LDEyMTQ1ODM0MjgsLTYwNTE4NTAwNSwtMjE0MTQ2MDY1NiwtMj
+EzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0
+NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMT
+Y4MDI5NDk1Ml19
 -->
