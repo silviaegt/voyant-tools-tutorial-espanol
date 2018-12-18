@@ -15,6 +15,9 @@ aquel
 aquellas
 aquellos
 aqui
+argentina
+argentino
+argentinos
 arriba
 así
 atras
@@ -24,6 +27,9 @@ bajo
 bastante
 bien
 cada
+chile
+chilenas
+chilenos
 ciento
 cierta
 ciertas
@@ -37,6 +43,7 @@ consigue
 consiguen
 consigues
 contra
+creo
 cual
 cuando
 de
@@ -120,6 +127,7 @@ lo
 los
 me
 mejor
+mexicanos
 mi
 mientras
 mil
@@ -129,18 +137,23 @@ modo
 muchos
 muy
 más
+méxico
 ni
 no
 nos
 nosotros
 nuestra
 o
+opinión
 otro
 otros
 para
 parte
 país
 pero
+peruanos
+perú
+pesos
 podeis
 podemos
 poder
@@ -173,6 +186,7 @@ sin
 sobre
 sois
 solamente
+soles
 solo
 somos
 son
@@ -181,6 +195,7 @@ su
 sus
 sólo
 también
+te
 teneis
 tenemos
 tener
@@ -230,4 +245,5 @@ vosotros
 voy
 y
 ya
+yendo
 yo
