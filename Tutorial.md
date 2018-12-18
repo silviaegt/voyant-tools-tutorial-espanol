@@ -191,9 +191,10 @@ Agregamos las palabras “vacías”, siempre separadas por un salto de línea (
 
 ![Editar palabras vacías](img/lista_ruido.png)
 
-Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en salvar. 
+Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en "salvar". 
   
 >    **Ojo** por defecto está seleccionado una caja que dice "Aplicar a todo"; si ésta se deja presionada el filtrado afectará las métricas de todas las otras herramienta. Esto puede ser algo que busques, pero es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt)
+
 
 #### Palabras más frecuentes
 
@@ -327,10 +328,10 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzMxNzk0NiwxMTY0NzI4MTYxLDE3Mz
-M5NTM1NDYsLTIyNzIzMjAxOCw0NTM1MzAxNjIsMTIxNDU4MzQy
-OCwtNjA1MTg1MDA1LC0yMTQxNDYwNjU2LC0yMTM1MTE5NDEyLD
-E4OTExOTYwNTYsMTcyODQ3OTQ0OSw2OTY1NjQ1NDYsMTU2MjM3
-MTUwMiw2MDc4Nzk4NjgsLTQxNDg3MzAzMCwxNjgwMjk0OTUyXX
-0=
+eyJoaXN0b3J5IjpbMTg2NjA5NDM2MCwxMTMzMzE3OTQ2LDExNj
+Q3MjgxNjEsMTczMzk1MzU0NiwtMjI3MjMyMDE4LDQ1MzUzMDE2
+MiwxMjE0NTgzNDI4LC02MDUxODUwMDUsLTIxNDE0NjA2NTYsLT
+IxMzUxMTk0MTIsMTg5MTE5NjA1NiwxNzI4NDc5NDQ5LDY5NjU2
+NDU0NiwxNTYyMzcxNTAyLDYwNzg3OTg2OCwtNDE0ODczMDMwLD
+E2ODAyOTQ5NTJdfQ==
 -->
