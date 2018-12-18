@@ -225,6 +225,8 @@ Analicemos un verso como ejemplo. Tomemos la frase: "pero mi corazón dice que n
 
 Veamos cómo funciona esto en Voyant Tools:
 
+![Editar palabras vacías](img/frecuencia_relativa.png)
+
 #### Palabras diferenciadas
 
 Generalmente la información más interesante no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. En el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
@@ -321,8 +323,8 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTE4NTAwNSwtMjE0MTQ2MDY1NiwtMj
-EzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0
-NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MTQ4NzMwMzAsMT
-Y4MDI5NDk1Ml19
+eyJoaXN0b3J5IjpbMTY1NTU3OTIsLTYwNTE4NTAwNSwtMjE0MT
+Q2MDY1NiwtMjEzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0
+NDksNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MT
+Q4NzMwMzAsMTY4MDI5NDk1Ml19
 -->
