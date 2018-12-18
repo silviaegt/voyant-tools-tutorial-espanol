@@ -287,11 +287,10 @@ Eso lleva a una página donde están separados los campos por un tabulador:
 
 ![Exportar contextos](img/exportar_contextos.png)
 
-
 Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) y pégalos en una hoja de cálculo (Ctrl+V). Si esto no funciona, guarda los datos como en un editor sencillo de texto como .txt (¡no olvides la codificación UTF-8) y luego en tu hoja de cálculo importa los datos. En Excel, por ejemplo, esto se hace en la pestañad de datos y después “Desde un archivo de texto”
 
 
-## Respuestas a Actividades
+## Respuestas a las actividades
 ### Actividad 1
 Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras únicas *(tengo, hambre, sueño)*
 ### Actividad 2
@@ -323,8 +322,8 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTU3OTIsLTYwNTE4NTAwNSwtMjE0MT
-Q2MDY1NiwtMjEzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0
-NDksNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC00MT
-Q4NzMwMzAsMTY4MDI5NDk1Ml19
+eyJoaXN0b3J5IjpbMTIxNDU4MzQyOCwtNjA1MTg1MDA1LC0yMT
+QxNDYwNjU2LC0yMTM1MTE5NDEyLDE4OTExOTYwNTYsMTcyODQ3
+OTQ0OSw2OTY1NjQ1NDYsMTU2MjM3MTUwMiw2MDc4Nzk4NjgsLT
+QxNDg3MzAzMCwxNjgwMjk0OTUyXX0=
 -->
