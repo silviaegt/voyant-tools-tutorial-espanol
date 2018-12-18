@@ -224,7 +224,7 @@ Analicemos un verso como ejemplo. Tomemos la frase: "pero mi corazón dice que n
 ¿Cuál es la ventaja de esto? Que si tuviéramos un documento en el que la palabra corazón tuviera la misma proporción, por ejemplo 1,000 ocurrencias entre 8,000 palabras; si bien la frecuencia bruta es muy distinta, la frecuencia relativa sería la misma, pues 1,000*1,000,000/8,000 también es 125,000.
 
 Veamos cómo funciona esto en Voyant Tools:
-1. En la sección de Cirrus (la nube de palabras), damos clic sobre 'Terms' o 'Términos'. Esto abrirá una tabla que por defecto tiene tres columnas: Términos (con la lista de palabras en los documentos, sin las filtradas), Contar (con la 'frecuencia y Tendencia. 
+1. En la sección de Cirrus (la nube de palabras), damos clic sobre 'Terms' o 'Términos'. Esto abrirá una tabla que por defecto tiene tres columnas: Términos (con la lista de palabras en los documentos, sin las filtradas), Contar (con la 'frecuencia bruta o neta' de cada término) y Tendencia (con una gráfica . 
 ![Editar palabras vacías](img/frecuencia_relativa.png)
 
 #### Palabras diferenciadas
@@ -323,9 +323,9 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjk4MjIyLDQ1MzUzMDE2MiwxMjE0NT
-gzNDI4LC02MDUxODUwMDUsLTIxNDE0NjA2NTYsLTIxMzUxMTk0
-MTIsMTg5MTE5NjA1NiwxNzI4NDc5NDQ5LDY5NjU2NDU0NiwxNT
-YyMzcxNTAyLDYwNzg3OTg2OCwtNDE0ODczMDMwLDE2ODAyOTQ5
-NTJdfQ==
+eyJoaXN0b3J5IjpbLTIyNzIzMjAxOCw0NTM1MzAxNjIsMTIxND
+U4MzQyOCwtNjA1MTg1MDA1LC0yMTQxNDYwNjU2LC0yMTM1MTE5
+NDEyLDE4OTExOTYwNTYsMTcyODQ3OTQ0OSw2OTY1NjQ1NDYsMT
+U2MjM3MTUwMiw2MDc4Nzk4NjgsLTQxNDg3MzAzMCwxNjgwMjk0
+OTUyXX0=
 -->
