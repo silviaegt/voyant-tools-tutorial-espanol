@@ -227,7 +227,7 @@ Veamos cómo funciona esto en Voyant Tools:
 1. En la sección de Cirrus (la nube de palabras), damos clic sobre 'Terms' o 'Términos'. Esto abrirá una tabla que por defecto tiene tres columnas: Términos (con la lista de palabras en los documentos, sin las filtradas), Contar (con la 'frecuencia bruta o neta' de cada término) y Tendencia (con una gráfica de la distribución de una palabra tomando su frecuencia relativa). Para obtener información sobre la frecuencia relativa de un término, en la barra de los nombres de columna, en el extremo derecho, se da clic sobre el triángulo que ofrece más opciones y en 'Columnas' se selecciona la opción 'Relativo' como se muestra en la imagen a continuación:
 ![Editar palabras vacías](img/frecuencia_relativa.png)
 
-2. Puedes ordenar las columnas en orden descendiente como lo harías en Excel. Si aplicaste el filtro de palabras con la lista que te proporcioné, observarás por ejemplo que si ordenas tus datos por la frecuencia bruta ('Contar') las palabras más frecuentes son: social, nacional, chile, nuestro
+2. Puedes ordenar las columnas en orden descendiente como lo harías en Excel. Si aplicaste el filtro de palabras con la lista que te proporcioné, observarás por ejemplo que si ordenas tus datos por la frecuencia bruta ('Contar') las palabras más frecuentes son: social, nacional, chile, nuestro. No obstante, 
 
 
 #### Palabras diferenciadas
@@ -327,10 +327,10 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI5OTU5MTgsOTg4NjU0ODEzLDExMz
-MzMTc5NDYsMTE2NDcyODE2MSwxNzMzOTUzNTQ2LC0yMjcyMzIw
-MTgsNDUzNTMwMTYyLDEyMTQ1ODM0MjgsLTYwNTE4NTAwNSwtMj
-E0MTQ2MDY1NiwtMjEzNTExOTQxMiwxODkxMTk2MDU2LDE3Mjg0
-Nzk0NDksNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNjA3ODc5ODY4LC
-00MTQ4NzMwMzAsMTY4MDI5NDk1Ml19
+eyJoaXN0b3J5IjpbMTA5MzQ2MjY4MSw5ODg2NTQ4MTMsMTEzMz
+MxNzk0NiwxMTY0NzI4MTYxLDE3MzM5NTM1NDYsLTIyNzIzMjAx
+OCw0NTM1MzAxNjIsMTIxNDU4MzQyOCwtNjA1MTg1MDA1LC0yMT
+QxNDYwNjU2LC0yMTM1MTE5NDEyLDE4OTExOTYwNTYsMTcyODQ3
+OTQ0OSw2OTY1NjQ1NDYsMTU2MjM3MTUwMiw2MDc4Nzk4NjgsLT
+QxNDg3MzAzMCwxNjgwMjk0OTUyXX0=
 -->
