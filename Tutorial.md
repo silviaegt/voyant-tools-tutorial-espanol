@@ -291,6 +291,7 @@ Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) y pégalos en u
 
 
 ## Respuestas a las actividades
+
 ### Actividad 1
 Este corpus tiene 2 documentos con un total de palabras de 4 y 3 palabras únicas *(tengo, hambre, sueño)*
 ### Actividad 2
@@ -322,8 +323,8 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDU4MzQyOCwtNjA1MTg1MDA1LC0yMT
-QxNDYwNjU2LC0yMTM1MTE5NDEyLDE4OTExOTYwNTYsMTcyODQ3
-OTQ0OSw2OTY1NjQ1NDYsMTU2MjM3MTUwMiw2MDc4Nzk4NjgsLT
-QxNDg3MzAzMCwxNjgwMjk0OTUyXX0=
+eyJoaXN0b3J5IjpbNDUzNTMwMTYyLDEyMTQ1ODM0MjgsLTYwNT
+E4NTAwNSwtMjE0MTQ2MDY1NiwtMjEzNTExOTQxMiwxODkxMTk2
+MDU2LDE3Mjg0Nzk0NDksNjk2NTY0NTQ2LDE1NjIzNzE1MDIsNj
+A3ODc5ODY4LC00MTQ4NzMwMzAsMTY4MDI5NDk1Ml19
 -->
