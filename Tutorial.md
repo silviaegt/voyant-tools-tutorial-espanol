@@ -239,6 +239,8 @@ Veamos cómo funciona esto en Voyant Tools:
 Aunque la frecuencia relativa no sirve para entender la distribución de nuestro corpus, existe una medida que sí nos da información sobre qué tan constante es un término a lo largo de nuestros documentos: la asimetría estadística.
 
 Esta medida nos da una idea de la distribución de probabilidad de una variable sin tener que hacer su representación gráfica. La forma en que se calcula es observando las desviaciones de una frecuencia con respecto a la media, para obtener si son mayores las que ocurren a la derecha de la media (asimetría negativa) que las de la izquierda (asimetría positiva). Entre más cercano a cero sea el grado de la asimetría estadística, significa que la distribución de ese término es más regular (es decir que ocurre con una media muy similar en todos los documentos). Algo que no es muy intuitivo es que si un término tiene una asimetría estadística con **números positivos** significan que ese término está **por debajo** de la media, y entre más grande el número más asimétrico es el término (es decir, que ocurre muchísimo en un documento pero que casi no ocurre en el corpus). Los **números negativos**, por el contrario, indican que ese término tiende a estar **por arriba** de la media.
+
+Para obtener esta medida, tenemos que repetir los pasos que hicimos para obtener la frencuencia relativa, pero esta vez seleccionar 
 ![Asimetría Estadística, imagen de ](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png)
 
 
@@ -345,11 +347,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUxNDUzNCwxOTE2MzkzNTg0LDE2OT
-EzOTYxMjAsLTE2ODMyODI4MiwxNzgxMTQ2NjcxLC0xMTM1NjQ0
-MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1OTE2NT
-gsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMywxMTMz
-MzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3MjMyMD
-E4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MDUxODUwMDUsLTIx
-NDE0NjA2NTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MzQwMDIzNDEsMTkxNjM5MzU4NCwxNj
+kxMzk2MTIwLC0xNjgzMjgyODIsMTc4MTE0NjY3MSwtMTEzNTY0
+NDM3MCwtMTUxODAyMTA1MiwtMTAzMDM1NTc1OCwtNjQwNTkxNj
+U4LDE5MjEyMDI3NjMsMTA5MzQ2MjY4MSw5ODg2NTQ4MTMsMTEz
+MzMxNzk0NiwxMTY0NzI4MTYxLDE3MzM5NTM1NDYsLTIyNzIzMj
+AxOCw0NTM1MzAxNjIsMTIxNDU4MzQyOCwtNjA1MTg1MDA1LC0y
+MTQxNDYwNjU2XX0=
 -->
