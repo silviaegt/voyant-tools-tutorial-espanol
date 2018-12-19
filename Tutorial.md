@@ -44,9 +44,11 @@ Una vez localizada la información, el segundo paso es copiar el texto que te in
 Cuando guardes el texto debes considerar tres cosas esenciales:
 
 La primera es que, si los textos de tu corpus están en español, deberás **guardarlos en UTF-8**, que es un formato de codificación de caracteres estándar para este idioma. 
-img/guardar-en-utf8-mac.gif
+
 
 ![Guardar en UTF-8 en Windows](img/guardar-en-utf8.gif)
+
+![Guardar en UTF-8 en Windows](img/guardar-en-utf8-mac.gif)
 
 ![Guardar en UTF-8 en Linux](img/guardar-en-utf8-ubuntu.gif)
 
@@ -335,7 +337,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzgxNTI3NCwxNzgxMTQ2NjcxLC0xMT
+eyJoaXN0b3J5IjpbLTI3NzY3NTEzOSwxNzgxMTQ2NjcxLC0xMT
 M1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1
 OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMy
 wxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3
