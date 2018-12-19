@@ -66,12 +66,12 @@ código del país ([ISO 3166-1 alfa-2](https://www.iso.org/obp/ui/#search)) y el
 ## Cargar el corpus
 
 
-En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones son en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar. 
+En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones se encuentran en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar. 
 Una tercera opción es "Abrir" alguno de los dos corpus que Voyant tiene precargados (las obras de Shakespeare o las novelas de Austen: ambos en inglés).
 
 Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el [corpus completo](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo) de discursos presidenciales. 
 
->  **Para obtener los materiales** de este tutorial ve [a esta página de Github](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo)  y descarga todos los archivos:
+>  **Para obtener los materiales** de este tutorial ve [a esta página de Github](https://github.com/corpusenespanol/discursos-presidenciales)  y descarga todos los archivos:
 
 ![Descargar corpus](img/1_descargar_archivos.png)
 
@@ -337,11 +337,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzY3NTEzOSwxNzgxMTQ2NjcxLC0xMT
-M1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1
-OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMy
-wxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3
-MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MDUxODUwMD
-UsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIsMTg5MTE5NjA1Niwx
-NzI4NDc5NDQ5XX0=
+eyJoaXN0b3J5IjpbLTEwMzY0ODQwODEsMTc4MTE0NjY3MSwtMT
+EzNTY0NDM3MCwtMTUxODAyMTA1MiwtMTAzMDM1NTc1OCwtNjQw
+NTkxNjU4LDE5MjEyMDI3NjMsMTA5MzQ2MjY4MSw5ODg2NTQ4MT
+MsMTEzMzMxNzk0NiwxMTY0NzI4MTYxLDE3MzM5NTM1NDYsLTIy
+NzIzMjAxOCw0NTM1MzAxNjIsMTIxNDU4MzQyOCwtNjA1MTg1MD
+A1LC0yMTQxNDYwNjU2LC0yMTM1MTE5NDEyLDE4OTExOTYwNTYs
+MTcyODQ3OTQ0OV19
 -->
