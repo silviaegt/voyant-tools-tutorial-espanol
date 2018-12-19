@@ -17,9 +17,10 @@ Al finalizar este tutorial, tendrás la capacidad de:
 	* Promedio de palabras por oración
 	* Relevancia (llamadas "palabras distintivas")
 * Realizar consultas específicas sobre el corpus:
+	* Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia y asimetría estadística)
 	*  Buscar palabras clave en contexto
 	* Identificar patrones de uso de un término
-	* Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia, curtosis, asimetría estadística)
+
 * Exportar los datos y las visualizaciones en diferentes formatos (csv, png, html)
 
 ## Creando un corpus en texto plano
@@ -328,11 +329,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU2NDQzNzAsLTE1MTgwMjEwNTIsLT
-EwMzAzNTU3NTgsLTY0MDU5MTY1OCwxOTIxMjAyNzYzLDEwOTM0
-NjI2ODEsOTg4NjU0ODEzLDExMzMzMTc5NDYsMTE2NDcyODE2MS
-wxNzMzOTUzNTQ2LC0yMjcyMzIwMTgsNDUzNTMwMTYyLDEyMTQ1
-ODM0MjgsLTYwNTE4NTAwNSwtMjE0MTQ2MDY1NiwtMjEzNTExOT
-QxMiwxODkxMTk2MDU2LDE3Mjg0Nzk0NDksNjk2NTY0NTQ2LDE1
-NjIzNzE1MDJdfQ==
+eyJoaXN0b3J5IjpbMTc4MTE0NjY3MSwtMTEzNTY0NDM3MCwtMT
+UxODAyMTA1MiwtMTAzMDM1NTc1OCwtNjQwNTkxNjU4LDE5MjEy
+MDI3NjMsMTA5MzQ2MjY4MSw5ODg2NTQ4MTMsMTEzMzMxNzk0Ni
+wxMTY0NzI4MTYxLDE3MzM5NTM1NDYsLTIyNzIzMjAxOCw0NTM1
+MzAxNjIsMTIxNDU4MzQyOCwtNjA1MTg1MDA1LC0yMTQxNDYwNj
+U2LC0yMTM1MTE5NDEyLDE4OTExOTYwNTYsMTcyODQ3OTQ0OSw2
+OTY1NjQ1NDZdfQ==
 -->
