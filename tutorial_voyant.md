@@ -5,8 +5,9 @@
 
 <h1 id="análisis-de-corpus-con-voyant-tools">Análisis de corpus con Voyant Tools</h1>
 <p>El análisis de corpus es un tipo de <a href="http://vocabularios.caicyt.gov.ar/portal/index.php?task=fetchTerm&amp;arg=26&amp;v=42">análisis de contenido</a>, que permite hacer comparaciones a gran escala entre los textos contenidos en dichos corpus.</p>
-<p>Desde el inicio de la computación, lingüistas y especialistas de la <a href="http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&amp;arg=178&amp;v=42">recuperación de la información</a> han creado y utilizado software para apreciar patrones que no son evidentes en la lectura o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de ciertas palabras, o las expresiones que distinguen a un grupo de textos frente a otros.</p>
-<p>Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet.</p>
+<p>Desde el inicio de la computación, lingüistas y especialistas de la <a href="http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&amp;arg=178&amp;v=42">recuperación de la información</a> han creado y utilizado software para apreciar los patrones que no son evidentes en la lectura; o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de palabras específicas, o las expresiones que distinguen a un grupo de textos frente a otros.</p>
+<p>Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web que permite hacer este tipo de análisis y que no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet.</p>
+<p>Es una buena puerta de entrada para inciarse en el análisis cuantitativo de textos y es por eso que se ha integrado a la lista de tutoriales de The Programming Historian en esta rama.</p>
 <p>Al finalizar este tutorial, tendrás la capacidad de:</p>
 <ul>
 <li>
@@ -18,16 +19,16 @@
 <li>
 <p>Identificar características básicas del corpus:</p>
 <ul>
-<li>Extensión de los documentos subidos</li>
-<li>Densidad léxica (llamada densidad de vocabulario en la plataforma)</li>
+<li>Extensión de los documentos subidos a la plataforma</li>
+<li>Densidad léxica (llamada “densidad de vocabulario” en Voyant)</li>
 <li>Promedio de palabras por oración</li>
 <li>Relevancia (llamadas “palabras distintivas”)</li>
+<li>Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia y asimetría estadística)</li>
 </ul>
 </li>
 <li>
 <p>Realizar consultas específicas sobre el corpus:</p>
 <ul>
-<li>Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia y asimetría estadística)</li>
 <li>Buscar palabras clave en contexto</li>
 <li>Identificar patrones de uso de un término</li>
 </ul>
@@ -37,20 +38,22 @@
 </li>
 </ul>
 <h2 id="creando-un-corpus-en-texto-plano">Creando un corpus en texto plano</h2>
-<p>Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial y tampoco  o conocimiento extra.</p>
+<p>Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos sólo texto plano. El texto plano tiene tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial ni conocimiento extra a las habilidades básicas de cómputo (abrir archivos, copiar y pegar, “guardar como”).</p>
 <h3 id="buscar-textos">1. Buscar textos</h3>
-<p>Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, <a href="https://twitter.com/rivaquiroga">Riva Quiroga</a> y yo preparamos un corpus de los discursos presidenciales anuales de Argentina, Chile, Colombia, México y Perú (este último gracias a <a href="https://twitter.com/madvivacious">Pamela Sertzen</a>) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008.</p>
+<p>Para armar un corpus lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, <a href="https://twitter.com/rivaquiroga">Riva Quiroga</a> y yo preparamos un corpus de los discursos presidenciales anuales de Argentina, Chile, Colombia, México y Perú (este último gracias a <a href="https://twitter.com/madvivacious">Pamela Sertzen</a>) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008. Lo único que hicimos fue buscar en Google los discursos anuales de las y los presidentes de este periodo y tomar los textos de las páginas gubernamentales de cada país.</p>
 <h3 id="copiar-en-editor-de-texto-plano">2. Copiar en editor de texto plano</h3>
 <p>Una vez localizada la información, el segundo paso es copiar el texto que te interesa desde la primera palabra dicha hasta la última y guardarla en un editor de texto sin formato. Por ejemplo:</p>
 <ul>
 <li>en Windows podría guardarse en <a href="https://web.archive.org/web/20091013225307/http://windows.microsoft.com/en-us/windows-vista/Notepad-frequently-asked-questions">Bloc de Notas</a></li>
-<li>en Mac, en <a href="https://support.apple.com/es-mx/guide/textedit/welcome/mac">TextEdit</a>;</li>
+<li>en equipos con Mac, en <a href="https://support.apple.com/es-mx/guide/textedit/welcome/mac">TextEdit</a>;</li>
 <li>y en Linux, en <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>.</li>
 </ul>
 <h3 id="guardar-archivo">3. Guardar archivo</h3>
 <p>Cuando guardes el texto debes considerar tres cosas esenciales:</p>
 <p>La primera es que, si los textos de tu corpus están en español, deberás <strong>guardarlos en UTF-8</strong>, que es un formato de codificación de caracteres estándar para este idioma.</p>
-<p>(gif de cómo guardar)</p>
+<p><img src="img/guardar-en-utf8.gif" alt="Guardar en UTF-8 en Windows"></p>
+<p><img src="img/guardar-en-utf8-mac.gif" alt="Guardar en UTF-8 en Windows"></p>
+<p><img src="img/guardar-en-utf8-ubuntu.gif" alt="Guardar en UTF-8 en Linux"></p>
 <blockquote>
 <p><strong>¿Qué es utf-8?</strong> Si bien en nuestra pantalla vemos que al teclear una “É” aprece una “É”; para una computadora “É” es una serie de ceros y unos que son interpretados en imagen dependiendo del “traductor” o “codificador” que se esté usando. El codificador que contiene códigos binarios para todas los caracteres que se usan en el español es UTF-8. Siguiendo con el ejemplo “11000011”, es una cadena de ocho bits --es decir, <strong>ocho</strong> espacios de información-- que en UTF-<strong>8</strong> son interpretados como “É”</p>
 </blockquote>
@@ -64,11 +67,11 @@ código del país (<a href="https://www.iso.org/obp/ui/#search">ISO 3166-1 alfa-
 <p><a href="https://github.com/corpusenespanol/discursos-presidenciales/blob/master/mexico/2007_mx_calderon.txt" title="2007_mx_calderon.txt">2007_mx_calderon.txt</a> tiene el año del discurso dividido con un guión bajo, el código de dos letras del país (México = mx) y el apellido del presidente que dictó el discurso, Calderón, (sin acentos ni eñes)</p>
 </blockquote>
 <h2 id="cargar-el-corpus">Cargar el corpus</h2>
-<p>En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones son en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar.<br>
+<p>En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones se encuentran en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar.<br>
 Una tercera opción es “Abrir” alguno de los dos corpus que Voyant tiene precargados (las obras de Shakespeare o las novelas de Austen: ambos en inglés).</p>
 <p>Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el <a href="https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo">corpus completo</a> de discursos presidenciales.</p>
 <blockquote>
-<p><strong>Para obtener los materiales</strong> de este tutorial ve <a href="https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo">a esta página de Github</a>  y descarga todos los archivos:</p>
+<p><strong>Para obtener los materiales</strong> de este tutorial ve <a href="https://github.com/corpusenespanol/discursos-presidenciales">a esta página de Github</a>  y descarga todos los archivos dando clic en “Clone or Download” (un botón verde):</p>
 </blockquote>
 <p><img src="img/1_descargar_archivos.png" alt="Descargar corpus"></p>
 <blockquote>
