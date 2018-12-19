@@ -3,7 +3,7 @@
 
 El análisis de corpus es un tipo de [análisis de contenido](http://vocabularios.caicyt.gov.ar/portal/index.php?task=fetchTerm&arg=26&v=42), que permite hacer comparaciones a gran escala entre los textos contenidos en dichos corpus.
 
-Desde el inicio de la computación, lingüistas y especialistas de la [recuperación de la información](http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&arg=178&v=42) han creado y utilizado software para apreciar patrones que no son evidentes en la lectura o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de ciertas palabras, o las expresiones que distinguen a un grupo de textos frente a otros.
+Desde el inicio de la computación, lingüistas y especialistas de la [recuperación de la información](http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&arg=178&v=42) han creado y utilizado software para apreciar los patrones que no son evidentes en la lectura; o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de palabras específicas, o las expresiones que distinguen a un grupo de textos frente a otros.
 
 Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet. 
 
@@ -329,11 +329,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTE0NjY3MSwtMTEzNTY0NDM3MCwtMT
-UxODAyMTA1MiwtMTAzMDM1NTc1OCwtNjQwNTkxNjU4LDE5MjEy
-MDI3NjMsMTA5MzQ2MjY4MSw5ODg2NTQ4MTMsMTEzMzMxNzk0Ni
-wxMTY0NzI4MTYxLDE3MzM5NTM1NDYsLTIyNzIzMjAxOCw0NTM1
-MzAxNjIsMTIxNDU4MzQyOCwtNjA1MTg1MDA1LC0yMTQxNDYwNj
-U2LC0yMTM1MTE5NDEyLDE4OTExOTYwNTYsMTcyODQ3OTQ0OSw2
-OTY1NjQ1NDZdfQ==
+eyJoaXN0b3J5IjpbMTEzMTk1MjU1MCwxNzgxMTQ2NjcxLC0xMT
+M1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1
+OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMy
+wxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3
+MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MDUxODUwMD
+UsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIsMTg5MTE5NjA1Niwx
+NzI4NDc5NDQ5XX0=
 -->
