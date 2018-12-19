@@ -238,7 +238,7 @@ Veamos cómo funciona esto en Voyant Tools:
 
 Aunque la frecuencia relativa no sirve para entender la distribución de nuestro corpus, existe una medida que sí nos da información sobre qué tan constante es un término a lo largo de nuestros documentos: la asimetría estadística.
 
-Esta medida nos da una idea de la distribución de probabilidad de una variable sin tener que hacer su representación gráfica. La forma en que se calcula es observando las desviaciones de una frecuencia con respecto a la media, para obtener si son mayores las que ocurren a la derecha de la media (asimetría negativa) que las de la izquierda. Algo 
+Esta medida nos da una idea de la distribución de probabilidad de una variable sin tener que hacer su representación gráfica. La forma en que se calcula es observando las desviaciones de una frecuencia con respecto a la media, para obtener si son mayores las que ocurren a la derecha de la media (asimetría negativa) que las de la izquierda (asimetría positiva). Entre más cercano a cero sea el grado de la asimetría estadística, significa que la distribución de ese término es más regular (es decir que ocurre d
 ![Asimetría Estadística, imagen de ](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png)
 
 #### Palabras diferenciadas
@@ -344,11 +344,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDEzMzAwNiwxOTE2MzkzNTg0LDE2OT
-EzOTYxMjAsLTE2ODMyODI4MiwxNzgxMTQ2NjcxLC0xMTM1NjQ0
-MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1OTE2NT
-gsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMywxMTMz
-MzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3MjMyMD
-E4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MDUxODUwMDUsLTIx
-NDE0NjA2NTZdfQ==
+eyJoaXN0b3J5IjpbNjM1MTUyOTcxLDE5MTYzOTM1ODQsMTY5MT
+M5NjEyMCwtMTY4MzI4MjgyLDE3ODExNDY2NzEsLTExMzU2NDQz
+NzAsLTE1MTgwMjEwNTIsLTEwMzAzNTU3NTgsLTY0MDU5MTY1OC
+wxOTIxMjAyNzYzLDEwOTM0NjI2ODEsOTg4NjU0ODEzLDExMzMz
+MTc5NDYsMTE2NDcyODE2MSwxNzMzOTUzNTQ2LC0yMjcyMzIwMT
+gsNDUzNTMwMTYyLDEyMTQ1ODM0MjgsLTYwNTE4NTAwNSwtMjE0
+MTQ2MDY1Nl19
 -->
