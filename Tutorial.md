@@ -236,7 +236,9 @@ Veamos cómo funciona esto en Voyant Tools:
 
 #### Asimetría estadística
 
-!https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png
+
+
+![Asimetría Estadística, imagen de ](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png)
 
 #### Palabras diferenciadas
 
@@ -341,7 +343,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM4ODA5NTQsLTE2ODMyODI4MiwxNz
+eyJoaXN0b3J5IjpbLTE0NDk2MTk2MDIsLTE2ODMyODI4MiwxNz
 gxMTQ2NjcxLC0xMTM1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMw
 MzU1NzU4LC02NDA1OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNj
 gxLDk4ODY1NDgxMywxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTcz
