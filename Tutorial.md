@@ -5,7 +5,9 @@ El análisis de corpus es un tipo de [análisis de contenido](http://vocabulario
 
 Desde el inicio de la computación, lingüistas y especialistas de la [recuperación de la información](http://vocabularios.caicyt.gov.ar/portal/?task=fetchTerm&arg=178&v=42) han creado y utilizado software para apreciar los patrones que no son evidentes en la lectura; o bien, para corroborar hipótesis que intuían al leer ciertos textos. Por ejemplo: los patrones de uso y decaimiento de ciertos términos en una época dada, los contextos izquierdos y derechos de palabras específicas, o las expresiones que distinguen a un grupo de textos frente a otros.
 
-Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet. 
+Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web que permite hacer este tipo de análisis y que no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet. 
+
+Es una buena puerta de entrada para inciarse en el análisis cuantitativo de textos y es por eso que se ha integrado a la lista de tutoriales de The Programming Historian en esta rama.
 
 Al finalizar este tutorial, tendrás la capacidad de:
 
@@ -329,11 +331,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTk1MjU1MCwxNzgxMTQ2NjcxLC0xMT
-M1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1
-OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMy
-wxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3
-MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MDUxODUwMD
-UsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIsMTg5MTE5NjA1Niwx
-NzI4NDc5NDQ5XX0=
+eyJoaXN0b3J5IjpbOTAzNjE1NTY3LDE3ODExNDY2NzEsLTExMz
+U2NDQzNzAsLTE1MTgwMjEwNTIsLTEwMzAzNTU3NTgsLTY0MDU5
+MTY1OCwxOTIxMjAyNzYzLDEwOTM0NjI2ODEsOTg4NjU0ODEzLD
+ExMzMzMTc5NDYsMTE2NDcyODE2MSwxNzMzOTUzNTQ2LC0yMjcy
+MzIwMTgsNDUzNTMwMTYyLDEyMTQ1ODM0MjgsLTYwNTE4NTAwNS
+wtMjE0MTQ2MDY1NiwtMjEzNTExOTQxMiwxODkxMTk2MDU2LDE3
+Mjg0Nzk0NDldfQ==
 -->
