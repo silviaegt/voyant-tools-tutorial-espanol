@@ -27,10 +27,11 @@ Al finalizar este tutorial, tendrás la capacidad de:
 
 ## Creando un corpus en texto plano
 
-Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial y tampoco  o conocimiento extra.
+Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos sólo texto plano. El texto plano tiene tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial ni conocimiento extra a las habilidades básicas de cómputo (abrir archivos, copiar y pegar, "guardar como").
 
 ### 1. Buscar textos
-Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos presidenciales anuales de Argentina, Chile, Colombia, México y Perú (este último gracias a [Pamela Sertzen](https://twitter.com/madvivacious)) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008. 
+
+Para armar un corpus lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos presidenciales anuales de Argentina, Chile, Colombia, México y Perú (este último gracias a [Pamela Sertzen](https://twitter.com/madvivacious)) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008. Lo único que hicimos fue buscar en Google 
 
 ### 2. Copiar en editor de texto plano
 Una vez localizada la información, el segundo paso es copiar el texto que te interesa desde la primera palabra dicha hasta la última y guardarla en un editor de texto sin formato. Por ejemplo:
@@ -331,11 +332,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjkxOTg3NywxNzgxMTQ2NjcxLC0xMT
-M1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1
-OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMy
-wxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3
-MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MDUxODUwMD
-UsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIsMTg5MTE5NjA1Niwx
-NzI4NDc5NDQ5XX0=
+eyJoaXN0b3J5IjpbLTIwMTUzOTYxNTIsMTc4MTE0NjY3MSwtMT
+EzNTY0NDM3MCwtMTUxODAyMTA1MiwtMTAzMDM1NTc1OCwtNjQw
+NTkxNjU4LDE5MjEyMDI3NjMsMTA5MzQ2MjY4MSw5ODg2NTQ4MT
+MsMTEzMzMxNzk0NiwxMTY0NzI4MTYxLDE3MzM5NTM1NDYsLTIy
+NzIzMjAxOCw0NTM1MzAxNjIsMTIxNDU4MzQyOCwtNjA1MTg1MD
+A1LC0yMTQxNDYwNjU2LC0yMTM1MTE5NDEyLDE4OTExOTYwNTYs
+MTcyODQ3OTQ0OV19
 -->
