@@ -9,9 +9,14 @@
 <p>Voyant Tools (Sinclair y Rockwell, 2016) es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet.</p>
 <p>Al finalizar este tutorial, tendrás la capacidad de:</p>
 <ul>
-<li>Armar un corpus en texto plano</li>
-<li>Pensar y aplicar diferentes técnicas de segmentación de corpus</li>
-<li>Identificar características básicas del corpus:
+<li>
+<p>Armar un corpus en texto plano</p>
+</li>
+<li>
+<p>Pensar y aplicar diferentes técnicas de segmentación de corpus</p>
+</li>
+<li>
+<p>Identificar características básicas del corpus:</p>
 <ul>
 <li>Extensión de los documentos subidos</li>
 <li>Densidad léxica (llamada densidad de vocabulario en la plataforma)</li>
@@ -19,14 +24,17 @@
 <li>Relevancia (llamadas “palabras distintivas”)</li>
 </ul>
 </li>
-<li>Realizar consultas específicas sobre el corpus:
+<li>
+<p>Realizar consultas específicas sobre el corpus:</p>
 <ul>
+<li>Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia y asimetría estadística)</li>
 <li>Buscar palabras clave en contexto</li>
 <li>Identificar patrones de uso de un término</li>
-<li>Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia, curtosis, asimetría estadística)</li>
 </ul>
 </li>
-<li>Exportar los datos y las visualizaciones en diferentes formatos (csv, png, html)</li>
+<li>
+<p>Exportar los datos y las visualizaciones en diferentes formatos (csv, png, html)</p>
+</li>
 </ul>
 <h2 id="creando-un-corpus-en-texto-plano">Creando un corpus en texto plano</h2>
 <p>Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial y tampoco  o conocimiento extra.</p>
