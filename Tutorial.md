@@ -238,7 +238,7 @@ Veamos cómo funciona esto en Voyant Tools:
 
 Aunque la frecuencia relativa no sirve para entender la distribución de nuestro corpus, existe una medida que sí nos da información sobre qué tan constante es un término a lo largo de nuestros documentos: la asimetría estadística.
 
-En palabr 
+Esta medida nos da una idea de la distribución de probabilidad de una variable sin tener que hacer su representación gráfica. Es decir, si la media de una 
 ![Asimetría Estadística, imagen de ](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png)
 
 #### Palabras diferenciadas
@@ -344,11 +344,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1NzA1MzA2LDE2OTEzOTYxMjAsLTE2OD
-MyODI4MiwxNzgxMTQ2NjcxLC0xMTM1NjQ0MzcwLC0xNTE4MDIx
-MDUyLC0xMDMwMzU1NzU4LC02NDA1OTE2NTgsMTkyMTIwMjc2My
-wxMDkzNDYyNjgxLDk4ODY1NDgxMywxMTMzMzE3OTQ2LDExNjQ3
-MjgxNjEsMTczMzk1MzU0NiwtMjI3MjMyMDE4LDQ1MzUzMDE2Mi
-wxMjE0NTgzNDI4LC02MDUxODUwMDUsLTIxNDE0NjA2NTYsLTIx
-MzUxMTk0MTJdfQ==
+eyJoaXN0b3J5IjpbMTkxNjM5MzU4NCwxNjkxMzk2MTIwLC0xNj
+gzMjgyODIsMTc4MTE0NjY3MSwtMTEzNTY0NDM3MCwtMTUxODAy
+MTA1MiwtMTAzMDM1NTc1OCwtNjQwNTkxNjU4LDE5MjEyMDI3Nj
+MsMTA5MzQ2MjY4MSw5ODg2NTQ4MTMsMTEzMzMxNzk0NiwxMTY0
+NzI4MTYxLDE3MzM5NTM1NDYsLTIyNzIzMjAxOCw0NTM1MzAxNj
+IsMTIxNDU4MzQyOCwtNjA1MTg1MDA1LC0yMTQxNDYwNjU2LC0y
+MTM1MTE5NDEyXX0=
 -->
