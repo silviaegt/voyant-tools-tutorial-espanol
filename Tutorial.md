@@ -71,7 +71,7 @@ Una tercera opción es "Abrir" alguno de los dos corpus que Voyant tiene precarg
 
 Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el [corpus completo](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo) de discursos presidenciales. 
 
->  **Para obtener los materiales** de este tutorial ve [a esta página de Github](https://github.com/corpusenespanol/discursos-presidenciales)  y descarga todos los archivos:
+>  **Para obtener los materiales** de este tutorial ve [a esta página de Github](https://github.com/corpusenespanol/discursos-presidenciales)  y descarga todos los archivos dando clic en "Clone or Download" (un botón verde):
 
 ![Descargar corpus](img/1_descargar_archivos.png)
 
@@ -80,7 +80,7 @@ Por último, está la opción que usaremos en este tutorial, en la que puedes ca
 >    **Para descomprimir en Linux** botón derecho + "Extraer aquí"
 
 
-Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explorador de archivos y, dejando presionada la tecla 'Shift' seleccionas todos los archivos que vas a usar. Para esta primera parte del tutorial subiremos todos los archivos de la carpeta ["corpus completo"](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo)
+Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explorador de archivos y, dejando presionada la tecla 'Shift' seleccionas todos los archivos que vas a usar. Para esta primera parte del tutorial subiremos todos los archivos de la carpeta ["corpus completo"](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo).
 
 ![Cargar documentos](img/cargar.png)
 
@@ -337,7 +337,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY0ODQwODEsMTc4MTE0NjY3MSwtMT
+eyJoaXN0b3J5IjpbLTE1OTcxODEzNjEsMTc4MTE0NjY3MSwtMT
 EzNTY0NDM3MCwtMTUxODAyMTA1MiwtMTAzMDM1NTc1OCwtNjQw
 NTkxNjU4LDE5MjEyMDI3NjMsMTA5MzQ2MjY4MSw5ODg2NTQ4MT
 MsMTEzMzMxNzk0NiwxMTY0NzI4MTYxLDE3MzM5NTM1NDYsLTIy
