@@ -234,6 +234,10 @@ Veamos cómo funciona esto en Voyant Tools:
 
 2. Si ordenas las columnas en orden descendiente como lo harías en Excel, observarás que el orden de la frecuencia bruta ('Contar') y la frecuencia relativa ('Relativo') el orden es el mismo. ¿Para qué nos sirve entonces esta medida? Para cuando comparamos diferentes corpus. Un corpus es un conjunto de textos con algo en común. En este caso, Voyant está interpretando todos los discursos como un solo corpus. Si quisiéramos que cada cada país fuera un corpus distinto, tendríamos que guardar nuestro texto en una tabla, en HTML o en XML, donde los metadatos estuvieran expresados en columnas (en el caso de la tabla) o en etiquetas (en el caso de HTML o XML). Para más información, consulta la documentación en inglés.<sup>1</sup>
 
+#### Asimetría estadística
+
+!https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png
+
 #### Palabras diferenciadas
 
 Como tal vez ya sospechas, la información más interesante generalmente no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. En el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
@@ -337,11 +341,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMyODI4MiwxNzgxMTQ2NjcxLC0xMT
-M1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1
-OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMy
-wxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3
-MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MDUxODUwMD
-UsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIsMTg5MTE5NjA1Niwx
-NzI4NDc5NDQ5XX0=
+eyJoaXN0b3J5IjpbLTE4MDM4ODA5NTQsLTE2ODMyODI4MiwxNz
+gxMTQ2NjcxLC0xMTM1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMw
+MzU1NzU4LC02NDA1OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNj
+gxLDk4ODY1NDgxMywxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTcz
+Mzk1MzU0NiwtMjI3MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzND
+I4LC02MDUxODUwMDUsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIs
+MTg5MTE5NjA1Nl19
 -->
