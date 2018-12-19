@@ -14,12 +14,12 @@ Al finalizar este tutorial, tendrás la capacidad de:
 * Armar un corpus en texto plano
 * Pensar y aplicar diferentes técnicas de segmentación de corpus
 * Identificar características básicas del corpus:
-	* Extensión de los documentos subidos
-	* Densidad léxica (llamada densidad de vocabulario en la plataforma)
+	* Extensión de los documentos subidos a la plataforma
+	* Densidad léxica (llamada "densidad de vocabulario" en Voyant)
 	* Promedio de palabras por oración
 	* Relevancia (llamadas "palabras distintivas")
-* Realizar consultas específicas sobre el corpus:
 	* Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia y asimetría estadística)
+* Realizar consultas específicas sobre el corpus:
 	*  Buscar palabras clave en contexto
 	* Identificar patrones de uso de un término
 
@@ -331,11 +331,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzNjE1NTY3LDE3ODExNDY2NzEsLTExMz
-U2NDQzNzAsLTE1MTgwMjEwNTIsLTEwMzAzNTU3NTgsLTY0MDU5
-MTY1OCwxOTIxMjAyNzYzLDEwOTM0NjI2ODEsOTg4NjU0ODEzLD
-ExMzMzMTc5NDYsMTE2NDcyODE2MSwxNzMzOTUzNTQ2LC0yMjcy
-MzIwMTgsNDUzNTMwMTYyLDEyMTQ1ODM0MjgsLTYwNTE4NTAwNS
-wtMjE0MTQ2MDY1NiwtMjEzNTExOTQxMiwxODkxMTk2MDU2LDE3
-Mjg0Nzk0NDldfQ==
+eyJoaXN0b3J5IjpbMTU4NjkxOTg3NywxNzgxMTQ2NjcxLC0xMT
+M1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1
+OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMy
+wxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3
+MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MDUxODUwMD
+UsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIsMTg5MTE5NjA1Niwx
+NzI4NDc5NDQ5XX0=
 -->
