@@ -243,7 +243,8 @@ Esta medida nos da una idea de la distribución de probabilidad de una variable 
 
 ![Asimetría Estadística, imagen de ](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png)
 
-Para obtener esta medida en Voyant, tenemos que repetir los pasos que hicimos para obtener la frencuencia relativa, pero esta vez seleccionar "Oblicuidad" ("Skew").  E
+Para obtener esta medida en Voyant, tenemos que repetir los pasos que hicimos para obtener la frencuencia relativa, pero esta vez seleccionar "Oblicuidad" ("Skew").  Esta medida nos permite observar entonces, que la palabra "crisis" por ejemplo, a pesar de tener una alta frecuencia, no sólo no tiene una frecuencia constante a lo largo del corpus, sino que ésta tiende a estar por debajo de la media pues su asimetría estadística es positiva (1.9)
+
 #### Palabras diferenciadas
 
 Como tal vez ya sospechas, la información más interesante generalmente no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. En el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
@@ -347,7 +348,7 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk4MjgxOTksMTkxNjM5MzU4NCwxNj
+eyJoaXN0b3J5IjpbLTIwMjkxMzc3NzMsMTkxNjM5MzU4NCwxNj
 kxMzk2MTIwLC0xNjgzMjgyODIsMTc4MTE0NjY3MSwtMTEzNTY0
 NDM3MCwtMTUxODAyMTA1MiwtMTAzMDM1NTc1OCwtNjQwNTkxNj
 U4LDE5MjEyMDI3NjMsMTA5MzQ2MjY4MSw5ODg2NTQ4MTMsMTEz
