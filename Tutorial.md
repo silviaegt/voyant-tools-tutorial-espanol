@@ -31,12 +31,12 @@ Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, 
 
 ### 1. Buscar textos
 
-Para armar un corpus lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos presidenciales anuales de Argentina, Chile, Colombia, México y Perú (este último gracias a [Pamela Sertzen](https://twitter.com/madvivacious)) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008. Lo único que hicimos fue buscar en Google 
+Para armar un corpus lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos presidenciales anuales de Argentina, Chile, Colombia, México y Perú (este último gracias a [Pamela Sertzen](https://twitter.com/madvivacious)) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008. Lo único que hicimos fue buscar en Google los discursos anuales de las y los presidentes de este periodo y tomar los textos de las páginas gubernamentales de cada país.
 
 ### 2. Copiar en editor de texto plano
 Una vez localizada la información, el segundo paso es copiar el texto que te interesa desde la primera palabra dicha hasta la última y guardarla en un editor de texto sin formato. Por ejemplo:
 * en Windows podría guardarse en [Bloc de Notas](https://web.archive.org/web/20091013225307/http://windows.microsoft.com/en-us/windows-vista/Notepad-frequently-asked-questions)
-* en Mac, en [TextEdit](https://support.apple.com/es-mx/guide/textedit/welcome/mac); 
+* en equipos con Mac, en [TextEdit](https://support.apple.com/es-mx/guide/textedit/welcome/mac); 
 * y en Linux, en [Gedit](https://wiki.gnome.org/Apps/Gedit).
 
 ### 3. Guardar archivo
@@ -332,11 +332,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUzOTYxNTIsMTc4MTE0NjY3MSwtMT
-EzNTY0NDM3MCwtMTUxODAyMTA1MiwtMTAzMDM1NTc1OCwtNjQw
-NTkxNjU4LDE5MjEyMDI3NjMsMTA5MzQ2MjY4MSw5ODg2NTQ4MT
-MsMTEzMzMxNzk0NiwxMTY0NzI4MTYxLDE3MzM5NTM1NDYsLTIy
-NzIzMjAxOCw0NTM1MzAxNjIsMTIxNDU4MzQyOCwtNjA1MTg1MD
-A1LC0yMTQxNDYwNjU2LC0yMTM1MTE5NDEyLDE4OTExOTYwNTYs
-MTcyODQ3OTQ0OV19
+eyJoaXN0b3J5IjpbODY1Mzk1NjE5LDE3ODExNDY2NzEsLTExMz
+U2NDQzNzAsLTE1MTgwMjEwNTIsLTEwMzAzNTU3NTgsLTY0MDU5
+MTY1OCwxOTIxMjAyNzYzLDEwOTM0NjI2ODEsOTg4NjU0ODEzLD
+ExMzMzMTc5NDYsMTE2NDcyODE2MSwxNzMzOTUzNTQ2LC0yMjcy
+MzIwMTgsNDUzNTMwMTYyLDEyMTQ1ODM0MjgsLTYwNTE4NTAwNS
+wtMjE0MTQ2MDY1NiwtMjEzNTExOTQxMiwxODkxMTk2MDU2LDE3
+Mjg0Nzk0NDldfQ==
 -->
