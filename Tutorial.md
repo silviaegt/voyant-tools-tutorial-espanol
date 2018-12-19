@@ -236,7 +236,7 @@ Veamos cómo funciona esto en Voyant Tools:
 
 #### Asimetría estadística
 
-
+Para que no se d
 
 ![Asimetría Estadística, imagen de ](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png)
 
@@ -343,11 +343,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk2MTk2MDIsLTE2ODMyODI4MiwxNz
-gxMTQ2NjcxLC0xMTM1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMw
-MzU1NzU4LC02NDA1OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNj
-gxLDk4ODY1NDgxMywxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTcz
-Mzk1MzU0NiwtMjI3MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzND
-I4LC02MDUxODUwMDUsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIs
-MTg5MTE5NjA1Nl19
+eyJoaXN0b3J5IjpbMTY5MTM5NjEyMCwtMTY4MzI4MjgyLDE3OD
+ExNDY2NzEsLTExMzU2NDQzNzAsLTE1MTgwMjEwNTIsLTEwMzAz
+NTU3NTgsLTY0MDU5MTY1OCwxOTIxMjAyNzYzLDEwOTM0NjI2OD
+EsOTg4NjU0ODEzLDExMzMzMTc5NDYsMTE2NDcyODE2MSwxNzMz
+OTUzNTQ2LC0yMjcyMzIwMTgsNDUzNTMwMTYyLDEyMTQ1ODM0Mj
+gsLTYwNTE4NTAwNSwtMjE0MTQ2MDY1NiwtMjEzNTExOTQxMiwx
+ODkxMTk2MDU2XX0=
 -->
