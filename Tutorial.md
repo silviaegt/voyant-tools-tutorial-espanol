@@ -89,8 +89,8 @@ Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explo
 
 ## Explorando el corpus
 
+Una vez cargados todos los archivos llegarás a la 'interfaz' ('skin') que tiene cinco herramientas por defecto. A continuación, una breve explicación de cada una de estas herramientas:
 
-Una vez cargados todos los archivos llegará a la 'interfaz' ('skin') que tiene cinco herramientas por defecto.
 1. Cirrus: tipo de nube de palabras que muestra los términos más frecuentes
 ![Cirrus](img/cirrus.png)
 
@@ -337,11 +337,11 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 <sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTcxODEzNjEsMTc4MTE0NjY3MSwtMT
-EzNTY0NDM3MCwtMTUxODAyMTA1MiwtMTAzMDM1NTc1OCwtNjQw
-NTkxNjU4LDE5MjEyMDI3NjMsMTA5MzQ2MjY4MSw5ODg2NTQ4MT
-MsMTEzMzMxNzk0NiwxMTY0NzI4MTYxLDE3MzM5NTM1NDYsLTIy
-NzIzMjAxOCw0NTM1MzAxNjIsMTIxNDU4MzQyOCwtNjA1MTg1MD
-A1LC0yMTQxNDYwNjU2LC0yMTM1MTE5NDEyLDE4OTExOTYwNTYs
-MTcyODQ3OTQ0OV19
+eyJoaXN0b3J5IjpbLTE2ODMyODI4MiwxNzgxMTQ2NjcxLC0xMT
+M1NjQ0MzcwLC0xNTE4MDIxMDUyLC0xMDMwMzU1NzU4LC02NDA1
+OTE2NTgsMTkyMTIwMjc2MywxMDkzNDYyNjgxLDk4ODY1NDgxMy
+wxMTMzMzE3OTQ2LDExNjQ3MjgxNjEsMTczMzk1MzU0NiwtMjI3
+MjMyMDE4LDQ1MzUzMDE2MiwxMjE0NTgzNDI4LC02MDUxODUwMD
+UsLTIxNDE0NjA2NTYsLTIxMzUxMTk0MTIsMTg5MTE5NjA1Niwx
+NzI4NDc5NDQ5XX0=
 -->
