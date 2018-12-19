@@ -79,10 +79,10 @@ Una tercera opción es “Abrir” alguno de los dos corpus que Voyant tiene pre
 <strong>Para descomprimir en Mac</strong> da doble clic sobre el archivo comprimido<br>
 <strong>Para descomprimir en Linux</strong> botón derecho + “Extraer aquí”</p>
 </blockquote>
-<p>Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explorador de archivos y, dejando presionada la tecla ‘Shift’ seleccionas todos los archivos que vas a usar. Para esta primera parte del tutorial subiremos todos los archivos de la carpeta <a href="https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo">“corpus completo”</a></p>
+<p>Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explorador de archivos y, dejando presionada la tecla ‘Shift’ seleccionas todos los archivos que vas a usar. Para esta primera parte del tutorial subiremos todos los archivos de la carpeta <a href="https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo">“corpus completo”</a>.</p>
 <p><img src="img/cargar.png" alt="Cargar documentos"></p>
 <h2 id="explorando-el-corpus">Explorando el corpus</h2>
-<p>Una vez cargados todos los archivos llegará a la ‘interfaz’ (‘skin’) que tiene cinco herramientas por defecto.</p>
+<p>Una vez cargados todos los archivos llegarás a la ‘interfaz’ (‘skin’) que tiene cinco herramientas por defecto. A continuación, una breve explicación de cada una de estas herramientas:</p>
 <ol>
 <li>
 <p>Cirrus: tipo de nube de palabras que muestra los términos más frecuentes<br>
