@@ -38,7 +38,7 @@ Desde el inicio de la informática, lingüistas computacionales y especialistas 
 
 ## Qué aprenderás en este tutorial
 
-Voyant Tools es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet. 
+Voyant Tools es una herramienta basada en Web y no requiere de la instalación de ningún tipo de software especializado pues funciona en cualquier equipo con conexión a internet.
 
 Como se ha dicho en este otro [tutorial](https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc), esta herramienta es la puerta de entrada perfecta a otros métodos más complejos.
 
@@ -47,14 +47,14 @@ Al finalizar este tutorial, tendrás la capacidad de:
 * Armar un corpus en texto plano
 * Pensar y aplicar diferentes técnicas de segmentación de corpus
 * Identificar características básicas del corpus:
-	* Extensión de los documentos subidos
-	* Densidad léxica (llamada densidad de vocabulario en la plataforma)
-	* Promedio de palabras por oración
-	* Relevancia (llamadas "palabras distintivas")
+* Extensión de los documentos subidos
+* Densidad léxica (llamada densidad de vocabulario en la plataforma)
+* Promedio de palabras por oración
+* Relevancia (llamadas "palabras distintivas")
 * Realizar consultas específicas sobre el corpus:
-	*  Buscar palabras clave en contexto
-	* Identificar patrones de uso de un término
-	* Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia, curtosis, asimetría estadística)
+*  Buscar palabras clave en contexto
+* Identificar patrones de uso de un término
+* Leer diferentes estadísticas sobre los vocablos (frecuencia absoluta y relativa, tendencia, curtosis, asimetría estadística)
 * Exportar los datos y las visualizaciones en diferentes formatos (csv, png, html)
 
 ## Creando un corpus en texto plano
@@ -62,12 +62,12 @@ Al finalizar este tutorial, tendrás la capacidad de:
 Si bien VoyantTools puede trabajar con muchos tipos de formato (HTML, XML, PDF, RTF, y MS Word); en este tutorial utilizaramos texto plano. El texto plano tienen tres ventajas fundamentales: no tiene ningún tipo de formato adicional, no requiere un programa especial y tampoco  o conocimiento extra.
 
 ### 1. Buscar textos
-Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos anuales de presidentes de Argentina, Chile, Colombia, México y Perú (¡gracias [Pamela Sertzen](https://twitter.com/madvivacious)!) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008. 
+Lo primero que debes hacer es buscar la información que te interesa. Para este tutorial, [Riva Quiroga](https://twitter.com/rivaquiroga) y yo preparamos un corpus de los discursos anuales de presidentes de Argentina, Chile, Colombia, México y Perú (¡gracias [Pamela Sertzen](https://twitter.com/madvivacious)!) entre 2006 y 2010, es decir dos años antes y después de la crisis económica de 2008.
 
 ### 2. Copiar en editor de texto plano
 Una vez localizada la información, el segundo paso es copiar el texto que te interesa desde la primera palabra dicha hasta la última y guardarla en un editor de texto sin formato. Por ejemplo:
 * en Windows podría guardarse en [Bloc de Notas](https://web.archive.org/web/20091013225307/http://windows.microsoft.com/en-us/windows-vista/Notepad-frequently-asked-questions)
-* en Mac, en [TextEdit](https://support.apple.com/es-mx/guide/textedit/welcome/mac); 
+* en Mac, en [TextEdit](https://support.apple.com/es-mx/guide/textedit/welcome/mac);
 * y en Linux, en [Gedit](https://wiki.gnome.org/Apps/Gedit).
 
 ### 3. Guardar archivo
@@ -92,18 +92,18 @@ La segunda es que **el nombre de tu archivo no debe contener acentos ni espacios
 
 > **¿Por qué evitar acentos y espacios en los nombres de archivo?** Por razones similares a el inciso anterior, un archivo que se llame Ébano.txt no siempre será entendido de forma correcta por todos los sistemas operativos pues varios tienen otro codificador por defecto. Muchos usan ASCII, por ejemplo, que sólo tiene siete bits de manera que el último bit (1) de "11000011" es interpretado como el inicio del siguiente caracter y se descuadra la interpretación.
 
-La tercera es que es una buena práctica integrar ciertos metadatos de contexto (v.g. fecha, género, autor, origen) en el nombre del archivo que te permitan partir tu corpus según diferentes criterios y también leer mejor los resultados. Para este tutorial hemos nombrado los archivos con el año del discurso presidencial, el 
-código del país ([ISO 3166-1 alfa-2](https://www.iso.org/obp/ui/#search)) y el apellido de quien profirió el disurso. 
+La tercera es que es una buena práctica integrar ciertos metadatos de contexto (v.g. fecha, género, autor, origen) en el nombre del archivo que te permitan partir tu corpus según diferentes criterios y también leer mejor los resultados. Para este tutorial hemos nombrado los archivos con el año del discurso presidencial, el
+código del país ([ISO 3166-1 alfa-2](https://www.iso.org/obp/ui/#search)) y el apellido de quien profirió el disurso.
 
-> [2007_mx_calderon.txt](https://github.com/corpusenespanol/discursos-presidenciales/blob/master/mexico/2007_mx_calderon.txt "2007_mx_calderon.txt") tiene el año del discurso dividido con un guión bajo, el código de dos letras del país (México = mx) y el apellido del presidente que dictó el discurso, Calderón, (sin acentos ni eñes) 
+> [2007_mx_calderon.txt](https://github.com/corpusenespanol/discursos-presidenciales/blob/master/mexico/2007_mx_calderon.txt "2007_mx_calderon.txt") tiene el año del discurso dividido con un guión bajo, el código de dos letras del país (México = mx) y el apellido del presidente que dictó el discurso, Calderón, (sin acentos ni eñes)
 
 ## Cargar el corpus
 
 
-En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones son en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar. 
+En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones son en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar.
 Una tercera opción es "Abrir" alguno de los dos corpus que Voyant tiene precargados (las obras de Shakespeare o las novelas de Austen: ambos en inglés).
 
-Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el [corpus completo](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo) de discursos presidenciales. 
+Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el [corpus completo](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo) de discursos presidenciales.
 
 >  **Para obtener los materiales** de este tutorial ve [a esta página de Github](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo)  y descarga todos los archivos:
 
@@ -126,34 +126,32 @@ Para cargar los materiales pulsas sobre el icono que dice cargar, abres tu explo
 Una vez cargados todos los archivos llegarás a la 'interfaz' ('skin') que tiene cinco herramientas por defecto. A continuación, una breve explicación de cada una de estas herramientas:
 
 1. Cirrus: tipo de nube de palabras que muestra los términos más frecuentes
-![Cirrus](img/cirrus.png)
+{% include figure.html filename="img/cirrus.png" caption="Cirrus" %}
 
 2. Lector: espacio para la revisión y lectura de los textos completos con una gráfica de barras que indica la cantidad de texto que tiene cada documento
-
-![Lector](img/lector.png)
+{% include figure.html filename="img/lector.png" caption="Lector" %}
 
 3. Tendencias: gráfico de distribución que muestra los términos en todo el corpus (o dentro de un documento cuando sólo se carga uno)
-
-![Lector](img/tendencias.png)
+{% include figure.html filename="img/tendencias.png" caption="Tendencias" %}
 
 4. Sumario: proporciona una visión general de ciertas estadísticas textuales del corpus actual
-![Resumen](img/sumario.png)
+{% include figure.html filename="img/sumario.png" caption="Sumario" %}
 
 5. Contextos: concordancia que muestra cada ocurrencia de una palabra clave con un poco de contexto circundante
-![Contextos](img/contextos.png)
+{% include figure.html filename="img/contextos.png" caption="Contextos" %}
 
-### Sumario de los documentos 
+### Sumario de los documentos
 
 Una de las ventanas más informativas de Voyant es la del sumario. Aquí obtenemos una vista de pájaro sobre algunas estadísticas de nuestro corpus por lo que funciona como un buen punto de partida.
 
 #### Número de textos, palabras y palabras únicas
-La primera frase que leemos se ve algo como esto: 
+La primera frase que leemos se ve algo como esto:
 >Este corpus tiene 25 documentos con 261,032  total de palabras y 18,550 formulario de palabra única. Creado  hace 8 horas atrás [el texto es producto de una traducción semi-automática del inglés y por eso se lee raro]
 
 De entrada con esta información sabemos exactamente cuántos documentos distintos fueron cargados (25); cuántas palabras en total hay (261,032); y cuántas palabras distintas y únicas existen (18,550).
 
 #### :pencil2: *Actividad 1*
-Si nuestro corpus estuviera compuesto de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario? 
+Si nuestro corpus estuviera compuesto de dos documentos; uno que dijera: "tengo hambre"; y otro que dijera: "tengo sueño". ¿Qué información aparecería en la primera línea del sumario?
 Este corpus tiene ____ documentos con un total de palabras de ____ y ____ palabras únicas.
 
 #### Extensión de documentos
@@ -176,8 +174,8 @@ La densidad de vocubulario se mide dividiendo el número de palabras distintas e
 1. Calcula la densidad de las siguientes estrofas, compara y comenta:
 
 * Estrofa 1.
->¿Qué humor puede ser más raro 
-que el que, falto de consejo, 
+>¿Qué humor puede ser más raro
+que el que, falto de consejo,
 él mismo empaña el espejo,
 y siente que no esté claro?
 
@@ -203,9 +201,9 @@ La forma en Voyant calcula la longitud de las oraciones debe considerarse muy ap
 #### Palabras más frecuentes y palabras diferenciadas
 (volveremos a este inciso en la siguiente sección)
 
-### Términos frecuentes 
+### Términos frecuentes
 
-Ya que tenemos una idea de algunas características globales de nuestros documentos, es momento de que empecemos con las características de los conceptos en nuestro corpus. El primer aspecto con el que vamos a trabajar es con el de **frecuencia** y para esto utilizaremos la ventana de Cirrus. 
+Ya que tenemos una idea de algunas características globales de nuestros documentos, es momento de que empecemos con las características de los conceptos en nuestro corpus. El primer aspecto con el que vamos a trabajar es con el de **frecuencia** y para esto utilizaremos la ventana de Cirrus.
 
 #### :pencil2: *Actividad 5*
 a) ¿Qué palabras son las más frecuente en el corpus?
@@ -220,20 +218,17 @@ a) ¿Qué palabras vacías están en la nube de palabras?
 b) ¿Cuáles eliminarías y por qué?
 
 Voyant tiene ya cargada una lista de _stop words_ o palabras vacías; no obstante, nosotros podemos editarla de la siguiente manera:
-Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos clic sobre el icono que parece un interruptor. 
-
-![Abrir opciones](img/editar_lista.png)
+Colocamos nuestro cursor enor superior derecha de la ventana de Cirrus. Y damos clic sobre el icono que parece un interruptor.
+{% include figure.html filename="img/editar_lista.png" caption="Abrir opciones" %}
 
 Aparecerá una ventana con diferentes opciones, seleccionamos la primera "Editar lista"
-
-![Editar lista](img/editarlista.png)
+{% include figure.html filename="img/editarlista.png" caption="Editar lista" %}
 
 Agregamos las palabras “vacías”, siempre separadas por un salto de línea (tecla enter)
+{% include figure.html filename="img/lista_ruido.png" caption="Quitar palabras vacías" %}
 
-![Editar palabras vacías](img/lista_ruido.png)
+Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en "salvar".
 
-Una vez que hayamos añadido las palabras que deseamos filtrar damos clic en "salvar". 
-  
 >    **Ojo** por defecto está seleccionado una caja que dice "Aplicar a todo"; si ésta se deja seleccionada el filtrado afectará las métricas de todas las otras herramienta. Es muy importante que documentes tus decisiones. Una buena práctica es guardar la lista de palabras vacías en un archivo de texto (.txt) Para este tutorial hemos creado una lista de palabras para filtrar y la puedes usar si así lo quieres, sólo recuerda que esto afectará tus resultados. Por ejemplo: en la lista de palabras filtradas incluí "todas" y "todos", habrá personas para las que estas palabras podrían ser interesantes dado que muestran que "todos" es mucho más utilizado que "todas" y esto podría darnos pistas sobre el uso de lenguaje incluyente.
 
 #### Palabras más frecuentes
@@ -244,13 +239,13 @@ Volvamos entonces a esta sección del sumario. Como dijimos en el iniciso anteri
 
 #### :pencil2: *Actividad 7*
 
-1. Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue esta información de la que obtienes viendo la nube de palabras. 
+1. Reflexiona sobre estas palabras y piensa qué información te proporcionan y cómo se distingue esta información de la que obtienes viendo la nube de palabras.
 2. Si estás en un grupo discute las diferencias de tus resultados con los de los demás
 
 #### Frecuencia Normalizada
 
-En el apartado anterior hemos observado la "frecuencia bruta" de las palabras. 
-Ahora, si tuviéramos un corpus de seis palabras y otro de 3,000 palabras, las frecuencias brutas son poco informativas. Tres palabras en un corpus de seis palabras representa 50% del total, tres palabras en un corpus de 6,000 representan el 0.1% del total. 
+En el apartado anterior hemos observado la "frecuencia bruta" de las palabras.
+Ahora, si tuviéramos un corpus de seis palabras y otro de 3,000 palabras, las frecuencias brutas son poco informativas. Tres palabras en un corpus de seis palabras representa 50% del total, tres palabras en un corpus de 6,000 representan el 0.1% del total.
 Para evitar la sobre-representación de un término, los lingüistas han ideado otra medida que se llama: "frecuencia relativa normalizada".
 Ésta se calcula de la siguiente manera:
 Frecuencia Bruta * 1,000,000 / Número total de palabras.
@@ -264,7 +259,8 @@ Analicemos un verso como ejemplo. Tomemos la frase: "pero mi corazón dice que n
 
 Veamos cómo funciona esto en Voyant Tools:
 1. En la sección de Cirrus (la nube de palabras), damos clic sobre 'Terms' o 'Términos'. Esto abrirá una tabla que por defecto tiene tres columnas: Términos (con la lista de palabras en los documentos, sin las filtradas), Contar (con la 'frecuencia bruta o neta' de cada término) y Tendencia (con una gráfica de la distribución de una palabra tomando su frecuencia relativa). Para obtener información sobre la frecuencia relativa de un término, en la barra de los nombres de columna, en el extremo derecho, se da clic sobre el triángulo que ofrece más opciones y en 'Columnas' se selecciona la opción 'Relativo' como se muestra en la imagen a continuación:
-![Editar palabras vacías](img/frecuencia_relativa.png)
+
+{% include figure.html filename="img/frecuencia_relativa.png" caption="Frecuencia relativa" %}
 
 2. Si ordenas las columnas en orden descendiente como lo harías en Excel, observarás que el orden de la frecuencia bruta ('Contar') y la frecuencia relativa ('Relativo') el orden es el mismo. ¿Para qué nos sirve entonces esta medida? Para cuando comparamos diferentes corpus. Un corpus es un conjunto de textos con algo en común. En este caso, Voyant está interpretando todos los discursos como un solo corpus. Si quisiéramos que cada cada país fuera un corpus distinto, tendríamos que guardar nuestro texto en una tabla, en HTML o en XML, donde los metadatos estuvieran expresados en columnas (en el caso de la tabla) o en etiquetas (en el caso de HTML o XML). Para más información, consulta la documentación en inglés.<sup>1</sup>
 
@@ -274,8 +270,7 @@ Aunque la frecuencia relativa no sirve para entender la distribución de nuestro
 
 Esta medida nos da una idea de la distribución de probabilidad de una variable sin tener que hacer su representación gráfica. La forma en que se calcula es observando las desviaciones de una frecuencia con respecto a la media, para obtener si son mayores las que ocurren a la derecha de la media (asimetría negativa) que las de la izquierda (asimetría positiva). Entre más cercano a cero sea el grado de la asimetría estadística, significa que la distribución de ese término es más regular (es decir que ocurre con una media muy similar en todos los documentos). Algo que no es muy intuitivo es que si un término tiene una asimetría estadística con **números positivos** significan que ese término está **por debajo** de la media, y entre más grande el número más asimétrico es el término (es decir, que ocurre muchísimo en un documento pero que casi no ocurre en el corpus). Los **números negativos**, por el contrario, indican que ese término tiende a estar **por arriba** de la media.
 
-
-![Asimetría Estadística, imagen de ](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png)
+{% include figure.html filename="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Posiciones_relativas_de_par%C3%A1metros_centrales.svg/500px-Posiciones_relativas_de_par%C3%A1metros_centrales.svg.png" caption="Asimetría estadística" %}
 
 Para obtener esta medida en Voyant, tenemos que repetir los pasos que hicimos para obtener la frencuencia relativa, pero esta vez seleccionar "Oblicuidad" ("Skew").  Esta medida nos permite observar entonces, que la palabra "crisis" por ejemplo, a pesar de tener una alta frecuencia, no sólo no tiene una frecuencia constante a lo largo del corpus, sino que ésta tiende a estar por debajo de la media pues su asimetría estadística es positiva (1.9).
 
@@ -283,15 +278,14 @@ Para obtener esta medida en Voyant, tenemos que repetir los pasos que hicimos pa
 
 Como tal vez ya sospechas, la información más interesante generalmente no se encuentra dentro de las palabras más frecuentes, pues éstas tienden a ser también las más evidentes. En el campo de la recuperación de la información se han inventado otras medidas que permiten ubicar los términos que hacen que un documento se distinga de otro. Una de las medidas más usadas se llama tf-idf (term frequency, inverse document frequency); la cual busca expresar numéricamente qué tan relevante es un documento en una colección determinada.
 
-En Voyant el tfidf se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784): 
+En Voyant el tfidf se calcula [de la siguiente manera](https://twitter.com/VoyantTools/status/1025458748574326784):
 
 Frecuencia Bruta  (tf) / Número de Palabras (N)  * log10( Total número de Documentos / termInDocsCount
-
-![Fórmula de TF-IDF](img/tf_idf.png)
+{% include figure.html filename="img/tf_idf.png" caption="Fórmula de TF-IDF" %}
 
 #### :pencil2: *Actividad 8*
 
-Observa las **palabras diferenciadas  (comparado con el resto del corpus)** de cada uno de los documentos y anota qué hipótesis puedes derivar de ellas 
+Observa las **palabras diferenciadas  (comparado con el resto del corpus)** de cada uno de los documentos y anota qué hipótesis puedes derivar de ellas
 
 1.  [2006_ar_kircher](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#):  [uruguay](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (12),  [2004](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (13),  [2005](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (31),  [plata](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (7),  [inclusión](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (16).
 2.  [2006_cl_bachelet](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#):  [innovación](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (15),  [rodrigo](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (8),  [alegremente](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (4),  [barrios](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (9),  [cobre](https://voyant-tools.org/?corpus=77227f21c006f5ef083d820d77667627#)  (10).
@@ -326,15 +320,14 @@ La tabla que vemos tiene las siguientes columnas predeterminadas:
 4. **Derecha**: contexto derecho
 
 Se puede añadir la columna **Posición** que indica el lugar en el documento en el que se encuentra el término consultado:
-
-![Agregar columna de posición](img/posicion.png)
+{% include figure.html filename="img/posicion.png" caption="Agregar columna de posición" %}
 
 > **Consulta avanzada** Voyant permite el uso de comodines para buscar variaciones de una palabra. Estas son algunas de las combinaciones
 > * **famili***: esta consulta arrojará todas las palabras que empiecen con el prefijo "famili" (familias, familiares, familiar, familia)
 > * ***ción**: términos que terminan con el sufijo "ción" (contaminación, militarización, fabricación)
 > * **pobreza, desigualdad**: puedes buscar más de un término separándolos por comas* avena: términos coincidentes que terminan con el sufijo avena como un término
 > **"contra la pobreza"**: buscar la frase exacta
->  **"pobreza extrema"~ 5**:  buscar los términos dentro de las comillas, el orden no importa, y pueden haber hasta 5 palabras de por medio (esa condición regresaría frases cómo "la extrema desigualdad y la pobreza" donde se encuentra la palabra "pobreza" y "extrema" 
+>  **"pobreza extrema"~ 5**:  buscar los términos dentro de las comillas, el orden no importa, y pueden haber hasta 5 palabras de por medio (esa condición regresaría frases cómo "la extrema desigualdad y la pobreza" donde se encuentra la palabra "pobreza" y "extrema"
 
 #### :pencil2: *Actividad 9*
 1. Busca el uso de algún término que te parezca interesante, utiliza alguna de las estrategias de la consulta avanzada
@@ -343,14 +336,13 @@ Se puede añadir la columna **Posición** que indica el lugar en el documento en
 
 #### Exportando las tablas
 Para exportar los datos se da clic en el cuadro con flecha que aparece cuando pasas el cursor sobre la esquina derecha de "Contextos". En seguida se selecciona la opción “Exportar datos actuales” y se da clic sobre la última opción **[ExportGridAllTsv]**
-  
-Eso lleva a una página donde están separados los campos por un tabulador:
 
-![Exportar contextos](img/exportar_contextos.png)
+Eso lleva a una página donde están separados los campos por un tabulador:
+{% include figure.html filename="img/exportar_contextos.png" caption="Exportar contextos" %}
+
 
 Selecciona todos los datos (Ctrl+A o Ctrl+E); copiálos (Ctrl+C) y pégalos en una hoja de cálculo (Ctrl+V). Si esto no funciona, guarda los datos como en un editor sencillo de texto como .txt (¡no olvides la codificación UTF-8) y luego en tu hoja de cálculo importa los datos. En Excel esto se hace en la pestaña de "Datos" y después “Desde un archivo de texto”
-
-![Importar datos desde un archivo de texto](img/datos_archivo_de_texto.png)
+{% include figure.html filename="img/datos_archivo_de_texto.png" caption="Importar datos desde un archivo de textos" %}
 
 ## Respuestas a las actividades
 
