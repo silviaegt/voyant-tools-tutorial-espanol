@@ -25,6 +25,14 @@ title: Análisis de corpus con Voyant Tools
  abstract: [DEJAR EN BLANCO]
  ---
 
+ ## Contenidos
+ {:.no_toc}
+
+ * TOC
+ {:toc}
+
+# Contenidos
+
 # Análisis de corpus con Voyant Tools
 
 En este tutorial se aprenderán los principios de creación de un conjunto de textos sobre el que queremos hacer ciertas indagaciones –es decir, de un corpus– y las métrica principales del análisis cuantitativo de estos textos a través de una plataforma sencilla de usar que no requiere instalación: [Voyant Tools](https://voyant-tools.org) (Sinclair y Rockwell, 2016). Está pensado como un primer paso en una serie cada vez más compleja de operaciones que podemos aprender a aplicar sobre nuestros textos. En este sentido, podría considerarse este tutorial como el primero en una serie de tres, donde el segundo es "[Análisis de corpus con Antconc](https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc)" y el tercero "[Análisis de corpus con R](https://programminghistorian.org/es/lecciones/)".
@@ -100,7 +108,7 @@ código del país ([ISO 3166-1 alfa-2](https://www.iso.org/obp/ui/#search)) y el
 ## Cargar el corpus
 
 
-En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.<sup>1</sup> Las dos primeras opciones son en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar.
+En la página de entrada de Voyant Tools encontrarás cuatro opciones sencillas para cargar textos.[^1] Las dos primeras opciones son en el cuadro blanco. En este cuadro puedes pegar directamente un texto que hayas copiado de algún lugar; o bien, pegar la(s) dirección(es) web --separadas por comas-- de los sitios en donde se encuentren los textos que quieres analizar.
 Una tercera opción es "Abrir" alguno de los dos corpus que Voyant tiene precargados (las obras de Shakespeare o las novelas de Austen: ambos en inglés).
 
 Por último, está la opción que usaremos en este tutorial, en la que puedes cargar directamente los documentos que tengas en tu computadora. En este caso subiremos el [corpus completo](https://github.com/corpusenespanol/discursos-presidenciales/tree/master/corpus-completo) de discursos presidenciales.
@@ -372,4 +380,4 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016.  _Voyant Tools_. Web. [http://voy
 
 ## Notas al pie
 
-<sup>1</sup> Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
+[^1] Existen formas más complejas para cargar el corpus que [puedes consultar en la documentación en inglés](https://voyant-tools.org/docs/#!/guide/corpuscreator)
